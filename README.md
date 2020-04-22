@@ -2,7 +2,7 @@
 [Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)   
 [Meterials I am going to use](#Meterials-I-am-going-to-use)   
 [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
-[Week/Daily Plan Logs](#Week\/Daily-Plan-Logs)   
+[Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
 [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
 [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
 [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
