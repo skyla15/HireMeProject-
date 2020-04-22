@@ -42,16 +42,16 @@ ___
 ### Week/Daily Plan Logs
 <details>  
   <summary><b> Logs </b></summary>
-    &nbsp<details>
+  <details>
     <summary><b>Week Goals</b></summary>
-    &nbsp;&nbsp;<details>
+    <details>
       <summary><b>Week #</b></summary>
       - dayily contents
     </details>
   </details>
-    &nbsp<details>
+  <details>
     <summary><b>Daily Goals : oo-oo</b></summary>
-    &nbsp;&nbsp;<details>
+    <details>
       <summary><b>Day #</b></summary>
       - dayily contents
     </details>
