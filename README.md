@@ -35,13 +35,13 @@ ___
   1.4. 파이썬 자료구조와 알고리즘 < 리뷰용 > 
 2. C++      
   2.1. [LearnCPP](https://www.learncpp.com)    
-3. ......Updating......
+3. ......Updating......   
 Database and others refer to Google [University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
 ___
 ### How to study and retain knowledge  
 1. Read a chapter of books above  
 2. Put it into an actual code  
-.... Updating ....
+3. .... Updating ....
 ___
   
 ### Coding Exercises/Challenges  
