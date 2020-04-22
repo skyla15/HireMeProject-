@@ -6,18 +6,28 @@ ___
 
 > [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)  
 
-> He says he studied about 8-12 hours a day, for several months. I bet that will also do for me
+> He says he studied about 8-12 hours a day, for several months. I bet that will also do for me  
+
+> I still need some research to find what I actually need besides computer science knowlege for __data science__        
+
 
 ___
 
 __Items here will cover__ <br> 
++ 'Fundamental C++'
 + 'Data Structures and Algorithms'<br> 
 + 'Database' <br> 
 + 'Basic Networking Theory and its simple implementation' <br> 
 + 'Basic knowledge of how computer actually works' <br> 
   + Computer Architecture & System Programming(Assembler) <br>
-
-__Meterials I am going to use are as below : __
++ (Optional) Backend,  
+  
+__Meterials I am going to use are as below:__  
+1. Coding Test and Interviews
+  1.1 Data Structure & Algorithms in Python ( T. Goodrich )   
+  1.2 Elements Of Programming Intervies in Python ( The insiders' Guide )     
+  1.3 Grokking Algorithms ( Aditya Y. Bhargava )    
+2. [LearnCPP](https://www.learncpp.com)
 
 
 
