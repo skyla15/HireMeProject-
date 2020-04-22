@@ -18,7 +18,7 @@ ___
 
 ___
 
-#### Items here will cover  
+### Items here will cover  
 + 'Fundamental C++'
 + 'Data Structures and Algorithms'<br> 
 + 'Database' <br> 
@@ -27,7 +27,7 @@ ___
   + Computer Architecture & System Programming(Assembler) <br>
 + (Optional) Backend,  
   
-#### Meterials I am going to use   
+### Meterials I am going to use   
 1. Coding Test and Interviews  
   1.1. Data Structure & Algorithms in Python ( T. Goodrich )     
   1.2. Elements Of Programming Intervies in Python ( The insiders' Guide )     
@@ -38,7 +38,7 @@ ___
 3. 
 
 
-#### Algorithmic Complexity / Big-O / Asymtotic Analysis   
+### Algorithmic Complexity / Big-O / Asymtotic Analysis   
 <details>
   <summary><b>contents</b></summary> 
   
@@ -66,7 +66,7 @@ ___
 </details>
    
    
-#### Data Structure & Algorithms in Python
+### Data Structure & Algorithms in Python
 <details>
   <summary><b> Contents </b></summary>  
   
@@ -141,21 +141,21 @@ ___
 </details>
    
    
-#### Object Oriented Programming
+### Object Oriented Programming
 - I am going to need to refer to Google University for basics for the first 
 <details>
   <summary><b>contents</b></summary>  
 </details>
    
     
-#### Database
+### Database
 - I am going to need to refer to Google University for basics for the first 
 <details>
   <summary><b>Database:</b></summary>  
  </details>
   
   
-#### Computer Architecture
+### Computer Architecture
 <details>
   <summary><b>Computer Architecture</b></summary>  
 </details>
