@@ -8,19 +8,13 @@
 7. [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
 
 ### Setting up TODO list for my coding interview 
-___
-
+___   
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
 > My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
-
 > [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)  
-
 > He says he studied about 8-12 hours a day, for several months. I bet that will also do for me  
-
 > I still need some research to find what I actually need besides computer science knowlege for __data science__          
-
-> I also think that priorities on which subject are also important  
-
+> I also think that priorities on which subject are also important   
 ___
 
 ### Items here will cover  
