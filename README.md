@@ -39,6 +39,9 @@ ___
 
 
 #### Algorithmic Complexity / Big-O / Asymtotic Analysis   
+<details>
+  <summary><b>contents</b></summary> 
+  
   - Nothing to implement     
   - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.  
   - If some of the lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge.  
@@ -59,6 +62,8 @@ ___
         - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)  
         - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)  
     - [ ] [Cheat sheet](http://bigocheatsheet.com/)
+
+</details>
    
    
 #### Data Structure & Algorithms in Python
