@@ -39,20 +39,18 @@ ___
 2. Put it into an actual code  
 3. .... Updating ....
 ___
-### Week/Daily Plans 
-<details>
-  <summary><b>Week Plans</b></summary>
-  
+### Week/Daily Plan Logs
+<details>  
   <details>
-    <summary><b>Week : oo-oo</b></summary>
+    <summary><b>Week Goals : oo-oo</b></summary>
+    - lets hit it
   </details>
-  
-  <summary><b>Day Plans</b></summary>
-  
   <details>
-    <summary><b>Week : oo-oo</b></summary>
+    <summary><b>Daily Goals : oo-oo</b></summary>
+    - lets hit it
   </details>
 </details> 
+
 ### Coding Exercises/Challenges  
 <details>
   <summary><b>Contents</b></summary>
