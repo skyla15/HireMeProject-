@@ -39,10 +39,27 @@ ___
 2. Put it into an actual code  
 3. .... Updating ....
 ___
+### Week/Daily Plans 
+<details>
+  <summary><b>Week Plans</b></summary>
+  
+  <details>
+    <summary><b>Week : oo-oo</b></summary>
+  </details>
+  
+  <summary><b>Day Plans</b></summary>
+  
+  <details>
+    <summary><b>Week : oo-oo</b></summary>
+  </details>
+</details> 
 ### Coding Exercises/Challenges  
 <details>
   <summary><b>Contents</b></summary>
-
+Korean Sites:
+-[Programmers](https://programmers.co.kr)
+  - 각 알고리즘 단계별 문제 있음 ( It has problems sorted by difficulty for algorithms ) 
+  - 각 챕터마다 하나씩 풀면 한 문제씩 풀기 ( Crack problems whenever I finish each chapter ) 
 - [How to Find a Solution](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-find-a-solution/)
 - [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-dissect-a-topcoder-problem-statement/)
 
