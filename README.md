@@ -12,7 +12,7 @@ ___
 
 > I also think that priorities on which subject are also important  
 > hear are how I am going to study   
-1. Algorithms and Datastructures & C++ basics review with the [Link](#Meterials I am going to use are as below:)
+1. Algorithms and Datastructures & C++ basics review with the [below](#Meterials-I-am-going-to-use)
 2. 
 
 ___
@@ -26,7 +26,7 @@ ___
   + Computer Architecture & System Programming(Assembler) <br>
 + (Optional) Backend,  
   
-#### Meterials I am going to use are as below:   
+#### Meterials I am going to use   
 1. Coding Test and Interviews  
   1.1. Data Structure & Algorithms in Python ( T. Goodrich )     
   1.2. Elements Of Programming Intervies in Python ( The insiders' Guide )     
