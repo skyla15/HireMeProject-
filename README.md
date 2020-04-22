@@ -11,10 +11,6 @@ ___
 > I still need some research to find what I actually need besides computer science knowlege for __data science__          
 
 > I also think that priorities on which subject are also important  
-> hear are how I am going to study   
-1. Algorithms and Datastructures & C++ basics review with the [meterials](#Meterials-I-am-going-to-use)
-2. Cracking the Coding Interview Questions on every website ( Competitve Coding )   
-3. 
 
 ___
 
@@ -36,14 +32,13 @@ ___
 2. C++      
   2.1. [LearnCPP](https://www.learncpp.com)    
 3. ......Updating......   
-Database and others refer to Google [University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
+Database and others refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
 ___
 ### How to study and retain knowledge  
-1. Read a chapter of books above  
+1. Read a chapter of [meterials](#Meterials-I-am-going-to-use)
 2. Put it into an actual code  
 3. .... Updating ....
 ___
-  
 ### Coding Exercises/Challenges  
 <details>
   <summary><b>Contents</b></summary>
