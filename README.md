@@ -113,7 +113,9 @@ Mock Interviews:
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
 
-</details></br>
+</details>
+
+___
 
 ### Algorithmic Complexity / Big-O / Asymtotic Analysis   
 <details>
@@ -140,8 +142,9 @@ Mock Interviews:
         - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)  
     - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
-</details></br>
-   
+</details>
+
+___  
    
 ### Data Structure & Algorithms in Python
 <details>
@@ -215,16 +218,19 @@ Mock Interviews:
       
 + NP, NP-Complete and Approximation [구글대학교 참고](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep)
       
-</details></br>
-    
-___   
-### Object Oriented Programming
+</details>
+
+___
+   
+### C++ 
 - I am going to need to refer to Google University for basics for the first 
 <details>
-  <summary><b>contents</b></summary>  
+  <summary><b>contents</b></summary> 
+  - [ ] Not Started Yet
 </details>
    
-    
+___      
+
 ### Database
 - I am going to need to refer to Google University for basics for the first 
 <details>
