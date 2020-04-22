@@ -1,3 +1,11 @@
+### Contents 
+[Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)   
+[Meterials I am going to use](#Meterials-I-am-going-to-use)   
+[How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
+[Week/Daily Plan Logs](#Week/Daily-Plan-Logs)   
+[Coding Exercises/Challenges](#Coding-Exercises/Challenges)  
+[Algorithmic Complexity / Big-O / Asymtotic Analysis(#Algorithmic-Complexity-/-Big-O-/-Asymtotic Analysis)      
+
 ### Setting up TODO list for my coding interview 
 ___
 
@@ -213,8 +221,8 @@ Mock Interviews:
 + NP, NP-Complete and Approximation [구글대학교 참고](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep)
       
 </details></br>
-   
-   
+    
+___   
 ### Object Oriented Programming
 - I am going to need to refer to Google University for basics for the first 
 <details>
@@ -239,9 +247,6 @@ Mock Interviews:
 </details>
   
 
-
-___
-___
 ___
 # Algorithm 
 
