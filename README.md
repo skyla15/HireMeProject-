@@ -45,15 +45,15 @@ ___
   <details>
     <summary><b>Week Goals</b></summary>
     
-- Testing First Week     
-  - Task1     
+  - Testing First Week     
+    - Task1     
       
   </details>
   <details>
     <summary><b>Daily Goals</b></summary>
   
-- Testing First day    
-  - Task1
+  - Testing First day    
+    - Task1
       
   </details>
 </details> 
