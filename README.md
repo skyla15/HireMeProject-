@@ -1,3 +1,23 @@
+# Setting up TODO list for my coding interview 
+___
+
+> I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
+> My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
+
+> [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)  
+
+> He says he studied about 8-12 hours a day, for several months. I bet that will also do for me
+
+
+__Items here will cover__ <br> 
++ 'Data Structures and Algorithms'<br> 
++ 'Database' <br> 
++ 'Basic Networking Theory and its simple implementation' <br> 
++ 'Basic knowledge of how computer actually works' <br> 
+  + Computer Architecture & System Programming(Assembler) 
+
+
+
 # Algorithm 
 
 # 제목
