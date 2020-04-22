@@ -35,7 +35,8 @@ __Meterials I am going to use are as below:__
 
 <details>
   <summary><b>Data Structure & Algorithms in Python:</b></summary>  
-+ __Algorithmic Complexity / Big-O / Asymtotic Analysis   
+  
++ __Algorithmic Complexity / Big-O / Asymtotic Analysis__   
   - Nothing to implement     
   - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.  
   - If some of the lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge.  
