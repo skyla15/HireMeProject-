@@ -39,6 +39,7 @@ ___
 2. Put it into an actual code  
 3. .... Updating ....
 ___
+
 ### Week/Daily Plan Logs
 <details>  
   <summary><b> Logs </b></summary>
@@ -56,8 +57,10 @@ ___
     - [ ] Task1
       
   </details>
-</details> 
+</details>   
+  
 ___
+
 ### Coding Exercises/Challenges  
 <details>
   <summary><b>Contents</b></summary>
