@@ -1,4 +1,4 @@
-# Setting up TODO list for my coding interview 
+### Setting up TODO list for my coding interview 
 ___
 
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
@@ -12,12 +12,12 @@ ___
 
 > I also think that priorities on which subject are also important  
 > hear are how I am going to study   
-1. Algorithms and Datastructures & C++ basics review with the [web below](##Meterials I am going to use are as below:)
+1. Algorithms and Datastructures & C++ basics review with the [web below](####Meterials-I-am-going-to-use-are-as-below:)
 2. 
 
 ___
 
-## Items here will cover <br> 
+#### Items here will cover <br> 
 + 'Fundamental C++'
 + 'Data Structures and Algorithms'<br> 
 + 'Database' <br> 
@@ -26,7 +26,7 @@ ___
   + Computer Architecture & System Programming(Assembler) <br>
 + (Optional) Backend,  
   
-## Meterials I am going to use are as below:   
+#### Meterials I am going to use are as below:   
 1. Coding Test and Interviews  
   1.1. Data Structure & Algorithms in Python ( T. Goodrich )     
   1.2. Elements Of Programming Intervies in Python ( The insiders' Guide )     
@@ -61,6 +61,7 @@ ___
         - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)  
         - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)  
     - [ ] [Cheat sheet](http://bigocheatsheet.com/)  
+<br>
 + __Data Structure__
   - [ ] Arrays 
   - [ ] Stacks, Queues, and Deques
