@@ -31,13 +31,64 @@ ___
 1. Coding Test and Interviews  
   1.1. Data Structure & Algorithms in Python ( T. Goodrich )     
   1.2. Elements Of Programming Intervies in Python ( The insiders' Guide )     
-  1.3. Grokking Algorithms ( Aditya Y. Bhargava )
+  1.3. Grokking Algorithms ( Aditya Y. Bhargava )   
   1.4. 파이썬 자료구조와 알고리즘 < 리뷰용 > 
 2. C++      
   2.1. [LearnCPP](https://www.learncpp.com)    
-3. 
+3. ......Updating......
+Database and others refer to Google [University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
 
+### How to study and retain knowledge  
+1. Read a chapter of books above  
+2. Put it into an actual code  
+.... Updating ....
+  
+  
+### Coding Exercises/Challenges  
+<details>
+  <summary><b>Contents</b></summary>
 
+- [How to Find a Solution](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-find-a-solution/)
+- [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-dissect-a-topcoder-problem-statement/)
+
+Coding Interview Question Videos:
+- [IDeserve (88 videos)](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
+- [Tushar Roy (5 playlists)](https://www.youtube.com/user/tusharroy2525/playlists?shelf_id=2&view=50&sort=dd)
+    - Super for walkthroughs of problem solutions.
+- [Nick White - LeetCode Solutions (187 Videos)](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
+    - Good explanations of solution and the code.
+    - You can watch several in a short time.
+- [FisherCoder - LeetCode Solutions](https://youtube.com/FisherCoder)
+
+Challenge sites:
+- [LeetCode](https://leetcode.com/)
+    - My favorite coding problem site. It's worth the subscription money for the 1-2 months you'll likely be preparing.
+    - [LeetCode solutions from FisherCoder](https://github.com/fishercoder1534/Leetcode) 
+    - See Nick White Videos above for short code-throughs
+- [HackerRank](https://www.hackerrank.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [InterviewCake](https://www.interviewcake.com/)
+- [Geeks for Geeks](http://www.geeksforgeeks.org/)
+- [InterviewBit](https://www.interviewbit.com/invite/icjf)
+- [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
+
+Language-learning sites, with challenges:
+- [Codewars](http://www.codewars.com)
+- [Codility](https://codility.com/programmers/)
+- [HackerEarth](https://www.hackerearth.com/)
+- [Sphere Online Judge (spoj)](http://www.spoj.com/)
+- [Codechef](https://www.codechef.com/)
+
+Challenge repos:
+- [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
+
+Mock Interviews:
+- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview.
+- [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
+- [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
+
+</details>
+   
 ### Algorithmic Complexity / Big-O / Asymtotic Analysis   
 <details>
   <summary><b>contents</b></summary> 
