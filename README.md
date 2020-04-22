@@ -44,13 +44,17 @@ ___
   <summary><b> Logs </b></summary>
   <details>
     <summary><b>Week Goals</b></summary>
-    - Testing First Week
+    
+    - Testing First Week     
       - Task1     
+      
   </details>
   <details>
     <summary><b>Daily Goals</b></summary>
-    - Testing First day
+  
+    - Testing First day    
       - Task1
+      
   </details>
 </details> 
 
