@@ -2,7 +2,6 @@
 
 # 제목
 \# 제목( # : 1~6 ) 
-- [ ] gd
 # 수평선 
 ---
 \---
@@ -35,3 +34,4 @@
 <https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/>.  
 [동일파일 내 문단이동](#목록).  
 
+s
