@@ -1,11 +1,11 @@
 ### Contents 
-[Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)   
-[Meterials I am going to use](#Meterials-I-am-going-to-use)   
-[How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
-[Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
-[Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
-[Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
-[Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
+1. [Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)   
+2. [Meterials I am going to use](#Meterials-I-am-going-to-use)   
+3. [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
+4. [Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
+5. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
+6. [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
+7. [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
 
 ### Setting up TODO list for my coding interview 
 ___
