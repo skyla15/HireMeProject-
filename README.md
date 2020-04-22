@@ -2,9 +2,9 @@
 [Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)   
 [Meterials I am going to use](#Meterials-I-am-going-to-use)   
 [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
-[Week/Daily Plan Logs](#Week/Daily-Plan-Logs)   
-[Coding Exercises/Challenges](#Coding-Exercises/Challenges)  
-[Algorithmic Complexity / Big-O / Asymtotic Analysis(#Algorithmic-Complexity-/-Big-O-/-Asymtotic Analysis)      
+[Week/Daily Plan Logs](#Week\/Daily-Plan-Logs)   
+[Coding Exercises/Challenges](#Coding-Exercises\/Challenges)  
+[Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity-/-Big\-O-/-Asymtotic Analysis)      
 
 ### Setting up TODO list for my coding interview 
 ___
