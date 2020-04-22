@@ -42,6 +42,7 @@ ___
 ### Week/Daily Plan Logs
 <details>  
   <summary><b> Logs </b></summary>
+  
   <details>
     <summary><b>Week Goals</b></summary>
     
@@ -56,11 +57,13 @@ ___
       - Task1
       
   </details>
+  
 </details> 
 
 ### Coding Exercises/Challenges  
 <details>
   <summary><b>Contents</b></summary>
+  
 Korean Sites:
 -[Programmers](https://programmers.co.kr)
   - 각 알고리즘 단계별 문제 있음 ( It has problems sorted by difficulty for algorithms ) 
