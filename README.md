@@ -31,13 +31,14 @@ ___
 1. Coding Test and Interviews  
   1.1. Data Structure & Algorithms in Python ( T. Goodrich )     
   1.2. Elements Of Programming Intervies in Python ( The insiders' Guide )     
-  1.3. Grokking Algorithms ( Aditya Y. Bhargava )    
+  1.3. Grokking Algorithms ( Aditya Y. Bhargava )
+  1.4. 파이썬 자료구조와 알고리즘 < 리뷰용 > 
 2. C++      
   2.1. [LearnCPP](https://www.learncpp.com)    
 3. 
 
 
-# Algorithmic Complexity / Big-O / Asymtotic Analysis   
+#### Algorithmic Complexity / Big-O / Asymtotic Analysis   
   - Nothing to implement     
   - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.  
   - If some of the lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge.  
@@ -60,9 +61,9 @@ ___
     - [ ] [Cheat sheet](http://bigocheatsheet.com/)
    
    
-# Data Structure & Algorithms in Python
+#### Data Structure & Algorithms in Python
 <details>
-  <summary><b> List </b></summary>  
+  <summary><b> Contents </b></summary>  
   
 + __Data Structure__
   - [ ] Arrays 
@@ -133,21 +134,23 @@ ___
 + NP, NP-Complete and Approximation [구글대학교 참고](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep)
       
 </details>
-
-
+   
+   
+#### Object Oriented Programming
+- I am going to need to refer to Google University for basics for the first 
 <details>
-  <summary><b>Object Oriented Programming</b></summary>  
+  <summary><b>contents</b></summary>  
 </details>
-
-
-<details>
-  <summary><b>Object Oriented Programming</b></summary>  
-</details>
-
+   
+    
+#### Database
+- I am going to need to refer to Google University for basics for the first 
 <details>
   <summary><b>Database:</b></summary>  
  </details>
-
+  
+  
+#### Computer Architecture
 <details>
   <summary><b>Computer Architecture</b></summary>  
 </details>
