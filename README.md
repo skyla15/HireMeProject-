@@ -4,7 +4,8 @@
 [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
 [Week/Daily Plan Logs](#Week\/Daily-Plan-Logs)   
 [Coding Exercises/Challenges](#Coding-Exercises\/Challenges)  
-[Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity-/-Big\-O-/-Asymtotic Analysis)      
+[Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity-/-Big\-O-/-Asymtotic Analysis) 
+[Data Structure & Algorithms in Python](#Data-Structure-&-Algorithms-in-Python)
 
 ### Setting up TODO list for my coding interview 
 ___
