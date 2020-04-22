@@ -6,7 +6,7 @@
 5. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
 6. [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
 7. [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
-8. [C++](#C++)
+8. [C++](#C)
 
 ### Setting up TODO list for my coding interview 
 ___   
