@@ -8,12 +8,16 @@ ___
 
 > He says he studied about 8-12 hours a day, for several months. I bet that will also do for me  
 
-> I still need some research to find what I actually need besides computer science knowlege for __data science__        
+> I still need some research to find what I actually need besides computer science knowlege for __data science__          
 
+> I also think that priorities on which subject are also important  
+> hear are how I am going to study   
+1. Algorithms and Datastructures & C++ basics review with the [web below](#Meterials I am going to use are as below:)
+2. 
 
 ___
 
-__Items here will cover__ <br> 
+# __Items here will cover__ <br> 
 + 'Fundamental C++'
 + 'Data Structures and Algorithms'<br> 
 + 'Database' <br> 
@@ -22,13 +26,13 @@ __Items here will cover__ <br>
   + Computer Architecture & System Programming(Assembler) <br>
 + (Optional) Backend,  
   
-__Meterials I am going to use are as below:__   
+# __Meterials I am going to use are as below:__   
 1. Coding Test and Interviews  
   1.1. Data Structure & Algorithms in Python ( T. Goodrich )     
   1.2. Elements Of Programming Intervies in Python ( The insiders' Guide )     
   1.3. Grokking Algorithms ( Aditya Y. Bhargava )    
-2. C++
-  2.1. [LearnCPP](https://www.learncpp.com)
+2. C++      
+  2.1. [LearnCPP](https://www.learncpp.com)    
 3. 
 
 
@@ -127,33 +131,25 @@ __Meterials I am going to use are as below:__
 
 <details>
   <summary><b>Object Oriented Programming</b></summary>  
-  
-1. list
-
 </details>
 
 <details>
   <summary><b>Database:</b></summary>  
-  
-1. list
-
-</details>
+ </details>
 
 <details>
   <summary><b>Computer Architecture</b></summary>  
-  
-1. list
-
 </details>
 
 <details>
   <summary><b>Operating System </b></summary>  
-  
-1. list 
-
 </details>
   
 
+
+___
+___
+___
 # Algorithm 
 
 # 제목
