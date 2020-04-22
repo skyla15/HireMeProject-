@@ -26,7 +26,7 @@ ___
 + 'Basic knowledge of how computer actually works' <br> 
   + Computer Architecture & System Programming(Assembler) <br>
 + (Optional) Backend,  
-  
+___
 ### Meterials I am going to use   
 1. Coding Test and Interviews  
   1.1. Data Structure & Algorithms in Python ( T. Goodrich )     
@@ -37,12 +37,12 @@ ___
   2.1. [LearnCPP](https://www.learncpp.com)    
 3. ......Updating......
 Database and others refer to Google [University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
-
+___
 ### How to study and retain knowledge  
 1. Read a chapter of books above  
 2. Put it into an actual code  
 .... Updating ....
-  
+___
   
 ### Coding Exercises/Challenges  
 <details>
@@ -87,8 +87,8 @@ Mock Interviews:
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
 
-</details>
-   
+</details></br>
+
 ### Algorithmic Complexity / Big-O / Asymtotic Analysis   
 <details>
   <summary><b>contents</b></summary> 
@@ -114,7 +114,7 @@ Mock Interviews:
         - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)  
     - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
-</details>
+</details></br>
    
    
 ### Data Structure & Algorithms in Python
@@ -189,7 +189,7 @@ Mock Interviews:
       
 + NP, NP-Complete and Approximation [구글대학교 참고](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep)
       
-</details>
+</details></br>
    
    
 ### Object Oriented Programming
