@@ -35,6 +35,8 @@ ___
 Database and others refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
 ___
 ### How to study and retain knowledge  
+- Basic Rule : At Least One Chapter A Day    
+- There may be some tasks that will take some days or some tasks will take only a couple of hours. I will try to balance it and document them on here.
 1. Read a chapter of [meterials](#Meterials-I-am-going-to-use)
 2. Put it into an actual code  
 3. .... Updating ....
@@ -68,7 +70,7 @@ ___
 Korean Sites:
 -[Programmers](https://programmers.co.kr)
   - 각 알고리즘 단계별 문제 있음 ( It has problems sorted by difficulty for algorithms ) 
-  - 각 챕터마다 하나씩 풀면 한 문제씩 풀기 ( Crack problems whenever I finish each chapter ) 
+  - 각 챕터마다 주제 풀기 ( Crack problems whenever I finish each chapter ) 
 - [How to Find a Solution](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-find-a-solution/)
 - [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-dissect-a-topcoder-problem-statement/)
 
