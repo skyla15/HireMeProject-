@@ -43,21 +43,21 @@ ___
 <details>  
   <summary><b> Logs </b></summary>
   <details>
-    <summary><b>Week Goals</b></summary>
+    <summary> Week Goals </summary>
     
-  - Testing First Week     
+  * Testing First Week     
     - [ ] Task1     
       
   </details>
   <details>
-    <summary><b>Daily Goals</b></summary>
+    <summary> Daily Goals </summary>
   
-  - Testing First day    
+  * Testing First day    
     - [ ] Task1
       
   </details>
 </details> 
-
+___
 ### Coding Exercises/Challenges  
 <details>
   <summary><b>Contents</b></summary>
