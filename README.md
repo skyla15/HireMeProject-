@@ -223,7 +223,7 @@ ___
 ___
    
 ### C++ 
-- I am going to need to refer to Google University for basics for the first 
+- [LearnCPP](https://www.learncpp.com)  
 <details>
   <summary><b>contents</b></summary> 
   - [ ] Not Started Yet
