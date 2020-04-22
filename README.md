@@ -28,6 +28,7 @@ ___
 + (Optional) Backend,  
 ___
 ### Meterials I am going to use   
+0. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
 1. Coding Test and Interviews  
   1.1. Data Structure & Algorithms in Python ( T. Goodrich )     
   1.2. Elements Of Programming Intervies in Python ( The insiders' Guide )     
