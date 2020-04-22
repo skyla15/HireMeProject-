@@ -12,12 +12,12 @@ ___
 
 > I also think that priorities on which subject are also important  
 > hear are how I am going to study   
-1. Algorithms and Datastructures & C++ basics review with the [web below](#Meterials-I-am-going-to-use-are-as-below:)
+1. Algorithms and Datastructures & C++ basics review with the [Link](#Meterials-I-am-going-to-use-are-as-below:)
 2. 
 
 ___
 
-#### Items here will cover <br> 
+#### Items here will cover  
 + 'Fundamental C++'
 + 'Data Structures and Algorithms'<br> 
 + 'Database' <br> 
