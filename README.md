@@ -12,8 +12,9 @@ ___
 
 > I also think that priorities on which subject are also important  
 > hear are how I am going to study   
-1. Algorithms and Datastructures & C++ basics review with the [below](#Meterials-I-am-going-to-use)
-2. 
+1. Algorithms and Datastructures & C++ basics review with the [meterials](#Meterials-I-am-going-to-use)
+2. Cracking the Coding Interview Questions on every website ( Competitve Coding )   
+3. 
 
 ___
 
@@ -36,11 +37,7 @@ ___
 3. 
 
 
-
-<details>
-  <summary><b>Data Structure & Algorithms in Python:</b></summary>  
-  
-+ __Algorithmic Complexity / Big-O / Asymtotic Analysis__   
+# Algorithmic Complexity / Big-O / Asymtotic Analysis   
   - Nothing to implement     
   - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.  
   - If some of the lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge.  
@@ -60,8 +57,13 @@ ___
       - [ ] TopCoder (includes recurrence relations and master theorem):  
         - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)  
         - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)  
-    - [ ] [Cheat sheet](http://bigocheatsheet.com/)  
-<br>
+    - [ ] [Cheat sheet](http://bigocheatsheet.com/)
+   
+   
+# Data Structure & Algorithms in Python
+<details>
+  <summary><b> List </b></summary>  
+  
 + __Data Structure__
   - [ ] Arrays 
   - [ ] Stacks, Queues, and Deques
@@ -128,7 +130,15 @@ ___
       + (a,b) Trees 
       + B-Trees
       
++ NP, NP-Complete and Approximation [구글대학교 참고](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep)
+      
 </details>
+
+
+<details>
+  <summary><b>Object Oriented Programming</b></summary>  
+</details>
+
 
 <details>
   <summary><b>Object Oriented Programming</b></summary>  
