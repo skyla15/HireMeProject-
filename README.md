@@ -1,6 +1,6 @@
 ### Contents 
 1. [Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)   
-2. [Meterials I am going to use](#Meterials-I-am-going-to-use)   
+2. [Materials I am going to use](#Materials-I-am-going-to-use)   
 3. [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
 4. [Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
 5. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
@@ -43,9 +43,13 @@ ___
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
 > My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
 > [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)  
-> He says he studied about 8-12 hours a day, for several months. I bet that will also do for me  
-> I still need some research to find what I actually need besides computer science knowlege for __data science__          
-> I also think that priorities on which subject are also important   
+>  
+> I will have this repository more oriented to Data Engineer rather than a software engineering 
+___ 
+### Project Candidates    
+- ....Updating....
+### Project in progress   
+- ....Updating....
 ___
 
 ### Items here will cover
@@ -55,6 +59,7 @@ Materials for these items are right below this column
 + Backend  
   + Django ( Looking for materials )
 + Database  
+  + SQL, 
   + DBMS  
     + NoSql, MongoDB...
     + BigData : BigQeury, Hbase...
@@ -65,11 +70,11 @@ Materials for these items are right below this column
 + Linear Algebra 
 + Parallel Computing Technology
   + __Hadoop, Kafka, Spark, Map Produce__
-+ 'Basic Networking Theory and its simple implementation' <br> 
-+ 'Basic knowledge of how computer actually works' <br> 
-  + Computer Architecture & System Programming(Assembler) <br> 
++ Basic Networking Theory and its simple implementation   
++ Basic knowledge of how computer actually works    
+  + Computer Architecture & System Programming(Assembler) 
 ___
-### Meterials I am going to use   
+### Materials I am going to use   
 + [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
 + Coding Test and Interviews  
   + Data Structure & Algorithms in Python ( T. Goodrich )     
@@ -81,7 +86,7 @@ ___
 + Django 
   + ....Updating....
 + Database  
-  + ....Updating.... 
+  + [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)
 + ML / DL 
   + Deep Learning form the scratch
 + Mathematics  
