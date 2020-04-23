@@ -21,9 +21,9 @@ ___
 - __In Progress__       
   - ....Updating....
 ___
-### Goal of my study 
-##### The ultimate goal is to work in big tech companies.    
-- To work in one of them, I should know what knowledge they require.  
+### Goal Of This Repository 
+##### The ultimate goal is to work in big tech companies.
+##### Documenting my study
 ##### Setting up goals 
  I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
 ##### Projects 
@@ -357,7 +357,6 @@ ___
 ---
 \---
 
-
 ###### 목록 
 1. 1\.
 1. 2\.
@@ -373,16 +372,18 @@ ___
 1. ~~취소선~~
 1. __밑줄 
 
-
 ###### 인용구 
 > 1단계
 >> 2단계
 >>> 3단계
-
 
 ###### 링크
 [Markdown 설명 블로그](https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/).    
 <https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/>.  
 [동일파일 내 문단이동](#목록).  
 
+###### Internal link with special characters( / & .. ) 
+- Special characters are not counted as a character. 
+###### Why & when -> [Link](Why--when) 
+###### Why / when -> [Link](Why--when)
 
