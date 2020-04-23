@@ -1,8 +1,8 @@
 ### Contents 
 + [Goal Of This Repository](#Goal-Of-This-Repository)  
++ [Priority of my study as a job-seeker](#Priority-of-my-study-as-a-job-seeker)  
 + [Data Engineer Projects Inspiration - in Korean](#Data-Engineer-Projects-Inspiration)
-+ [Any Toy Projects - Current/Past](#Projects)
-+ [Priority of my study as job-seeker](#Priority-of-my-study-as-job-seeker)  
++ [Toy Projects - Current/Past](#Projects)
 + [Data related careers](#Data-related-careers)
 + [Items I will cover are as below](#Items-I-will-cover-are-as-below)
 + [Materials I am going to use](#Materials-I-am-going-to-use)   
@@ -35,16 +35,8 @@ __The ultimate goal is to work in big tech companies.__
 > Documenting my study.  
 > Setting up goals. 
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
-#### Data Engineer Projects Inspiration
-- Data Engineer Career related
-  - Starting from a basic project to a practical project to predict the data 
-  - [Reference Blog < in Korean > ](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/포트폴리오)
-- General Projects 
-  - My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
-  - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
-    - I will have this repository more oriented to Data Engineering rather than software engineering 
 ___    
-### Priority of my study as job-seeker
+### Priority of my study as a job-seeker
 Skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge.   
 Some of them will be implented into the toy projects that I am planning to conduct in the nearest future.    
 I will pick one subjects from the list below and beat it.   
@@ -58,7 +50,14 @@ I will pick one subjects from the list below and beat it.
 >   2.1. Solving [Kaggle](www.kaggle.com) problems will be accompanied
 > 5. Theory ( Database, OS, Network, OOP ) 
 ___   
- 
+#### Data Engineer Projects Inspiration
+- Data Engineer Career related
+  - Starting from a basic project to a practical project to predict the data 
+  - [Reference Blog < in Korean > ](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/포트폴리오)
+- General Projects 
+  - My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
+  - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
+    - I will have this repository more oriented to Data Engineering rather than software engineering 
 ### Data related careers 
 #### __What is data science?__ 
   - Almost everything that has something to do with data:Collecting, Analyzing, Modeling... yet the most important part is ___its applications__
