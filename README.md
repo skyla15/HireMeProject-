@@ -13,7 +13,7 @@
 + [Django](#Django)
 + [Database](#Database)
 + [Computer Architecture](#Computer-Architecture)
-+ [Operating System](#Operating System)
++ [Operating System](#Operating-System)
 + [ML / DL](#ML--DL)
 ___
 ### Project
