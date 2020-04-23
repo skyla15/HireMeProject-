@@ -17,9 +17,10 @@
 + [Operating System](#Operating-System)
 + [ML / DL](#ML--DL)  
 ___   
-### Project
+### Project 
+- as of 04/23/20  
 - __Candidates__   
-  - [남박사의 파이썬 실전 100% 활용_200423_](https://www.inflearn.com/course/파이썬-활용#reviews)  
+  - [남박사의 파이썬 실전 100% 활용](https://www.inflearn.com/course/파이썬-활용#reviews)  
 - __In Progress__       
   - Research on the requirements for my career and materials to study with.      
 <details>
