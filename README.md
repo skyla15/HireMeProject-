@@ -66,7 +66,7 @@ ___
 #### Data related careers 
 ###### __What is data science?__ 
   - Almost everything that has something to do with data:Collecting, Analyzing, Modeling... yet the most important part is ___its applications__
-###### __Data XXX__
+###### __Data Analyst__/__Data Engineer__/__ML Engineer__/__Data Scientist__
 Before I start studying, I find it very necessary to set up my ultimate goal.  
 Data Scientist  vs  Data Analyst  vs  Data Engineer vs ML/DL Engineer  
 + __Data Analyst__ : __Data Analyst__ processes data provided by __Data Engineers(Backend Developer)__. They manage and maintain data or data dash board. They also set and analyze KPI(핵심성과지표) to find out reasons of changes of it. If new function is added or there is a need to see a specific log, they design data logs. 
@@ -79,7 +79,7 @@ Trend these days is
 + __Data Scientist__ : Mainly focus on theretical study in R&D department. Deep and profound knowledge of stastics is needed. They also do the works that __ML engineers__(Design, Modify models, develope additional models) do 
 + There are also other careers that I can follow such as Gross Hacker(Focusing on self-development more than on product using queries), Data Visualizers(Not many positions open in the market)
 ___
-##### Requirements to have a career above  
+#### Requirements to have a career above  
 > It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP )  
 For the career I want to follow :  
  1. Data structure and Algorithms
