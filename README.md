@@ -24,7 +24,9 @@ ___
   <summary><b>Past Projects</b></summary> 
   - ....Updating....
 </details>
-___    
+
+___      
+
 ### Goal Of This Repository 
 > The ultimate goal is to work in big tech companies.  
 > Documenting my study  
