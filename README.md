@@ -23,7 +23,9 @@ ___
 #### Tomorrow 
 - [ ] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2
 - [ ] [Data Structure and Algorithm] Algorithm Analysis - Chapter 3
-___   
+
+___     
+
 ### Project 
 As of 04/23/20  
 - __Candidates__   
@@ -33,7 +35,8 @@ As of 04/23/20
 <details>
   <summary><b>Past Projects</b></summary> 
   - ....Updating....
-</details>
+</details>   
+
 ___      
 
 ### Goal Of This Repository 
@@ -42,6 +45,7 @@ __The ultimate goal is to work in big tech companies.__
 > Link the indexex to my actual repositoreis with explanation of the contents in detail.  
 > Setting up weekly/daily goals.  
 > To have good reference links documented.
+
 ___    
 
 ### Priority of my study as a job-seeker
