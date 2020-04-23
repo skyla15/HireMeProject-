@@ -26,7 +26,7 @@ ___
 ##### The ultimate goal is to work in big tech companies.    
 - To work in one of them, I should know what knowledge they require.  
 ##### Setting up goals 
-> I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
+ I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
 ##### Projects 
 - Data Engineer Career related
   - Starting from a basic project to a practical project to predict the data 
@@ -34,9 +34,7 @@ ___
 - General Projects 
   - My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
- 
-
-> I will have this repository more oriented to Data Engineer rather than a software engineering 
+>>> I will have this repository more oriented to Data Engineer rather than a software engineering 
 ___    
 ### How to study and retain knowledge  
 - It would be ideal if I can go through all the books I read during the courses in my university, but I have not much time to review all of them. So I will just skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge. Some of them will be implented into the toy projects that I am planning to conduct in the nearest future.   
