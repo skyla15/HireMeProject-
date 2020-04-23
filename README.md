@@ -18,7 +18,7 @@ ___
   - Almost everything that has something to do with data:Collecting, Analyzing, Modeling... yet the most important part is ___its applications__
 ###### __Data XXX__
 Before I start studying, I find it very necessary to set up my ultimate goal.  
-Data Scientist vs Data Analyst vs Data Engineer vs ML/DL Engineer  
+Data Scientist  vs  Data Analyst  vs  Data Engineer vs ML/DL Engineer  
 + __Data Analyst__ : __Data Analyst__ processes data provided by __Data Engineers(Backend Developer)__. They manage and maintain data or data dash board. They also set and analyze KPI(핵심성과지표) to find out reasons of changes of it. If new function is added or there is a need to see a specific log, they design data logs. 
 + __Data Engineer__ : Collect and refine data from applications or web so __data analyst__ can make use of it easily. They also manage the flow of data and develope dashboard for __data analyst__ to use.  
 Trend these days is  
@@ -33,10 +33,11 @@ ___
 > It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP )  
 > For the career I want to follow :  
 > 1. Datastructure and Algorithms 
-> 2. Django project with visualization of data ( Crawling ) 
+> 2. Django project with visualization of data  
 >   2.1 Getting used to cloud servers(AWS, GCP) 
 > 3. [Basic Data Pipeline Knowledge](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-엔지니어) 
 > 4. Basic Knowledge in Machine Learning
+>   4.1 ....Updating.... 
 ___  
 ### Setting up TODO-List for my coding interview 
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
@@ -55,11 +56,15 @@ Materials for these items are right below this column
   + DBMS
     + NoSql, MongoDB...
     + BigData : BigQeury, Hbase...
+  + Normalization
+  + Indexing 
 + 'Basic Networking Theory and its simple implementation' <br> 
 + 'Basic knowledge of how computer actually works' <br> 
   + Computer Architecture & System Programming(Assembler) <br>
 + Backend  
   + Django ( Looking for materials )
++ ML / DL
+  + ....Updating....
 + Linear Algebra 
 + Parallel Computing Technology
   + __Hadoop, Kafka, Spark, Map Produce__
