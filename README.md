@@ -50,7 +50,7 @@ I will pick one subjects from the list below and beat it.
 >   2.1. Solving [Kaggle](www.kaggle.com) problems will be accompanied
 > 5. Theory ( Database, OS, Network, OOP ) 
 ___   
-#### Data Engineer Projects Inspiration
+### Data Engineer Projects Inspiration
 - Data Engineer Career related
   - Starting from a basic project to a practical project to predict the data 
   - [Reference Blog < in Korean > ](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/포트폴리오)
