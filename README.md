@@ -30,8 +30,7 @@ ___
 - Research on the requirements for my career and materials to study with 
 ### ....The next thing I am planning to do....
 - I originally used C++ as my main language but since I want to work with data, I changed it to Python. I just have finished a book, Introducing to Python and I want to apply it to a practical or at least fun projects. 
-- [Mini Project Collections for Python Beginners](https://www.inflearn.com/course/파이썬-활용#reviews)  
-- Research on the requirements for my career 
+- [남박사의 파이썬 실전 100% 활용](https://www.inflearn.com/course/파이썬-활용#reviews)  
 ___  
 ### Goal Of This Repository 
 ##### The ultimate goal is to work in big tech companies.
