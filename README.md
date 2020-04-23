@@ -50,40 +50,50 @@ ___
 
 ### Items here will cover
 Materials for these items are right below this column
-+ 'Fundamental C++'
-+ 'Data Structures and Algorithms'<br> 
-+ 'Database' <br> 
-  + DBMS
++ Data Structures and Algorithms   
++ Fundamental C++
++ Backend  
+  + Django ( Looking for materials )
++ Database  
+  + DBMS  
     + NoSql, MongoDB...
     + BigData : BigQeury, Hbase...
   + Normalization
   + Indexing 
-+ 'Basic Networking Theory and its simple implementation' <br> 
-+ 'Basic knowledge of how computer actually works' <br> 
-  + Computer Architecture & System Programming(Assembler) <br>
-+ Backend  
-  + Django ( Looking for materials )
-+ ML / DL
++ ML / DL    
   + ....Updating....
 + Linear Algebra 
 + Parallel Computing Technology
   + __Hadoop, Kafka, Spark, Map Produce__
++ 'Basic Networking Theory and its simple implementation' <br> 
++ 'Basic knowledge of how computer actually works' <br> 
+  + Computer Architecture & System Programming(Assembler) <br> 
 ___
 ### Meterials I am going to use   
-0. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
-1. Coding Test and Interviews  
-  1.1. Data Structure & Algorithms in Python ( T. Goodrich )     
-  1.2. Elements Of Programming Intervies in Python ( The insiders' Guide )     
-  1.3. Grokking Algorithms ( Aditya Y. Bhargava )   
-  1.4. 파이썬 자료구조와 알고리즘 < 리뷰용 > 
-2. C++      
-  2.1. [LearnCPP](https://www.learncpp.com)    
-3. Django 
-  3.1. ....Updating....
-4. Linear Algebra 
-  4.1. ....Updating....
-5. Machine Learning Implementation
-  5.1. Deep Learning form the scratch
++ [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
++ Coding Test and Interviews  
+  + Data Structure & Algorithms in Python ( T. Goodrich )     
+  + Elements Of Programming Intervies in Python ( The insiders' Guide )     
+  + Grokking Algorithms ( Aditya Y. Bhargava )   
+  + 파이썬 자료구조와 알고리즘 < 리뷰용 > 
++ C++      
+  + [LearnCPP](https://www.learncpp.com)    
++ Django 
+  + ....Updating....
++ Database  
+  + ....Updating.... 
++ ML / DL 
+  + Deep Learning form the scratch
++ Mathematics  
+  + Linear Algebra  
+    + ....Updating....  
+  + Caclus for programming 
+    + ....Updating....
+  + Discrete Mathematics  
+    + ....Updating....
++ Parallel Computing Technology
+  + ....Updating....
+
 
 Database and others refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
 ___
