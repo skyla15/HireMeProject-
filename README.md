@@ -87,7 +87,7 @@ ___
 Materials for these items are right below this column
 + Data Structures and Algorithms in Python    
 + Fundamental C++
-+ Fundamental Computer Science ( OS, Networking, Computer Architecture, Database )  
++ Fundamental Computer Science ( OS, Networking, Computer Architecture, Database, OOP )  
 + Backend  
   + Django ( Looking for materials ) 
 + ML / DL    
@@ -96,9 +96,7 @@ Materials for these items are right below this column
 + Parallel Computing Technology
   + __Hadoop, Kafka, Spark, Map Produce__
 + Basic Networking Theory and its simple implementation   
-+ Basic knowledge of how computer actually works    
-  + Computer Architecture & System Programming(Assembler) 
-+ OOP  
+
 ___
 ### Materials I am going to use   
 + [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
