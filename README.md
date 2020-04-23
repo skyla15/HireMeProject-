@@ -7,9 +7,21 @@
 6. [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
 7. [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
 8. [C++](#C)
+___
 
-### Setting up TODO list for my coding interview 
+### Goal of my study 
+> Before I start studying, I find it very necessary to set up my ultimate goal.  
+> Data Scientist vs Data Analyst vs Data Engineer vs ML/DL Engineer  
+> + __Data Analyst__ : __Data Analyst__ processes data provided by __Data Engineers(Backend Developer)__. They manage and maintain data or data dash board. They also set and analyze KPI(핵심성과지표) to find out reasons of changes of it. If new function is added or there is a need to see a specific log, they design data logs. 
+> + __Data Engineer__ : Collect and refine data from applications or web so __data analyst__ can make use of it easily. They also manage the flow of data and develope dashboard for __data analyst__ to use.  
+> Trend these days is  
+>> 1) Data Engineers with capacity of developing back-end  
+>> 2) Data Engineers with knowledge of ML/DL  
+>> 3) Data Engineers who maily work with data engineering   
+> + __ML Engineer__ : They work with models in specific domains(Computer Vision, Natural Language Process) and apply these models to __products. 
+> + __Data Scientist__ : Mainly focus on theretical study in R&D department. Deep and profound knowledge of stastics is needed. They also do the works that __ML engineers__(Design, Modify models, develope additional models) do 
 ___   
+### Setting up TODO list for my coding interview 
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
 > My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
 > [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)  
