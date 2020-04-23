@@ -14,6 +14,8 @@ ___
 ##### Ultimate and very unrealistic goal is to work in big tech companies.  
 - To work in one of them, I should know what knowledge they require. 
 ##### Data related careers 
+- __What is data science?__ 
+  - Almost everything that has something to do with data:Collecting, Analyzing, Modeling... yet the most important part is ___its applications__
 Before I start studying, I find it very necessary to set up my ultimate goal.  
 Data Scientist vs Data Analyst vs Data Engineer vs ML/DL Engineer  
 + __Data Analyst__ : __Data Analyst__ processes data provided by __Data Engineers(Backend Developer)__. They manage and maintain data or data dash board. They also set and analyze KPI(핵심성과지표) to find out reasons of changes of it. If new function is added or there is a need to see a specific log, they design data logs. 
@@ -49,13 +51,17 @@ Materials for these items are right below this column
 + 'Fundamental C++'
 + 'Data Structures and Algorithms'<br> 
 + 'Database' <br> 
+  + DBMS
+    + NoSql, MongoDB...
+    + BigData : BigQeury, Hbase...
 + 'Basic Networking Theory and its simple implementation' <br> 
 + 'Basic knowledge of how computer actually works' <br> 
   + Computer Architecture & System Programming(Assembler) <br>
 + Backend  
   + Django ( Looking for materials )
 + Linear Algebra 
-+
++ Parallel Computing Technology
+  + __Hadoop, Kafka, Spark, Map Produce__
 ___
 ### Meterials I am going to use   
 0. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
@@ -70,7 +76,8 @@ ___
   3.1. ....Updating....
 4. Linear Algebra 
   4.1. ....Updating....
-5. 
+5. Machine Learning Implementation
+  5.1. Deep Learning form the scratch
 
 Database and others refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
 ___
