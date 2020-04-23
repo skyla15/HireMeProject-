@@ -26,8 +26,9 @@ ___
 
 <details>
   <summary><b>Jobs Done</b></summary> 
-    - [X] Research on Data Related Jobs and Requirement 
+- [X] Research on Data Related Jobs and Requirement  
 </details>   
+
 ___     
 
 ### Project 
