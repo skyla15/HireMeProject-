@@ -35,7 +35,9 @@ __The ultimate goal is to work in big tech companies.__
 > Documenting my study.  
 > Setting up goals. 
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
+
 ___    
+
 ### Priority of my study as a job-seeker
 Skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge.   
 Some of them will be implented into the toy projects that I am planning to conduct in the nearest future.    
@@ -49,7 +51,9 @@ I will pick one subjects from the list below and beat it.
 > 4. DL / ML ( + Mathematics if needed )   
 >   2.1. Solving [Kaggle](www.kaggle.com) problems will be accompanied
 > 5. Theory ( Database, OS, Network, OOP ) 
+
 ___   
+
 ### Data Engineer Projects Inspiration
 - Data Engineer Career related
   - Starting from a basic project to a practical project to predict the data 
@@ -58,6 +62,9 @@ ___
   - My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
     - I will have this repository more oriented to Data Engineering rather than software engineering 
+    
+___  
+
 ### Data related careers 
 #### __What is data science?__ 
   - Almost everything that has something to do with data:Collecting, Analyzing, Modeling... yet the most important part is ___its applications__
@@ -71,7 +78,9 @@ Trend these days is
 + __ML Engineer__ : They work with models in specific domains(Computer Vision, Natural Language Process) and _apply these models to products. 
 + __Data Scientist__ : Mainly focus on theretical study in R&D department. Deep and profound knowledge of stastics is needed. They also do the works that __ML engineers__(Design, Modify models, develope additional models) do 
 + There are also other careers that I can follow such as Gross Hacker(Focusing on self-development more than on product using queries), Data Visualizers(Not many positions open in the market)
+
 ___
+
 ### Requirements to have a career above  
 > It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP )  
 For the career I want to follow :  
@@ -82,6 +91,7 @@ For the career I want to follow :
  5. [Basic Data Pipeline Knowledge in Korean](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-엔지니어) 
  5. Basic Knowledge in ML/DL
  6. Mathematics ( Calculus, Linear Algebra, Discrete Mathematics ) 
+ 
 ___  
 
 ### Items I will cover are as below   
