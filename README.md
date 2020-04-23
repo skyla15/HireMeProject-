@@ -140,7 +140,7 @@ ___
   
 ___
 
-### Coding Exercises/Challenges  
+### Coding Exercises/Challenges
 <details>
   <summary><b>Contents</b></summary>
   
@@ -220,7 +220,9 @@ ___
 
 ___  
    
-### Data Structure & Algorithms in Python
+### Data Structure & Algorithms in Python    
++ [Materials I am going to use](#Materials-I-am-going-to-use)  
+
 <details>
   <summary><b> Contents </b></summary>  
   
@@ -306,6 +308,7 @@ ___
 ___    
 
 ### Django   
++ [Materials I am going to use](#Materials-I-am-going-to-use)  
 <details>
   <summary><b>Operating System </b></summary>  
 </details>  
@@ -313,24 +316,34 @@ ___
 ___   
 
 ### Database    
++ [Materials I am going to use](#Materials-I-am-going-to-use)  
 - [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)  
 <details>
   <summary><b>Database:</b></summary>  
 </details>
-  
-___
+
+___  
+
 ### Computer Architecture
++ [Materials I am going to use](#Materials-I-am-going-to-use)  
 <details>
   <summary><b>Computer Architecture</b></summary>  
 </details>
 
+___  
+
 ### ML / DL 
++ [Materials I am going to use](#Materials-I-am-going-to-use)  
 <details>
   <summary><b>Operating System </b></summary>  
 </details>
-  
 
-___
+___  
+
+  
+  
+  
+___Markdown Reference__   
 
 # 제목
 \# 제목( # : 1~6 ) 
