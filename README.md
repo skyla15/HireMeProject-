@@ -10,6 +10,8 @@
 + [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
 + [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
 + [C++](#C)
++ [Django](#Django)
++ [Database](#Database)
 
 ___
 ### Goal of my study 
@@ -316,7 +318,7 @@ ___
   <summary><b>Database:</b></summary>  
 </details>
   
-__
+___
 ### Computer Architecture
 <details>
   <summary><b>Computer Architecture</b></summary>  
