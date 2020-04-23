@@ -60,7 +60,7 @@ I will pick one subjects from the list below and beat it.
 > 3. Toy Projects using Django with basic APIs 
 > 4. DL / ML ( + Mathematics if needed )   
 >   2.1. Solving [Kaggle](www.kaggle.com) problems will be accompanied
-> 5. Theory ( Database, OS, Network, OOP ) 
+> 5. Theory ( Database, OS, Network, OOP, Computer Architecture ) 
 
 ___   
 
@@ -93,9 +93,10 @@ ___
 
 ### Requirements to have a career above  
 > It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP>  
-For the career I want to follow :  
+
+  
  1. Data structure and Algorithms
- 2. Basic Compute Science Knowledge ( OS, 
+ 2. Basic Compute Science Knowledge ( Database, OS, Network, OOP, Computer Architecture ) 
  3. Backend Knowledge  
  4. Cloud Services(AWS, GCP) 
  5. [Basic Data Pipeline Knowledge in Korean](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-엔지니어) 
@@ -108,7 +109,7 @@ ___
 Materials for these items are right below this column
 + Data Structures and Algorithms in Python    
 + Fundamental C++
-+ Fundamental Computer Science ( OS, Networking, Computer Architecture, Database, OOP )  
++ Fundamental Computer Science ( Database, OS, Network, OOP, Computer Architecture )   
 + Backend  
   + Django ( Looking for materials ) 
 + ML / DL    
