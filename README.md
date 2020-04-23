@@ -247,6 +247,9 @@ ___
 <details>
   <summary><b> Contents </b></summary>  
   
++ __Basic Python__ 
+  - [Mutable vs Immutable](https://ledgku.tistory.com/54)  
+  
 + __Data Structure__
   - [ ] Arrays 
   - [ ] Stacks, Queues, and Deques
