@@ -302,7 +302,7 @@ ___
 - [LearnCPP](https://www.learncpp.com)  
 <details>
   <summary><b>contents</b></summary> 
-  - [ ] Not Started Yet
+  - ....Updating....
 </details>
    
 ___    
@@ -311,6 +311,7 @@ ___
 + [Materials I am going to use](#Materials-I-am-going-to-use)  
 <details>
   <summary><b>Operating System </b></summary>  
+  - ....Updating....
 </details>  
 
 ___   
@@ -320,6 +321,7 @@ ___
 - [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)  
 <details>
   <summary><b>Database:</b></summary>  
+  - ....Updating....
 </details>
 
 ___  
@@ -328,6 +330,7 @@ ___
 + [Materials I am going to use](#Materials-I-am-going-to-use)  
 <details>
   <summary><b>Computer Architecture</b></summary>  
+  - ....Updating....
 </details>
 
 ___  
@@ -336,6 +339,7 @@ ___
 + [Materials I am going to use](#Materials-I-am-going-to-use)  
 <details>
   <summary><b>Operating System </b></summary>  
+  - ....Updating....
 </details>
 
 ___  
