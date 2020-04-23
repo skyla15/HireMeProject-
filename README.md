@@ -25,7 +25,10 @@ Trend these days is
 + __Data Scientist__ : Mainly focus on theretical study in R&D department. Deep and profound knowledge of stastics is needed. They also do the works that __ML engineers__(Design, Modify models, develope additional models) do 
 + There are also other careers that I can follow such as Gross Hacker(Focusing on self-development more than on product using queries), Data Visualizers(Not many positions open in the market) 
 ##### What do I want to be and what knowledge should I need?  
-????
+> It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP )  
+> For the career I want to follow :  
+> I have been ignoring web skills because the real computer science/engineering is within algorithms and data structures. But it seems like in reality, they are implented in all systems not to mention web applicatinos.  
+> 
 ___   
 ### Setting up TODO-List for my coding interview 
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
@@ -71,15 +74,17 @@ ___
   <details>
     <summary> Week Goals </summary>
     
-  * Testing First Week     
-    - [ ] Task1     
+  * 4/23 ~ 4/26  
+    - [ ] Set up a goal, choose materials, build a plan     
       
   </details>
   <details>
     <summary> Daily Goals </summary>
   
-  * Testing First day    
-    - [ ] Task1
+  * 4/23     
+    - [ ] Research on Data related career
+    - [ ] Choose materials 
+    - [ ] 
       
   </details>
 </details>   
