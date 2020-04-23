@@ -44,7 +44,7 @@ ___
 - General Projects 
   - My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
->>> I will have this repository more oriented to Data Engineer rather than a software engineering 
+> I will have this repository more oriented to Data Engineer rather than a software engineering 
 ___    
 ### How to study and retain knowledge  
 - It would be ideal if I can go through all the books I read during the courses in my university, but I have not much time to review all of them. So I will just skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge. Some of them will be implented into the toy projects that I am planning to conduct in the nearest future.   
@@ -57,12 +57,12 @@ __Algorithms and Django are the first task that I have to get done__
 - Toy Projects  
   - They will be developed as an web application and also a mobile application < Hybrid Web Application >. 
   
-> * Data Structure and Algorithm 
-> * Django / C++
-> 1. Toy Projects using Django with basic APIs 
-> 2. DL / ML ( + Mathematics if needed )   
->   2.1. Solving [Kaggle](www.kaggle.com) problems will be accompanied
-> 3. Theory ( Database, OS, Network, OOP ) 
+ * Data Structure and Algorithm 
+ * Django / C++
+ 1. Toy Projects using Django with basic APIs 
+ 2. DL / ML ( + Mathematics if needed )   
+   2.1. Solving [Kaggle](www.kaggle.com) problems will be accompanied
+ 3. Theory ( Database, OS, Network, OOP ) 
 ___   
  
 #### Data related careers 
@@ -83,14 +83,14 @@ Trend these days is
 ___
 ##### Requirements to have a career above  
 > It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP )  
-> For the career I want to follow :  
-> 1. Data structure and Algorithms
-> 2. Basic Compute Science Knowledge ( OS, 
-> 3. Backend Knowledge  
-> 4. Cloud Services(AWS, GCP) 
-> 5. [Basic Data Pipeline Knowledge in Korean](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-엔지니어) 
-> 5. Basic Knowledge in ML/DL
-> 6. Mathematics ( Calculus, Linear Algebra, Discrete Mathematics ) 
+For the career I want to follow :  
+ 1. Data structure and Algorithms
+ 2. Basic Compute Science Knowledge ( OS, 
+ 3. Backend Knowledge  
+ 4. Cloud Services(AWS, GCP) 
+ 5. [Basic Data Pipeline Knowledge in Korean](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-엔지니어) 
+ 5. Basic Knowledge in ML/DL
+ 6. Mathematics ( Calculus, Linear Algebra, Discrete Mathematics ) 
 ___  
 
 ### Items I will cover are as below   
