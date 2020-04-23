@@ -20,7 +20,8 @@
 ___
 #### Today's Job 
 - [ ] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2 
-
+- [ ] Git command line and check VIM shortcuts.
+- [ ] If possible, The Big-O Notation.
 #### Tomorrow 
 - [ ] [Data Structure and Algorithm] Algorithm Analysis - Chapter 3
 
@@ -28,7 +29,6 @@ ___
   <summary><b>Jobs Done</b></summary> 
 
   - [X] Research on Data Related Jobs and Requirement  
-  - [ ]  
 
 </details>   
 
@@ -246,7 +246,14 @@ ___
 
 <details>
   <summary><b> Contents </b></summary>  
+<<<<<<< HEAD
 
+=======
+
++ __Basic Python__ 
+  - [Mutable vs Immutable](https://ledgku.tistory.com/54)  
+  
+>>>>>>> efc42947f72d36c5c6259e097cd0b0dff364972a
 + __Data Structure__
   - [ ] Arrays 
   - [ ] Stacks, Queues, and Deques
