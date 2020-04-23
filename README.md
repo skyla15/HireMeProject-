@@ -16,6 +16,13 @@
 + [Computer Architecture](#Computer-Architecture)
 + [Operating System](#Operating-System)
 + [ML / DL](#ML--DL)  
+___
+#### Today's Job 
+- [ ] Research on Data Related Jobs and Requirement 
+
+#### Tomorrow 
+- [ ] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2
+- [ ] [Data Structure and Algorithm] Algorithm Analysis - Chapter 3
 ___   
 ### Project 
 As of 04/23/20  
@@ -27,7 +34,6 @@ As of 04/23/20
   <summary><b>Past Projects</b></summary> 
   - ....Updating....
 </details>
-
 ___      
 
 ### Goal Of This Repository 
