@@ -82,7 +82,7 @@ ___
 3. .... Updating ....
 ___
 ### Youtube References
-[Characteristics of languages explained - Joma Tech ](https://www.youtube.com/watch?v=Pb3AAfz5Yjg)
+1. [Characteristics of languages explained - Joma Tech ](https://www.youtube.com/watch?v=Pb3AAfz5Yjg)
 
 ### Week/Daily Plan Logs
 <details>  
