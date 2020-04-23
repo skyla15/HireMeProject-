@@ -1,5 +1,7 @@
 ### Contents 
-+ [Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)  
++ [Goal Of This Repository](#Goal-Of-This-Repository)  
++ [Data Engineer Projects Inspiration - in Korean](#Data-Engineer-Projects-Inspiration)
++ [Any Toy Projects - Current/Past](#Projects)
 + [How to study and retain knowledge](#How-to-study-and-retain-knowledge)  
 + [Data related careers](#Data-related-careers)
 + [Items I will cover are as below](#Items-I-will-cover-are-as-below)
@@ -32,7 +34,7 @@ __The ultimate goal is to work in big tech companies.__
 > Documenting my study.  
 > Setting up goals. 
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
-##### Projects 
+##### Data Engineer Projects Inspiration
 - Data Engineer Career related
   - Starting from a basic project to a practical project to predict the data 
   - [Reference Blog < in Korean > ](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/포트폴리오)
