@@ -328,8 +328,10 @@ ___
 <details>
   <summary><b>Database:</b></summary>  
   - ....Updating....
-</details>
-___  
+</details>  
+
+___ 
+
 ### Computer Architecture
 + [Materials I am going to use](#Materials-I-am-going-to-use)
 + [Computer Architecture](#Computer-Architecture)   
@@ -337,6 +339,7 @@ ___
   <summary><b>Computer Architecture</b></summary>  
   - ....Updating....
 </details>
+
 ___  
 
 ### Operating System
@@ -346,6 +349,8 @@ ___
   <summary><b>Operating System</b></summary>  
   - ....Updating....  
 </details>
+
+___  
 
 ### ML / DL 
 + [Materials I am going to use](#Materials-I-am-going-to-use)  
