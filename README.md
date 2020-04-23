@@ -38,10 +38,10 @@ ___
 
 ### Goal Of This Repository 
 __The ultimate goal is to work in big tech companies.__  
-> Documenting my study.  
-> Setting up goals. 
-> I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
-
+> To have all the indexes from books I read.
+> Link the indexex to my actual repositoreis with explanation of the contents in detail.  
+> Setting up weekly/daily goals.  
+> To have good reference links documented.
 ___    
 
 ### Priority of my study as a job-seeker
