@@ -19,12 +19,15 @@
 >  + [ML / DL](#ML--DL)  
 ___
 #### Today's Job 
-- [ ] Research on Data Related Jobs and Requirement 
+- [X] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2  
 
 #### Tomorrow 
-- [ ] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2
 - [ ] [Data Structure and Algorithm] Algorithm Analysis - Chapter 3
 
+<details>
+  <summary><b>Jobs Done</b></summary> 
+  - [X] Research on Data Related Jobs and Requirement 
+</details>   
 ___     
 
 ### Project 
