@@ -13,8 +13,8 @@
 + [Database](#Database)
 + [Computer Architecture](#Computer-Architecture)
 + [Operating System](#Operating-System)
-+ [ML / DL](#ML--DL)
-___
++ [ML / DL](#ML--DL)  
+___   
 ### Project
 - __Candidates__   
   - [남박사의 파이썬 실전 100% 활용](https://www.inflearn.com/course/파이썬-활용#reviews)  
@@ -25,6 +25,7 @@ ___
   - ....Updating....
 </details>
 ___  
+  
 ### Goal Of This Repository 
 ##### The ultimate goal is to work in big tech companies.
 ##### Documenting my study
