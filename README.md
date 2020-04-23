@@ -21,9 +21,9 @@ ___
 #### Today's Job 
 - [ ] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2 
 - [ ] Git command line and check VIM shortcuts.
-- [ ] The Big-O Notation.
+- [ ] Chapter3 : The Big-O Notation.
 #### Tomorrow 
-- [ ] [Data Structure and Algorithm] Algorithm Analysis - Chapter 3
+- 화이팅
 
 <details>
   <summary><b>Jobs Done</b></summary> 
