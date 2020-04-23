@@ -1,15 +1,16 @@
 ### Contents 
-1. [Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)  
-2. [Data related careers](#Data-related-careers)
-3. [Items I will cover are as below](#Items-I-will-cover-are-as-below)
-4. [Materials I am going to use](#Materials-I-am-going-to-use)   
-5. [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
-6. [Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
-7. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
-8. [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
-9. [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
-10. [C++](#C)
-11. [Youtube References](#Youtube-References)
++ [Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)  
++ [Data related careers](#Data-related-careers)
++ [Items I will cover are as below](#Items-I-will-cover-are-as-below)
++ [Materials I am going to use](#Materials-I-am-going-to-use)   
++ [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
++ [SW engineer youtubers](#Youtube-References)  
++ [Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
++ [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
++ [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
++ [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
++ [C++](#C)
+
 ___
 ### Goal of my study 
 ##### Ultimate and very unrealistic goal is to work in big tech companies.  
@@ -114,7 +115,7 @@ ___
 ### Youtube References
 1. [Characteristics of languages explained - Joma Tech](https://www.youtube.com/watch?v=Pb3AAfz5Yjg)
 2. [What is data science? - Joma Tech](https://www.youtube.com/watch?v=xC-c7E5PK0Y)
-
+___
 ### Week/Daily Plan Logs
 <details>  
   <summary><b> Logs </b></summary>
