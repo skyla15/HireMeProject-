@@ -7,11 +7,12 @@
 6. [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
 7. [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
 8. [C++](#C)
+9. [Youtube References](#Youtube-References)
 ___
 
 ### Goal of my study 
 ##### Ultimate and very unrealistic goal is to work in big tech companies.  
-- To work in one of them, I should know what knowledges they require
+- To work in one of them, I should know what knowledge they require. 
 ##### Data related careers 
 Before I start studying, I find it very necessary to set up my ultimate goal.  
 Data Scientist vs Data Analyst vs Data Engineer vs ML/DL Engineer  
@@ -23,13 +24,17 @@ Trend these days is
 > 3) Data Engineers who maily work with data engineering   
 + __ML Engineer__ : They work with models in specific domains(Computer Vision, Natural Language Process) and _apply these models to products. 
 + __Data Scientist__ : Mainly focus on theretical study in R&D department. Deep and profound knowledge of stastics is needed. They also do the works that __ML engineers__(Design, Modify models, develope additional models) do 
-+ There are also other careers that I can follow such as Gross Hacker(Focusing on self-development more than on product using queries), Data Visualizers(Not many positions open in the market) 
-##### What do I want to be and what knowledge should I need?  
++ There are also other careers that I can follow such as Gross Hacker(Focusing on self-development more than on product using queries), Data Visualizers(Not many positions open in the market)
+___
+##### Requirements to have a career above  
 > It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP )  
 > For the career I want to follow :  
-> I have been ignoring web skills because the real computer science/engineering is within algorithms and data structures. But it seems like in reality, they are implented in all systems not to mention web applicatinos.  
-> 
-___   
+> 1. Datastructure and Algorithms 
+> 2. Django project with visualization of data ( Crawling ) 
+>   2.1 Getting used to cloud servers(AWS, GCP) 
+> 3. [Basic Data Pipeline Knowledge](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-엔지니어) 
+> 4. Basic Knowledge in Machine Learning
+___  
 ### Setting up TODO-List for my coding interview 
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
 > My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
@@ -39,14 +44,18 @@ ___
 > I also think that priorities on which subject are also important   
 ___
 
-### Items here will cover  
+### Items here will cover
+Materials for these items are right below this column
 + 'Fundamental C++'
 + 'Data Structures and Algorithms'<br> 
 + 'Database' <br> 
 + 'Basic Networking Theory and its simple implementation' <br> 
 + 'Basic knowledge of how computer actually works' <br> 
   + Computer Architecture & System Programming(Assembler) <br>
-+ (Optional) Backend,  
++ Backend  
+  + Django ( Looking for materials )
++ Linear Algebra 
++
 ___
 ### Meterials I am going to use   
 0. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
@@ -57,7 +66,12 @@ ___
   1.4. 파이썬 자료구조와 알고리즘 < 리뷰용 > 
 2. C++      
   2.1. [LearnCPP](https://www.learncpp.com)    
-3. ......Updating......   
+3. Django 
+  3.1. ....Updating....
+4. Linear Algebra 
+  4.1. ....Updating....
+5. 
+
 Database and others refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
 ___
 ### How to study and retain knowledge  
@@ -67,6 +81,8 @@ ___
 2. Put it into an actual code  
 3. .... Updating ....
 ___
+### Youtube References
+[Characteristics of languages explained - Joma Tech ](https://www.youtube.com/watch?v=Pb3AAfz5Yjg)
 
 ### Week/Daily Plan Logs
 <details>  
