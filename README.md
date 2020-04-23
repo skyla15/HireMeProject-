@@ -15,12 +15,29 @@
 + [Computer Architecture](#Computer-Architecture)
 + [Operating System](#Operating System)
 + [ML / DL](#ML--DL)
-
+___
+### Project
+- __Candidates__   
+  - ....Updating....
+- __In Progress__       
+  - ....Updating....
 ___
 ### Goal of my study 
-##### Ultimate and very unrealistic goal is to work in big tech companies.  
+##### The ultimate goal is to work in big tech companies.    
 - To work in one of them, I should know what knowledge they require.  
+##### Setting up goals 
+> I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
+##### Projects 
+- Data Engineer Career related
+  - Starting from a basic project to a practical project to predict the data 
+  - [Reference Blog < in Korean > ](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/포트폴리오)
+- General Projects 
+  - My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
+  - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
+ 
 
+> I will have this repository more oriented to Data Engineer rather than a software engineering 
+___    
 ### How to study and retain knowledge  
 - It would be ideal if I can go through all the books I read during the courses in my university, but I have not much time to review all of them. So I will just skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge. Some of them will be implented into the toy projects that I am planning to conduct in the nearest future.   
   
@@ -66,21 +83,7 @@ ___
 > 5. [Basic Data Pipeline Knowledge in Korean](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-엔지니어) 
 > 5. Basic Knowledge in ML/DL
 > 6. Mathematics ( Calculus, Linear Algebra, Discrete Mathematics ) 
-
 ___  
-### Setting up TODO-List for my coding interview 
-> I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
-> My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
-> [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)  
->  
-> I will have this repository more oriented to Data Engineer rather than a software engineering 
-___ 
-### Project
-- __Candidates__   
-  - ....Updating....
-- __In Progress__       
-  - ....Updating....
-___
 
 ### Items I will cover are as below   
 Materials for these items are right below this column
