@@ -82,7 +82,7 @@ Trend these days is
 ___
 
 ### Requirements to have a career above  
-> It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP )  
+> It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP>
 For the career I want to follow :  
  1. Data structure and Algorithms
  2. Basic Compute Science Knowledge ( OS, 
