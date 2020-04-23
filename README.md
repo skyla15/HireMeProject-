@@ -18,7 +18,7 @@
 + [ML / DL](#ML--DL)  
 ___   
 ### Project 
-- as of 04/23/20  
+As of 04/23/20  
 - __Candidates__   
   - [남박사의 파이썬 실전 100% 활용](https://www.inflearn.com/course/파이썬-활용#reviews)  
 - __In Progress__       
