@@ -1,20 +1,21 @@
 ### Contents 
 1. [Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)  
-2. [Items I will cover are as below](#Items-I-will-cover-are-as-below)
-3. [Materials I am going to use](#Materials-I-am-going-to-use)   
-4. [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
-5. [Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
-6. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
-7. [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
-8. [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
-9. [C++](#C)
-10. [Youtube References](#Youtube-References)
+2. [Data related careers](#Data-related-careers)
+3. [Items I will cover are as below](#Items-I-will-cover-are-as-below)
+4. [Materials I am going to use](#Materials-I-am-going-to-use)   
+5. [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
+6. [Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
+7. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
+8. [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
+9. [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
+10. [C++](#C)
+11. [Youtube References](#Youtube-References)
 ___
-
 ### Goal of my study 
 ##### Ultimate and very unrealistic goal is to work in big tech companies.  
 - To work in one of them, I should know what knowledge they require. 
-##### Data related careers 
+___
+#### Data related careers 
 ###### __What is data science?__ 
   - Almost everything that has something to do with data:Collecting, Analyzing, Modeling... yet the most important part is ___its applications__
 ###### __Data XXX__
