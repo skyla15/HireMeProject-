@@ -384,6 +384,8 @@ ___
 
 ###### Internal link with special characters( / & .. ) 
 - Special characters are not counted as a character. 
-###### Why & when -> [Link](Why--when) 
-###### Why / when -> [Link](Why--when)
+###### Why & when  
+-> [Link](Why--when) 
+###### Why / when2  
+-> [Link](Why--when2)
 
