@@ -15,7 +15,7 @@ ___
 - To work in one of them, I should know what knowledge they require. 
 ##### Data related careers 
 - __What is data science?__ 
-  - Almost everything that has something to do with data:Collecting, Analyzing, Modeling... yet the most important part is ___its applications__    
+  - Almost everything that has something to do with data:Collecting, Analyzing, Modeling... yet the most important part is ___its applications__ <br>
 Before I start studying, I find it very necessary to set up my ultimate goal.  
 Data Scientist vs Data Analyst vs Data Engineer vs ML/DL Engineer  
 + __Data Analyst__ : __Data Analyst__ processes data provided by __Data Engineers(Backend Developer)__. They manage and maintain data or data dash board. They also set and analyze KPI(핵심성과지표) to find out reasons of changes of it. If new function is added or there is a need to see a specific log, they design data logs. 
