@@ -302,18 +302,21 @@ ___
 </details>
    
 ___    
+
 ### Django   
 <details>
   <summary><b>Operating System </b></summary>  
-</details>
+</details>  
+
 ___   
-### Database
-- [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)
+
+### Database    
+- [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)  
 <details>
   <summary><b>Database:</b></summary>  
- </details>
+</details>
   
-  
+__
 ### Computer Architecture
 <details>
   <summary><b>Computer Architecture</b></summary>  
