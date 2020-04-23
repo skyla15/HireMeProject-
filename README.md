@@ -300,10 +300,14 @@ ___
   - [ ] Not Started Yet
 </details>
    
-___      
-
+___    
+### Django   
+<details>
+  <summary><b>Operating System </b></summary>  
+</details>
+___
 ### Database
-- I am going to need to refer to Google University for basics for the first 
+- [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)
 <details>
   <summary><b>Database:</b></summary>  
  </details>
@@ -314,6 +318,7 @@ ___
   <summary><b>Computer Architecture</b></summary>  
 </details>
 
+### ML / DL 
 <details>
   <summary><b>Operating System </b></summary>  
 </details>
