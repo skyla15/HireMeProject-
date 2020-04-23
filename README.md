@@ -99,8 +99,7 @@ ___
   
   * 4/23     
     - [ ] Research on Data related career
-    - [ ] Choose materials 
-    - [ ] 
+    - [ ] Choose materials  
       
   </details>
 </details>   
