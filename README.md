@@ -1,13 +1,14 @@
 ### Contents 
-1. [Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)   
-2. [Materials I am going to use](#Materials-I-am-going-to-use)   
-3. [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
-4. [Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
-5. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
-6. [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
-7. [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
-8. [C++](#C)
-9. [Youtube References](#Youtube-References)
+1. [Setting up TODO list for my coding interview](#Setting-up-TODO-list-for-my-coding-interview)  
+2. [Items I will cover are as below](#Items-I-will-cover-are-as-below)
+3. [Materials I am going to use](#Materials-I-am-going-to-use)   
+4. [How to study and retain knowledge](#How-to-study-and-retain-knowledge)   
+5. [Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
+6. [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
+7. [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
+8. [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
+9. [C++](#C)
+10. [Youtube References](#Youtube-References)
 ___
 
 ### Goal of my study 
@@ -53,7 +54,7 @@ ___
   - ....Updating....
 ___
 
-### Items here will cover
+### Items I will cover are as below   
 Materials for these items are right below this column
 + Data Structures and Algorithms   
 + Fundamental C++
