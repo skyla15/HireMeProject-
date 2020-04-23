@@ -306,7 +306,7 @@ ___
 <details>
   <summary><b>Operating System </b></summary>  
 </details>
-___
+___   
 ### Database
 - [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)
 <details>
