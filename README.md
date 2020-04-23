@@ -2,7 +2,7 @@
 + [Goal Of This Repository](#Goal-Of-This-Repository)  
 + [Data Engineer Projects Inspiration - in Korean](#Data-Engineer-Projects-Inspiration)
 + [Any Toy Projects - Current/Past](#Projects)
-+ [How to study and retain knowledge](#How-to-study-and-retain-knowledge)  
++ [Priority of my study as job-seeker](#Priority-of-my-study-as-job-seeker)  
 + [Data related careers](#Data-related-careers)
 + [Items I will cover are as below](#Items-I-will-cover-are-as-below)
 + [Materials I am going to use](#Materials-I-am-going-to-use)   
@@ -44,23 +44,19 @@ __The ultimate goal is to work in big tech companies.__
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
     - I will have this repository more oriented to Data Engineering rather than software engineering 
 ___    
-### How to study and retain knowledge  
-- It would be ideal if I can go through all the books I read during the courses in my university, but I have not much time to review all of them. So I will just skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge. Some of them will be implented into the toy projects that I am planning to conduct in the nearest future.   
-  
-My study method will not be much different from others.  
+### Priority of my study as job-seeker
+Skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge.   
+Some of them will be implented into the toy projects that I am planning to conduct in the nearest future.    
 I will pick one subjects from the list below and beat it.   
-__Algorithms and Django are the first task that I have to get done__  
-- Purpose of studying all of these is to get a job, not to investigate. 
-- The companies require __MINIMUM basic concepts of fundamental Computer Science__ and __MAXIMUM practical algorithm capacity along with optimization of the algorithm__  
-- Toy Projects  
-  - They will be developed as an web application and also a mobile application < Hybrid Web Application >. 
+- __MINIMUM basic concepts of fundamental Computer Science__  
+- __MAXIMUM practical algorithm capacity along with optimization of the algorithm__.   
   
- * Data Structure and Algorithm 
- * Django / C++
- 1. Toy Projects using Django with basic APIs 
- 2. DL / ML ( + Mathematics if needed )   
-   2.1. Solving [Kaggle](www.kaggle.com) problems will be accompanied
- 3. Theory ( Database, OS, Network, OOP ) 
+> 1. Data Structure and Algorithm 
+> 2. Django / C++
+> 3. Toy Projects using Django with basic APIs 
+> 4. DL / ML ( + Mathematics if needed )   
+>   2.1. Solving [Kaggle](www.kaggle.com) problems will be accompanied
+> 5. Theory ( Database, OS, Network, OOP ) 
 ___   
  
 ### Data related careers 
