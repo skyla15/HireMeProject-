@@ -19,19 +19,20 @@
 >  + [ML / DL](#ML--DL)  
 ___
 #### Today's Job 
-- [X] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2  
+- [ ] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2 
 
 #### Tomorrow 
 - [ ] [Data Structure and Algorithm] Algorithm Analysis - Chapter 3
 
 <details>
   <summary><b>Jobs Done</b></summary> 
-  
+
   - [X] Research on Data Related Jobs and Requirement  
+  - [ ]  
 
 </details>   
 
-___     
+___
 
 ### Project 
 As of 04/23/20  
@@ -43,8 +44,7 @@ As of 04/23/20
   <summary><b>Past Projects</b></summary> 
   - ....Updating....
 </details>   
-
-___      
+___
 
 ### Goal Of This Repository 
 __The ultimate goal is to work in big tech companies.__  
@@ -53,7 +53,7 @@ __The ultimate goal is to work in big tech companies.__
 > Setting up weekly/daily goals.    
 > To have good reference links documented.  
 
-___    
+___
 
 ### Priority of my study as a job-seeker
 Skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge.   
@@ -66,10 +66,10 @@ I will pick one subjects from the list below and beat it.
 > 2. Django / C++
 > 3. Toy Projects using Django with basic APIs 
 > 4. DL / ML ( + Mathematics if needed )   
->   2.1. Solving [Kaggle](www.kaggle.com) problems will be accompanied
+>     2.1. Solving [Kaggle](www.kaggle.com) problems will be accompanied
 > 5. Theory ( Database, OS, Network, OOP, Computer Architecture ) 
 
-___   
+___
 
 ### Data Engineer Projects Inspiration
 - Data Engineer Career related
@@ -80,7 +80,7 @@ ___
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
     - I will have this repository more oriented to Data Engineering rather than software engineering 
     
-___  
+___
 
 ### Data related careers 
 #### __What is data science?__ 
@@ -101,7 +101,7 @@ ___
 ### Requirements to have a career above  
 > It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP>  
 
-  
+
  1. Data structure and Algorithms
  2. Basic Compute Science Knowledge ( Database, OS, Network, OOP, Computer Architecture ) 
  3. Backend Knowledge  
@@ -109,8 +109,8 @@ ___
  5. [Basic Data Pipeline Knowledge in Korean](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-엔지니어) 
  5. Basic Knowledge in ML/DL
  6. Mathematics ( Calculus, Linear Algebra, Discrete Mathematics ) 
- 
-___  
+
+___
 
 ### Items I will cover are as below   
 Materials for these items are right below this column
@@ -160,7 +160,7 @@ ___
 
 Refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
 ___
- 
+
 ### Youtube References
 1. [Characteristics of languages explained - Joma Tech](https://www.youtube.com/watch?v=Pb3AAfz5Yjg)
 2. [What is data science? - Joma Tech](https://www.youtube.com/watch?v=xC-c7E5PK0Y)
@@ -169,7 +169,7 @@ ___
 ### Coding Exercises/Challenges
 <details>
   <summary><b>Contents</b></summary>
-  
+
 Korean Sites:
 - 👍👍[Programmers](https://programmers.co.kr)
   - 각 알고리즘 단계별 문제 있음 ( It has problems sorted by difficulty for algorithms ) 
@@ -215,7 +215,7 @@ ___
 - The list needs to be narrowed down.  
 <details>
   <summary><b>contents</b></summary> 
-  
+
   - Nothing to implement     
   - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.  
   - If some of the lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge.  
@@ -239,14 +239,14 @@ ___
 
 </details>
 
-___  
-   
+___
+
 ### Data Structure & Algorithms in Python    
 + [Materials I am going to use](#Materials-I-am-going-to-use)  
 
 <details>
   <summary><b> Contents </b></summary>  
-  
+
 + __Data Structure__
   - [ ] Arrays 
   - [ ] Stacks, Queues, and Deques
@@ -276,7 +276,7 @@ ___
     + Splay Trees 
     + (2,4) Trees 
     + Red-Black Trees ( Optional )
-    
+  
 + __Algorithms__
   - [ ] Sorting and Selection 
     + Merge Sort
@@ -312,21 +312,21 @@ ___
     + External Searching and B-Trees
       + (a,b) Trees 
       + B-Trees
-      
+  
 + NP, NP-Complete and Approximation [구글대학교 참고](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep)
       
+
 </details>
 
 ___
-   
+
 ### C++ 
 - [LearnCPP](https://www.learncpp.com)  
 <details>
   <summary><b>contents</b></summary> 
   - ....Updating....
 </details>
-   
-___    
+___
 
 ### Django   
 + [Materials I am going to use](#Materials-I-am-going-to-use)  
@@ -334,8 +334,7 @@ ___
   <summary><b>Operating System </b></summary>  
   - ....Updating....
 </details>  
-
-___   
+___
 
 ### Database    
 + [Materials I am going to use](#Materials-I-am-going-to-use)  
@@ -344,8 +343,7 @@ ___
   <summary><b>Database:</b></summary>  
   - ....Updating....
 </details>  
-
-___ 
+___
 
 ### Computer Architecture
 + [Materials I am going to use](#Materials-I-am-going-to-use)
@@ -354,8 +352,7 @@ ___
   <summary><b>Computer Architecture</b></summary>  
   - ....Updating....
 </details>
-
-___  
+___
 
 ### Operating System
 + [Materials I am going to use](#Materials-I-am-going-to-use)
@@ -364,8 +361,7 @@ ___
   <summary><b>Operating System</b></summary>  
   - ....Updating....  
 </details>
-
-___  
+___
 
 ### ML / DL 
 + [Materials I am going to use](#Materials-I-am-going-to-use)  
@@ -373,12 +369,11 @@ ___
   <summary><b>Operating System </b></summary>  
   - ....Updating....
 </details>
+___
 
-___  
+  
 
-  
-  
-  
+
 ### Markdown Reference
 
 ###### 제목
@@ -404,8 +399,9 @@ ___
 
 ###### 인용구 
 > 1단계
->> 2단계
->>> 3단계
+> > 2단계
+> >
+> > > 3단계
 
 ###### 링크
 [Markdown 설명 블로그](https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/).    
