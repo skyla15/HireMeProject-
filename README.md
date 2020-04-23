@@ -5,7 +5,6 @@
 + [Items I will cover are as below](#Items-I-will-cover-are-as-below)
 + [Materials I am going to use](#Materials-I-am-going-to-use)   
 + [SW engineer youtubers](#Youtube-References)  
-+ [Week/Daily Plan Logs](#WeekDaily-Plan-Logs)   
 + [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
 + [Algorithmic Complexity / Big-O / Asymtotic Analysis](#Algorithmic-Complexity--Big-O--Asymtotic-Analysis)   
 + [Data Structure & Algorithms in Python](#Data-Structure--Algorithms-in-Python)
@@ -132,31 +131,9 @@ ___
 Refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
 ___
  
-___
 ### Youtube References
 1. [Characteristics of languages explained - Joma Tech](https://www.youtube.com/watch?v=Pb3AAfz5Yjg)
 2. [What is data science? - Joma Tech](https://www.youtube.com/watch?v=xC-c7E5PK0Y)
-___
-### Week/Daily Plan Logs
-<details>  
-  <summary><b> Logs </b></summary>
-  <details>
-    <summary> Week Goals </summary>
-    
-  * 4/23 ~ 4/26  
-    - [ ] Set up a goal, choose materials, build a plan     
-      
-  </details>
-  <details>
-    <summary> Daily Goals </summary>
-  
-  * 4/23     
-    - [ ] Research on Data related career
-    - [ ] Choose materials  
-      
-  </details>
-</details>   
-  
 ___
 
 ### Coding Exercises/Challenges
