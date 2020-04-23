@@ -141,11 +141,9 @@ ___
   <summary><b>Contents</b></summary>
   
 Korean Sites:
--[Programmers](https://programmers.co.kr)
+- 👍👍[Programmers](https://programmers.co.kr)
   - 각 알고리즘 단계별 문제 있음 ( It has problems sorted by difficulty for algorithms ) 
   - 각 챕터마다 주제 풀기 ( Crack problems whenever I finish each chapter ) 
-- [How to Find a Solution](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-find-a-solution/)
-- [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-dissect-a-topcoder-problem-statement/)
 
 Coding Interview Question Videos:
 - [IDeserve (88 videos)](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
@@ -156,24 +154,17 @@ Coding Interview Question Videos:
     - You can watch several in a short time.
 - [FisherCoder - LeetCode Solutions](https://youtube.com/FisherCoder)
 
-Challenge sites:
-- [LeetCode](https://leetcode.com/)
-    - My favorite coding problem site. It's worth the subscription money for the 1-2 months you'll likely be preparing.
-    - [LeetCode solutions from FisherCoder](https://github.com/fishercoder1534/Leetcode) 
-    - See Nick White Videos above for short code-throughs
-- [HackerRank](https://www.hackerrank.com/)
-- [TopCoder](https://www.topcoder.com/)
-- [InterviewCake](https://www.interviewcake.com/)
-- [Geeks for Geeks](http://www.geeksforgeeks.org/)
-- [InterviewBit](https://www.interviewbit.com/invite/icjf)
-- [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
+Challenge sites:  
+- 👍👍[LeetCode](https://leetcode.com/)  
+    - [LeetCode solutions from FisherCoder](https://github.com/fishercoder1534/Leetcode)   
+    - See Nick White Videos above for short code-throughs  
+- 👍[Geeks for Geeks](http://www.geeksforgeeks.org/)  
+- [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)   
+- [(Optional - InterviewCake](https://www.interviewcake.com/)
 
 Language-learning sites, with challenges:
-- [Codewars](http://www.codewars.com)
-- [Codility](https://codility.com/programmers/)
-- [HackerEarth](https://www.hackerearth.com/)
-- [Sphere Online Judge (spoj)](http://www.spoj.com/)
-- [Codechef](https://www.codechef.com/)
+- 👍👍[Excercism](https://exercism.io/my/tracks/python)
+- 👍[Codewars](http://www.codewars.com)
 
 Challenge repos:
 - [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
@@ -188,6 +179,7 @@ Mock Interviews:
 ___
 
 ### Algorithmic Complexity / Big-O / Asymtotic Analysis   
+- The list needs to be narrowed down.  
 <details>
   <summary><b>contents</b></summary> 
   
