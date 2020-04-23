@@ -41,10 +41,10 @@ ___
 
 ### Goal Of This Repository 
 __The ultimate goal is to work in big tech companies.__  
-> To have all the indexes from books I read.
-> Link the indexex to my actual repositoreis with explanation of the contents in detail.  
-> Setting up weekly/daily goals.  
-> To have good reference links documented.
+> To have all the indexes from books I read.   
+> Link the indexex to my actual repositoreis with explanation of the contents in detail.     
+> Setting up weekly/daily goals.    
+> To have good reference links documented.  
 
 ___    
 
