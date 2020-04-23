@@ -32,12 +32,12 @@ ___
 ##### Requirements to have a career above  
 > It is obviously essential to have fundamental knowledge in computer science( Computer Architecture<at least how codes actually works in computers, Cache> Data Structure and Algorithm, OS<Scheduling, Memory, Process and Thread>, Network<DNS, TCP & UDP )  
 > For the career I want to follow :  
-> 1. Datastructure and Algorithms 
-> 2. Django project with visualization of data  
->   2.1 Getting used to cloud servers(AWS, GCP) 
-> 3. [Basic Data Pipeline Knowledge](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-엔지니어) 
-> 4. Basic Knowledge in Machine Learning
->   4.1 ....Updating.... 
+> 1. Data structure and Algorithms  
+> 3. Cloud Services(AWS, GCP) 
+> 4. [Basic Data Pipeline Knowledge in Korean](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-엔지니어) 
+> 5. Basic Knowledge in ML/DL
+> 6. Mathematics ( Calculus, Linear Algebra, Discrete Mathematics ) 
+
 ___  
 ### Setting up TODO-List for my coding interview 
 > I have not narrowed down the TODO lists for my specific purpose yet but I am willing to recall what I learnt in my bachelor's.  
@@ -46,10 +46,11 @@ ___
 >  
 > I will have this repository more oriented to Data Engineer rather than a software engineering 
 ___ 
-### Project Candidates    
-- ....Updating....
-### Project in progress   
-- ....Updating....
+### Project
+- __Candidates__   
+  - ....Updating....
+- __In Progress__       
+  - ....Updating....
 ___
 
 ### Items here will cover
@@ -59,12 +60,6 @@ Materials for these items are right below this column
 + Backend  
   + Django ( Looking for materials )
 + Database  
-  + SQL, 
-  + DBMS  
-    + NoSql, MongoDB...
-    + BigData : BigQeury, Hbase...
-  + Normalization
-  + Indexing 
 + ML / DL    
   + ....Updating....
 + Linear Algebra 
@@ -73,6 +68,7 @@ Materials for these items are right below this column
 + Basic Networking Theory and its simple implementation   
 + Basic knowledge of how computer actually works    
   + Computer Architecture & System Programming(Assembler) 
++ OOP  
 ___
 ### Materials I am going to use   
 + [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
@@ -98,16 +94,20 @@ ___
     + ....Updating....
 + Parallel Computing Technology
   + ....Updating....
-
-
-Database and others refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
++ OOP  
+  + ...Updating...
+Refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
 ___
 ### How to study and retain knowledge  
-- Basic Rule : At Least One Chapter A Day    
-- There may be some tasks that will take some days or some tasks will take only a couple of hours. I will try to balance it and document them on here.
-1. Read a chapter of [meterials](#Meterials-I-am-going-to-use)
-2. Put it into an actual code  
-3. .... Updating ....
+I am thinking to study in this order.  
+There will be times when I mix up the order.  
+  
+> 1. Data Structure and Algorithm 
+> 2. Django / C++
+> 3. Projects using Django with basic APIs 
+> 4. DL / ML ( + Mathematics if needed )   
+> 5. Theory ( Database, OS, Network, OOP ) 
+ 
 ___
 ### Youtube References
 1. [Characteristics of languages explained - Joma Tech](https://www.youtube.com/watch?v=Pb3AAfz5Yjg)
