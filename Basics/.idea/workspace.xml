@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f088fe44-e24d-455d-ab54-7d27ce8740bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Za2Zu2EsaiYFGtGBlok8B3GrAm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="EditorConfig" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DS_Algo/Queue" />
+      <recent name="$PROJECT_DIR$/DS_Algo" />
+      <recent name="$PROJECT_DIR$/Coding_Dojang/0_시퀀스객체_반복가능객체 " />
+      <recent name="$PROJECT_DIR$/Coding_Dojang" />
+      <recent name="$PROJECT_DIR$/Coding_Dojang/37_두점거리구하기" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Dequeue">
+    <configuration name="문자열분리하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열분리하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="42_7_연습문제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coding_Dojang/42_데코레이터" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coding_Dojang/42_데코레이터/42_7_연습문제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dequeue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS_Algo/Queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS_Algo/Queue/Dequeue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Linked_List_Queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS_Algo/Queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS_Algo/Queue/Linked_List_Queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Queue_with_one_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS_Algo/Queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS_Algo/Queue/Queue_with_one_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Queue_with_two_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS_Algo/Queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS_Algo/Queue/Queue_with_two_lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Dequeue" />
+        <item itemvalue="Python.Linked_List_Queue" />
+        <item itemvalue="Python.Queue_with_two_lists" />
+        <item itemvalue="Python.Queue_with_one_list" />
+        <item itemvalue="Python.42_7_연습문제" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f088fe44-e24d-455d-ab54-7d27ce8740bb" name="Default Changelist" comment="" />
+      <created>1585062942293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585062942293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585213959254">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822/1440.-142.1366.1001@0.23.1440.822" timestamp="1585213959254" />
+    <state x="382" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585667024650">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="382" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585667024650" />
+    <state width="1419" height="176" key="GridCell.Tab.0.bottom" timestamp="1586342291694">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="121" key="GridCell.Tab.0.bottom/-1366.-25.1366.1001/0.23.1440.822@0.23.1440.822" timestamp="1585902409008" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900/-190.-1080.1920.1080@0.0.1440.900" timestamp="1585175330113" />
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586340374263" />
+    <state width="1419" height="141" key="GridCell.Tab.0.bottom/0.23.1440.822/-1366.-101.1366.1001@0.23.1440.822" timestamp="1586078493150" />
+    <state width="1419" height="159" key="GridCell.Tab.0.bottom/0.23.1440.822/-186.-1057.1920.1057@0.23.1440.822" timestamp="1586019549334" />
+    <state width="1419" height="148" key="GridCell.Tab.0.bottom/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585810418176" />
+    <state width="1419" height="99" key="GridCell.Tab.0.bottom/0.23.1440.822/1440.-142.1366.1001@0.23.1440.822" timestamp="1585217495590" />
+    <state width="1419" height="176" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1586342291694" />
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877/-190.-1057.1920.1002@0.23.1440.877" timestamp="1585129608629" />
+    <state width="1419" height="176" key="GridCell.Tab.0.center" timestamp="1586342291694">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="121" key="GridCell.Tab.0.center/-1366.-25.1366.1001/0.23.1440.822@0.23.1440.822" timestamp="1585902409007" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900/-190.-1080.1920.1080@0.0.1440.900" timestamp="1585175330112" />
+    <state width="1419" height="206" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586340374262" />
+    <state width="1419" height="141" key="GridCell.Tab.0.center/0.23.1440.822/-1366.-101.1366.1001@0.23.1440.822" timestamp="1586078493149" />
+    <state width="1419" height="159" key="GridCell.Tab.0.center/0.23.1440.822/-186.-1057.1920.1057@0.23.1440.822" timestamp="1586019549333" />
+    <state width="1419" height="148" key="GridCell.Tab.0.center/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585810418175" />
+    <state width="1419" height="99" key="GridCell.Tab.0.center/0.23.1440.822/1440.-142.1366.1001@0.23.1440.822" timestamp="1585217495590" />
+    <state width="1419" height="176" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1586342291694" />
+    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.877/-190.-1057.1920.1002@0.23.1440.877" timestamp="1585129608628" />
+    <state width="1419" height="176" key="GridCell.Tab.0.left" timestamp="1586342291693">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="121" key="GridCell.Tab.0.left/-1366.-25.1366.1001/0.23.1440.822@0.23.1440.822" timestamp="1585902409006" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900/-190.-1080.1920.1080@0.0.1440.900" timestamp="1585175330111" />
+    <state width="1419" height="206" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586340374261" />
+    <state width="1419" height="141" key="GridCell.Tab.0.left/0.23.1440.822/-1366.-101.1366.1001@0.23.1440.822" timestamp="1586078493149" />
+    <state width="1419" height="159" key="GridCell.Tab.0.left/0.23.1440.822/-186.-1057.1920.1057@0.23.1440.822" timestamp="1586019549333" />
+    <state width="1419" height="148" key="GridCell.Tab.0.left/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585810418175" />
+    <state width="1419" height="99" key="GridCell.Tab.0.left/0.23.1440.822/1440.-142.1366.1001@0.23.1440.822" timestamp="1585217495589" />
+    <state width="1419" height="176" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1586342291693" />
+    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.877/-190.-1057.1920.1002@0.23.1440.877" timestamp="1585129608628" />
+    <state width="1419" height="176" key="GridCell.Tab.0.right" timestamp="1586342291694">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="121" key="GridCell.Tab.0.right/-1366.-25.1366.1001/0.23.1440.822@0.23.1440.822" timestamp="1585902409007" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900/-190.-1080.1920.1080@0.0.1440.900" timestamp="1585175330113" />
+    <state width="1419" height="206" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586340374263" />
+    <state width="1419" height="141" key="GridCell.Tab.0.right/0.23.1440.822/-1366.-101.1366.1001@0.23.1440.822" timestamp="1586078493149" />
+    <state width="1419" height="159" key="GridCell.Tab.0.right/0.23.1440.822/-186.-1057.1920.1057@0.23.1440.822" timestamp="1586019549334" />
+    <state width="1419" height="148" key="GridCell.Tab.0.right/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585810418175" />
+    <state width="1419" height="99" key="GridCell.Tab.0.right/0.23.1440.822/1440.-142.1366.1001@0.23.1440.822" timestamp="1585217495590" />
+    <state width="1419" height="176" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1586342291694" />
+    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.877/-190.-1057.1920.1002@0.23.1440.877" timestamp="1585129608629" />
+    <state width="1419" height="121" key="GridCell.Tab.1.bottom" timestamp="1586173186276">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="121" key="GridCell.Tab.1.bottom/-1366.-25.1366.1001/0.23.1440.822@0.23.1440.822" timestamp="1585902409010" />
+    <state width="1419" height="117" key="GridCell.Tab.1.bottom/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585667423174" />
+    <state width="1419" height="99" key="GridCell.Tab.1.bottom/0.23.1440.822/1440.-142.1366.1001@0.23.1440.822" timestamp="1585217495591" />
+    <state width="1419" height="121" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1586173186276" />
+    <state width="1419" height="121" key="GridCell.Tab.1.center" timestamp="1586173186275">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="121" key="GridCell.Tab.1.center/-1366.-25.1366.1001/0.23.1440.822@0.23.1440.822" timestamp="1585902409009" />
+    <state width="1419" height="117" key="GridCell.Tab.1.center/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585667423173" />
+    <state width="1419" height="99" key="GridCell.Tab.1.center/0.23.1440.822/1440.-142.1366.1001@0.23.1440.822" timestamp="1585217495591" />
+    <state width="1419" height="121" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1586173186275" />
+    <state width="1419" height="121" key="GridCell.Tab.1.left" timestamp="1586173186274">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="121" key="GridCell.Tab.1.left/-1366.-25.1366.1001/0.23.1440.822@0.23.1440.822" timestamp="1585902409008" />
+    <state width="1419" height="117" key="GridCell.Tab.1.left/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585667423173" />
+    <state width="1419" height="99" key="GridCell.Tab.1.left/0.23.1440.822/1440.-142.1366.1001@0.23.1440.822" timestamp="1585217495590" />
+    <state width="1419" height="121" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1586173186274" />
+    <state width="1419" height="121" key="GridCell.Tab.1.right" timestamp="1586173186275">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="121" key="GridCell.Tab.1.right/-1366.-25.1366.1001/0.23.1440.822@0.23.1440.822" timestamp="1585902409009" />
+    <state width="1419" height="117" key="GridCell.Tab.1.right/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585667423173" />
+    <state width="1419" height="99" key="GridCell.Tab.1.right/0.23.1440.822/1440.-142.1366.1001@0.23.1440.822" timestamp="1585217495591" />
+    <state width="1419" height="121" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1586173186275" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1586356832238">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822/-1366.-101.1366.1001@0.23.1440.822" timestamp="1586079230859" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822/-186.-1057.1920.1057@0.23.1440.822" timestamp="1586356832238" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585809814441" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822/1440.23.1366.1001@0.23.1440.822" timestamp="1585205715036" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822/1440.23.800.577@0.23.1440.822" timestamp="1585358985796" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1586341057058" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/1440.23.1366.1001/0.23.1440.822/0.-1057.1920.1057@0.23.1440.822" timestamp="1585656152242" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1586331170838">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/-1366.-25.1366.1001/0.23.1440.822@0.23.1440.822" timestamp="1585900608506" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822/-186.-1057.1920.1057@0.23.1440.822" timestamp="1586016941598" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822/-190.-1057.1920.1057@0.23.1440.822" timestamp="1585810255611" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822/1440.-142.1366.1001@0.23.1440.822" timestamp="1585217015953" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1586331170838" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Output/24_2_String_Advance.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Dojang/34_Class/34_2_Method_Attribute.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
