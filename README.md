@@ -19,15 +19,13 @@
 >  + [ML / DL](#ML--DL)  
 ___
 #### Today's Job 
-- [ ] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2 
-- [ ] Git command line and check VIM shortcuts.
 - [ ] Chapter3 : The Big-O Notation.
 #### Tomorrow 
-- 화이팅
-
+- [ ] Chapter 4 :Recursion 
+- [ ] Git command line and check VIM shortcuts.
 <details>
   <summary><b>Jobs Done</b></summary> 
-
+  - [x] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2 
   - [X] Research on Data Related Jobs and Requirement  
 
 </details>   
