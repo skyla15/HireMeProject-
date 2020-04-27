@@ -13,6 +13,7 @@ print(alias1 is alias2) # True
 print(alias1 == alias2) # True
 print(alias1) # 10000,2,3,4,5
 print()
+
 # Shallow Copy
 # Different Instances, Same Reference
 # shallow1 과 shallw2 는 서로 다른 복합 객체를 가르킴
