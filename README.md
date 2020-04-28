@@ -19,14 +19,17 @@
 >  + [ML / DL](#ML--DL)  
 ___
 #### Today's Job 
-- [ ] Chapter3 : The Big-O Notation.
+
+- [ ] 04/29 Chapter6 : Stack / Queue/ Deque review, revise 
+- [ ] 04/29 Python Library(Korean) : https://python.bakyeono.net/chapter-11.html
+- [ ] 04/29 programmer.co.kr : Queue/Stack/Deque review, revise 
 #### Tomorrow 
-- [ ] Chapter 4 :Recursion 
 - [ ] Git command line and check VIM shortcuts.
 <details>
   <summary><b>Jobs Done</b></summary> 
   - [x] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2 
-  - [X] Research on Data Related Jobs and Requirement  
+  - [X] Research on Data Related Jobs and Requirement 
+	- [X]  Chapter3 : The Big-O Notation.
 
 </details>   
 
@@ -127,12 +130,14 @@ Materials for these items are right below this column
 ___
 ### Materials I am going to use   
 + [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
-+ Coding Test and Interviews  
-  + Data Structure & Algorithms in Python ( T. Goodrich )     
++ Coding Test and Interviews   
   + Elements Of Programming Intervies in Python ( The insiders' Guide )     
   + Grokking Algorithms ( Aditya Y. Bhargava )   
-  + 파이썬 자료구조와 알고리즘 < 리뷰용 > 
-+ C++      
++ Data Structures and Algorithms      
+  - library : https://librewiki.net/wiki/ ( Korean )
+  - Data Structure & Algorithms in Python ( T. Goodrich ) 
+  - 파이썬 자료구조와 알고리즘 < 리뷰용 > 
++ C++
   + [LearnCPP](https://www.learncpp.com)    
 + Django 
   + ....Updating....
@@ -211,41 +216,21 @@ ___
 
 ### Algorithmic Complexity / Big-O / Asymtotic Analysis   
 - The list needs to be narrowed down.  
+- https://librewiki.net/wiki/ ( Korean )
 <details>
   <summary><b>contents</b></summary> 
 
-  - Nothing to implement     
-  - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.  
-  - If some of the lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge.  
-    - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)   
-    - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)  
-    - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)  
-      - [ ] Skiena:  
-        - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)  
-        - [slides](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)  
-    - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)  
-    - [ ] [Orders of Growth (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/orders-of-growth-6PKkX)  
-    - [ ] [Asymptotics (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/asymptotics-bXAtM)  
-    - [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)  
-    - [ ] [UC Berkeley Big Omega (video)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)  
-    - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)  
-    - [ ] [Illustrating "Big O" (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/illustrating-big-o-YVqzv)  
-      - [ ] TopCoder (includes recurrence relations and master theorem):  
-        - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)  
-        - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)  
-    - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
 </details>
 
 ___
 
 ### Data Structure & Algorithms in Python    
-+ [Materials I am going to use](#Materials-I-am-going-to-use)  
++ [Materials I am going to use](#Materials-I-am-going-to-use)   
 
 <details>
   <summary><b> Contents </b></summary>  
 <<<<<<< HEAD
-
 =======
 
 + __Basic Python__ 
