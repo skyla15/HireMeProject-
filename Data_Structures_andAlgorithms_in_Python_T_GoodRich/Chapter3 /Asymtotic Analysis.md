@@ -47,13 +47,13 @@ The quadratic function can arise in the context of nested loops where the first 
 ~~~python
 def find_max(data):
  ”””Return the maximum element from a nonempty Python list.”””
-	biggest = data[0] 		# The initial value to beat
-  											# initialization 		( O(1) ), 1개 인덱스 접근 
-	for val in data:			# For each value		( O(n) )
+	biggest = data[0]			# The initial value to beat
+						# initialization ( O(1) ), 1개 인덱스 접근 
+	for val in data:			# For each value	( O(n) )
 		if val > biggest:		# if it is greater than the best so far
-			biggest = val			# we have found a new best so far
-return biggest					# when loop ends, biggest is the max 
-												# return 						( O(1) )
+			biggest = val		# we have found a new best so far
+	return biggest				# when loop ends, biggest is the max 
+						# return 		( O(1) )
   # f(n) = n + 2 <= g(n) = c*n
   # find_max 함수는 O(g(n)) = O(n)
 ~~~
@@ -70,28 +70,28 @@ return biggest					# when loop ends, biggest is the max
 
 ~~~python
 def prefix_average1(S):
-    n = len(S)									# Assignment of n with len -> constant * 2 => O(1)
+    n = len(S)			# Assignment of n with len -> constant * 2 => O(1)
     A = [0] * n                 # Assignment of list with length n 
-    														# with all entries equal to zero 
-      													# Constant number of primitive operation per element
-        												# n * 1 => O(n)
+    				# with all entries equal to zero 
+      				# Constant number of primitive operation per element
+        			# n * 1 => O(n)
     for j in range(n):
-        total = 0								# total is initialized n times O(n)
+        total = 0		# total is initialized n times O(n)
         for i in range(j+1):    # 1, 2, ...., n times executed -> n(n+1)/2
             total += S[i]          
         A[j] = total / (j + 1)	# executed n times, O(n)
-        												# f(n) = 2 + n + 2n + n(n+1)/2 => O(n^2)
+        			# f(n) = 2 + n + 2n + n(n+1)/2 => O(n^2)
         
 
 def prefix_average2(S):
-    n = len(S)									# Assignment of n with len -> constant * 2 => O(1)
-    A = [0] * n                 # O(n) 위와 같음
-    for j in range(n):					# 함수와 슬라이싱 사용으로 큰 차이 안남. 
+    n = len(S)				# Assignment of n with len -> constant * 2 => O(1)
+    A = [0] * n                		# O(n) 위와 같음
+    for j in range(n):			# 함수와 슬라이싱 사용으로 큰 차이 안남. 
         A[j] = sum(S[0:j+1]) / (j + 1)  # sum function call -> O(j+1) 
-        																# 슬라이스 사용 시, 새로운 리스트를 생성함
-          															# Slice -> O(j+1)
-            														# Therefore, 1 + 2 + 3... + n => O(n^2)
-              									# f(n) = 1 + n + n(n+1)/2
+        				# 슬라이스 사용 시, 새로운 리스트를 생성함
+          				# Slice -> O(j+1)
+            				# Therefore, 1 + 2 + 3... + n => O(n^2)
+              				# f(n) = 1 + n + n(n+1)/2
 # 결과값
 # prefix_average1, 4.465381860733032
 # prefix_average2, 0.6748650074005127 
@@ -101,15 +101,15 @@ def prefix_average2(S):
 
 ~~~python
 def prefix_average3(S):
-    n = len(S)              # Assignment ( O(1) )
-    A = [0] * n             # O(n)
-    total = 0               # Assignment ( O(1) )
+    n = len(S)            	# Assignment ( O(1) )
+    A = [0] * n           	# O(n)
+    total = 0			# Assignment ( O(1) )
     for j in range(n):
-        total += S[j]        	   # Arithmetic Operation ( O(1) )
-        A[j] = total / (j + 1)	 # Arithmetic Operation, +, /, = ( 3, O(1) )
-																 # * n times 
-          											 # O(n)
-         										# f(n) = 1 + 1 + 1 + 3n => O(n)
+        total += S[j]        	# Arithmetic Operation ( O(1) )
+        A[j] = total / (j + 1)	# Arithmetic Operation, +, /, = ( 3, O(1) )
+				# * n times 
+          			# O(n)
+         			# f(n) = 1 + 1 + 1 + 3n => O(n)
 # 결과값
 # prefix_average3, 0.0021581649780273438
 ~~~
@@ -132,12 +132,12 @@ def set_1(A, B, C):
 # O(n^2)
 def set_2(A, B, C):
     for a in A:             		# A 루프   -> ( O(n)   )	    
-        for b in B:             # A~B 루프 -> ( O(n^2) ) 
-            if a == b:          # (a,b)가 짝을 갖는 최대 경우는 n개.
-              									# a == b 검사 -> O(n^2)
-                for c in C:			# if a == b -> 최대 n개,
-                    if a == c:  # 따라서 C 루프에서도 사용되는 시간은 B 루프 시간내에서 루프를 돌게됨으로
-                      					# a == c 검사 또한 최대 n번, 따라서 O(n^2)
+        for b in B:            		# A~B 루프 -> ( O(n^2) ) 
+            if a == b:        		# (a,b)가 짝을 갖는 최대 경우는 n개.
+              				# a == b 검사 -> O(n^2)
+                for c in C:		# if a == b -> 최대 n개,
+                    if a == c:  	# 따라서 C 루프에서도 사용되는 시간은 B 루프 시간내에서 루프를 돌게됨으로
+                      			# a == c 검사 또한 최대 n번, 따라서 O(n^2)
                                 
                         return False
     return True
