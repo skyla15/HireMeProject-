@@ -1,3 +1,6 @@
+Khan Academy (Korean) 
+https://ko.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation
+
 ### Primitive Operations
 - Primitive opration corresponds to a low-level instruction with an execution time that is constant 
   - Assigning an identifier to an object 
