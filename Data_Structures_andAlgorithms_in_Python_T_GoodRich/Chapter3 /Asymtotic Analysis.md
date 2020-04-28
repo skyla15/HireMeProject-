@@ -9,16 +9,14 @@
   - Calling a function 
   - Returning from a function 
 
-- Nested Loop  
-  -
-The quadratic function can arise in the context of nested loops where the first iteration of a loop uses one operation, the second uses two operations, the third uses three operations, and so on. That is, the number of operations is
-1+2+3+···+(n−2)+(n−1)+n. => n(n+1)/2 
+### Nested Loop  
+  - The quadratic function can arise in the context of nested loops where the first iteration of a loop uses one operation, the second uses two operations, the third uses three operations, and so on. That is, the number of operations is
+1+2+3+···+(n−2)+(n−1)+n. => n(n+1)/2   
 
-- Comparing Growth Rates 
-  
+### Comparing Growth Rates 
 - O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(n^3) < O(a^n) 
   
-- Asymptotic Analysis ( implies n grows to infinity, n 값이 무한정으로 커질 경우에 점근적인 상한,하한,중간값 )
+### Asymptotic Analysis ( implies n grows to infinity, n 값이 무한정으로 커질 경우에 점근적인 상한,하한,중간값 )
   - Big-O Notation ( Upper Boundary, the given function f(n) is always below O(g(n) )
     - Given a function g(n), f(n) <= c*g(n), namely, f(n) is "less than or equal to" c*g(n), f(n) is O(g(n))  
     - Constants can be ignored. g(n) = 2n + 7, O(n) << hen there is n inputs, an algorithm calculates 2n + 7 times  >>
