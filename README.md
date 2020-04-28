@@ -143,6 +143,7 @@ ___
   + Elements Of Programming Intervies in Python ( The insiders' Guide )     
   + Grokking Algorithms ( Aditya Y. Bhargava )   
 + Data Structures and Algorithms      
+  - [Big-O](https://ko.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)  
   - Python Library : https://librewiki.net/wiki/ ( Korean )
   - Data Structure & Algorithms in Python ( T. Goodrich ) 
   - 파이썬 자료구조와 알고리즘 < 리뷰용 > 
@@ -225,7 +226,8 @@ ___
 
 ### Algorithmic Complexity / Big-O / Asymtotic Analysis   
 - The list needs to be narrowed down.  
-- https://librewiki.net/wiki/ ( Korean )
+- [Big-O](https://librewiki.net/wiki/) ( Korean )
+- [Big-O](https://ko.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation) 
 
 <details>
   <summary><b>contents</b></summary>  
