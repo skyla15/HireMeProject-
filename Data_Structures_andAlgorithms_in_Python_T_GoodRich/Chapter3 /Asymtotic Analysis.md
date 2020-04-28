@@ -17,7 +17,7 @@ The quadratic function can arise in the context of nested loops where the first 
 - Comparing Growth Rates 
   - O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(n^3) < O(a^n) 
 
-- Asymptotic Analysis 
+- Asymptotic Analysis ( implies n grows to infinity, n 값이 무한정으로 커질 경우에 점근적인 상한,하한,중간값 )
   - Big-O Notation ( Upper Boundary, the given function f(n) is always below O(g(n) )
     - Given a function g(n), f(n) <= c*g(n), namely, f(n) is "less than or equal to" c*g(n), f(n) is O(g(n))  
     - Constants can be ignored. g(n) = 2n + 7, O(n) << hen there is n inputs, an algorithm calculates 2n + 7 times  >>
@@ -25,3 +25,16 @@ The quadratic function can arise in the context of nested loops where the first 
   - Big-Omega(𝞨) ( Lower Boundary, the given function f(n) is always above 𝞨(g(n)) ) 
     - given a function g(n), f(n) >= c*g(n), namely, f(n) is "greater than or equal to" c*g(n), f(n) is 𝞨(g(n)) 
     - 3n log n − 2n is Ω(n log n) because 3nlogn−2n = nlogn+2n(logn−1) ≥ nlogn, g(n) = nlogn, 𝞨(g(n)) = 𝞨(nlogn)
+  - Big-Theta(𝜣) 
+    - given a function g(n), for a constant c', c'', if c'g(n) <= f(n) <= c''g(n), f(n) is 𝜣(g(n)) 
+    - 3nlogn+4n+5logn is Θ(nlogn) because 3nlogn ≤ 3nlogn+4n+5logn ≤ (3+4+5)nlogn 
+    
+    
+### Example of Algorithm Analysis 
+#### Constant-Time Operations 
+- Random Access Machine(RAM)
+  - load word
+  - computing ( +, -, *, /, &, |, ^ ) on regiters 
+  - store regiester into memory @some place 
+- list class, a call to a function, len(data)
+- Linear Data Structure 
