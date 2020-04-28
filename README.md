@@ -19,18 +19,27 @@
 >  + [ML / DL](#ML--DL)  
 ___
 #### Today's Job 
-
 - [ ] 04/29 Chapter6 : Stack / Queue/ Deque review, revise 
 - [ ] 04/29 Python Library(Korean) : https://python.bakyeono.net/chapter-11.html
 - [ ] 04/29 programmer.co.kr : Queue/Stack/Deque review, revise 
+
 #### Tomorrow 
 - [ ] Git command line and check VIM shortcuts.
+
 <details>
   <summary><b>Jobs Done</b></summary> 
   - [x] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2 
   - [X] Research on Data Related Jobs and Requirement 
-	- [X]  Chapter3 : The Big-O Notation.
+  - [X]  Chapter3 : The Big-O Notation.
 
+</details>   
+
+<details>
+  <summary><b>Jobs Needed</b></summary> 
+  - [] Algorithms & Data Structure 
+  - [] Big-O calculation Review
+  - [] Python Library 
+  - [] Django Project 
 </details>   
 
 ___
@@ -54,7 +63,7 @@ __The ultimate goal is to work in big tech companies.__
 > Setting up weekly/daily goals.    
 > To have good reference links documented.  
 
-___
+___  
 
 ### Priority of my study as a job-seeker
 Skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge.   
@@ -134,7 +143,7 @@ ___
   + Elements Of Programming Intervies in Python ( The insiders' Guide )     
   + Grokking Algorithms ( Aditya Y. Bhargava )   
 + Data Structures and Algorithms      
-  - library : https://librewiki.net/wiki/ ( Korean )
+  - Python Library : https://librewiki.net/wiki/ ( Korean )
   - Data Structure & Algorithms in Python ( T. Goodrich ) 
   - 파이썬 자료구조와 알고리즘 < 리뷰용 > 
 + C++
@@ -217,10 +226,12 @@ ___
 ### Algorithmic Complexity / Big-O / Asymtotic Analysis   
 - The list needs to be narrowed down.  
 - https://librewiki.net/wiki/ ( Korean )
+
 <details>
-  <summary><b>contents</b></summary> 
-
-
+  <summary><b>contents</b></summary>  
+	
+	- [T.Goodrich_Chater3](https://github.com/skyla15/HireMeProject-/tree/master/Data_Structures_andAlgorithms_in_Python_T_GoodRich)
+	
 </details>
 
 ___
