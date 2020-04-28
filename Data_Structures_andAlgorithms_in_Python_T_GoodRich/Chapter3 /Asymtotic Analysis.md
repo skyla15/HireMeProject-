@@ -139,6 +139,9 @@ def set_2(A, B, C):
                                 
                         return False
     return True
-
+  
+# 결과값
+# set_1 3.3669999996988054e-06
+# set_2 1.5570000000408868e-06
 ~~~
 
