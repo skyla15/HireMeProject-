@@ -229,7 +229,8 @@ ___
 
 <details>
   <summary><b>contents</b></summary>  
-- [T.Goodrich_Chater3](https://github.com/skyla15/HireMeProject-/tree/master/Data_Structures_andAlgorithms_in_Python_T_GoodRich)
+	
+- [T.Goodrich_Chater3](https://github.com/skyla15/HireMeProject-/tree/master/Data_Structures_andAlgorithms_in_Python_T_GoodRich)  
 	
 </details>
 
