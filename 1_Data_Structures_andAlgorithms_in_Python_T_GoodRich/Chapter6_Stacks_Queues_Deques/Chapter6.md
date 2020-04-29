@@ -16,6 +16,7 @@
 ### The Adapter Design Pattern
 - Modify an existing class so that its methods match those of a related but diffrent class or interface.  
 - Ex) New Class  
+
 Stack Method|Python List Method|
 ----------|----------|
 S.push(e)|L.append(e)|
