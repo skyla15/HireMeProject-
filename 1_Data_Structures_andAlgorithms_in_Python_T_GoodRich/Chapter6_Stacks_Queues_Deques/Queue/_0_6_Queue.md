@@ -26,10 +26,49 @@
 - Circular Queue 
 
   - In this book, when enqueing, it uses a method to wrap around at the end of underlying array, with the front assigned to 0. 
+    
     - When enqueing, double the size of the current queue, assign the front to index 0 
-  - Advance the front index by using modulo operation : f = ( f+1 ) % N 
+    
+  - Advance the front index by using a modulo operation : f = ( f+1 ) % N 
+  
+  - Insert new element at the tail by using a modulo operation : tail = (self._front + self._size)%len(self._data)
+  
+    - Take, Capacity 10, current size 3, front at index 5 => status : q[5] q[6] q[7] 
+    - The last index takes a place at 7 ( 5 + 3 - 1), therefore the next available index is 8, which is ( 5 + 3 ). I use modulo operation to wrap-around the queue
+      - tail = (self._front + self._size)%len(self._data)
+  
+  - Robust Circular Queue : When the initial q is full, double the size of the q 
+  
+    ~~~python
+        def enqueue(self, e):
+            '''add an element to the back of queue'''
+            if self._size == len(self._data):    
+            # if the existing q is full, double the size  
+                self._resize( 2*len(self._data))
+    				# get the next available index
+            tail = (self._front + self._size) % len(self._data)
+            # add an element
+            self._data[tail] = e                   
+            # increase the size of the q
+            self._size += 1                        
+    
+        def _resize(self, wrapover):
+            '''resize a new list of capacity'''
+            # Keeping the existing q
+            old_data = self._data         
+            # Double the size of the existing q
+            self._data = [None]*wrapover    
+            for k in range(self._size):     
+    	          # Reassign the xisting q to the double-sized q
+                self._data[k] = old_data[self._front]
+                temp_front = (self.front + 1) % len(old_data)         
+    				# front is realigned
+            self._front = 0                 
+    ~~~
+  
+    
 
-___ 
+___
 
 ### The Adapter Design Pattern
 - Modify an existing class so that its methods match those of a related but diffrent class or interface.  
