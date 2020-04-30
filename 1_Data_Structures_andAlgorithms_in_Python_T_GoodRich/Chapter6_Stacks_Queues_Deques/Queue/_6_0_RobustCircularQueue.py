@@ -32,6 +32,9 @@ class ArrayQeueue(object):
             raise exeption if q is empty
         '''
         assert not self.is_empty(), 'Q is empty'
+        if 0 < self._size < len(self._data) // 4:
+            self._resize(len(self._data) // 2)
+        # Shrink the Q, when the number of its capacity falls below one fourth of its capacity
         e = self._data[self._front]
         self._data[self._front] = None          # Help garbage collection
         self._front = (self._front + 1) % len   # advance the front to the next index

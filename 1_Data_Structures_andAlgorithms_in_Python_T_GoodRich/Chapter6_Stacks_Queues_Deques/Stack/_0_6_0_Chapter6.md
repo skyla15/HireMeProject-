@@ -1,7 +1,9 @@
 # Stack ( Last In First Out, LIFO )
 - Internet Web browsers store the address of recently visited sites
 - Test Editors' 'undo' function 
-  
+  -  [\_6_3_Matching_Markup](https://github.com/skyla15/HireMeProject-/blob/master/1_Data_Structures_andAlgorithms_in_Python_T_GoodRich/Chapter6_Stacks_Queues_Deques/Stack/_6_3_Matching_Markup.py) 
+    - str.startswith('s') : return True if s str starts with 's' 
+    - str.find('c', index) : find 'c' from index and returns index of c
 ### ADT
 - S.push(e) : Add element e to the top of the S
 - S.pop() : Remvoe and Return the top 
@@ -39,8 +41,8 @@ S.pop(e) |L.pop(e)|O(1)|
 S.top() |L\[-1\] |O(1)|
 S.is_empty() |len(L)==0|O(1)|
 len(S)|len(L)|O(1)|
-  
-  
+
+
 - Example Practiced Date
     - Matching Markup : 0429 
 
@@ -49,4 +51,4 @@ len(S)|len(L)|O(1)|
 
 
 
- 
+
