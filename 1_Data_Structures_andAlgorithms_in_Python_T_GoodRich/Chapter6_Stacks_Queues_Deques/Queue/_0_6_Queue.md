@@ -1,7 +1,9 @@
 # Queue ( First-in First-out )
+
 - Networked Printer 
 - Web server responding to requests 
 - Queueing theory 
+  - 참고자료 : [Garbage Collector](https://github.com/skyla15/HireMeProject-/blob/master/0_Learning_Python/가비지콜렉터.md)
 ### ADT
 - Q.enqueue(e): Add element to the back of queue Q 
 - Q.dequeue(): Remove and return the front element of queue Q. Error, if empty
