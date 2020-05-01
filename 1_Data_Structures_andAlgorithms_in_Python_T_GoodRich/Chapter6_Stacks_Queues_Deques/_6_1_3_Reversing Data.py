@@ -1,5 +1,5 @@
 # 6.1.3
-import _6_0_ArrayStack as AS
+import _6_1_2_ArrayStack as AS
 
 def reverse_file(f):
     '''Overwrite given file with its contents line-by-line reversed'''

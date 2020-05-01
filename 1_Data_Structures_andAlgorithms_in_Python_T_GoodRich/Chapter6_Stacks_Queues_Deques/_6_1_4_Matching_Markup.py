@@ -1,4 +1,4 @@
-import _6_0_ArrayStack as AS
+import _6_1_2_ArrayStack as AS
 
 def is_matched_html(expr):
     S = AS.ArrayStack()
@@ -32,7 +32,7 @@ def is_matched_html(expr):
 filename = 'test_6_3.txt'
 expr =''
 with open(filename) as f:
-    for line in K:
+    for line in f:
         expr += line.rstrip()
     print(expr)
 
