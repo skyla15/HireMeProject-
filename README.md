@@ -19,7 +19,6 @@
 >  + [ML / DL](#ML--DL)  
 ___
 #### Today's Job 
-- [ ] 04/29 Chapter6 : Stack / Queue/ Deque review, revise 
 - [ ] 04/29 Python Library(Korean) : https://python.bakyeono.net/chapter-11.html
 - [ ] 04/29 programmer.co.kr : Queue/Stack/Deque review, revise 
 
@@ -31,6 +30,7 @@ ___
   - [x] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2 
   - [X] Research on Data Related Jobs and Requirement 
   - [X]  Chapter3 : The Big-O Notation.
+	- [X]  04/29 Chapter6 : Stack / Queue/ Deque review, revise 
 
 </details>   
 
@@ -41,7 +41,6 @@ ___
   - [] Python Library 
   - [] Django Project 
 </details>   
-
 ___
 
 ### Project 
@@ -63,7 +62,7 @@ __The ultimate goal is to work in big tech companies.__
 > Setting up weekly/daily goals.    
 > To have good reference links documented.  
 
-___  
+___
 
 ### Priority of my study as a job-seeker
 Skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge.   
@@ -232,9 +231,10 @@ ___
 
 <details>
   <summary><b>contents</b></summary>  
-	
+
 - [T.Goodrich_Chater3](https://github.com/skyla15/HireMeProject-/tree/master/Data_Structures_andAlgorithms_in_Python_T_GoodRich)  
 	
+
 </details>
 
 ___

@@ -10,7 +10,7 @@ class Deque(object):
 
 	def add_first(self, e):
 		if self._size == len(self._data):
-			self.resize(len(self._data))
+			self.resize(len(self._data)*2)
 		if not self.is_empty():
 			# if the front index already has an element, advance the front leftward
 			self._front = ( self._front - 1 ) % len(self._data)
@@ -56,10 +56,10 @@ class Deque(object):
 	def is_empty(self):
 		return self._size == 0
 
-	def resize(self, old_size):
+	def resize(self, new_size):
 		old_data = self._data
 		temp_front = self._front
-		self._data = [None]*old_size
+		self._data = [None]*new_size
 		for i in range(self._size):
 			self._data[i] = old_data[temp_front]
 			temp_front = (temp_front + 1) % len(old_data)
