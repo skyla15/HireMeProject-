@@ -69,7 +69,7 @@
             self._size -= 1
             return e
           
-    		def enqueue(self, e):
+        def enqueue(self, e):
             '''add an element to the back of queue'''
             if self._size == len(self._data):    
             # if the existing q is full, double the size  
@@ -77,7 +77,7 @@
     				# get the next available index
             tail = (self._front + self._size) % len(self._data)
             # add an element
-          self._data[tail] = e                   
+            self._data[tail] = e                   
             # increase the size of the q
             self._size += 1                        
     
