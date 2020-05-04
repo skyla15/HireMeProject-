@@ -35,7 +35,7 @@
 - delete_first() : return and remove an element at the front. 
 
   - Space usage has to be 𝜣(n) to be  a desirable queue implementation
-    - __A robust apporaoch __
+    - __A robust apporaoch__
       
       - __To reduce the array to half of its current size, whenever the number of elements stored in it falls below one fourth of its capacity__
       
@@ -74,7 +74,7 @@ ___
 ### Analysis of the Array-Based Deque implementation 
 
 - Except for the _resize utility ( O(n) ), all of the ADT ( O(1) ) relies on a constant number of statements involving 
-  - __arithmetic operations, compararisons, assignments __ 
+  - __arithmetic operations, compararisons, assignments__ 
 
 
 
