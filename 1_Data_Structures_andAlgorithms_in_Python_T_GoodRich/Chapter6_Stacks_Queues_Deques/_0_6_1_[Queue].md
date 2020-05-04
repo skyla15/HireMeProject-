@@ -105,12 +105,12 @@ ___
 
 Stack Method|Python List Method|Big-O
 ----------|----------|-----------
-Q.enqueue(e) |[Queue Implementation](6.2.2. Array-Based Queue Implementation)|O(1)
-Q.dequeue(e) |[Queue Implementation](6.2.2. Array-Based Queue Implementation)|O(1)
+Q.enqueue(e) |[Queue Implementation](6.2.-Array\-Based-Queue-Implementation)|O(1)
+Q.dequeue(e) |[Queue Implementation](6.2.-Array\-Based-Queue-Implementation)|O(1)
 Q.first() |\_data[self._front] |O(1)
 Q.is_empty() |\_size == 0|O(1)
 len(Q)|_size|O(1)
-Q._resize()|[Queue Implementation](6.2.2. Array-Based Queue Implementation)|O(n)<br />Space Usage : 𝜣(n)
+Q._resize()|[Queue Implementation](6.2.-Array\-Based-Queue-Implementation|O(n)<br />Space Usage : 𝜣(n)
 
 - Reference : page 200 on the book, Excercise C-5.16 ~ 5.20 
 
