@@ -1,7 +1,6 @@
 # customizing sequential objectics
 # https://docs.python.org/3/reference/datamodel.html#emulating-container-types
-
-import random as r
+# Implementing all the collection.deque ADTs
 
 class Deque(object):
     MAX_SIZE = 5
