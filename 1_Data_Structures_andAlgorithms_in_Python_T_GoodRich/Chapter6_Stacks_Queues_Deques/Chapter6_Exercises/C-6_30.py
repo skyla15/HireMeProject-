@@ -142,7 +142,7 @@ def main():
         D.append(i)
         print(i, D._data)
 
-    print('\nDelete 80', D.remove(80), D._data, D._front)
+    print('\nDelete 9', D.remove(9), D._data, D._front)
 
     D.clear()
     print('\nCleared Data:', D._data)
