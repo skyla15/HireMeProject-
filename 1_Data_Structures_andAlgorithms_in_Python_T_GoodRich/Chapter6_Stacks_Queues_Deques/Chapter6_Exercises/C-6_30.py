@@ -1,50 +1,59 @@
 # customizing sequential objectics
 # https://docs.python.org/3/reference/datamodel.html#emulating-container-types
 # Implementing all the collection.deque ADTs
+# 참고 : https://github.com/wdlcameron/Solutions-to-Data-Structures-and-Algorithms-in-Python/blob/master/Chapter%206%20Exercises.ipynb
+#-------------P6-33-------------------
+"""
+We have to support the following methods:
+
+len
+appendleft
+append
+popleft
+pop
+D[0]
+D[-1]
+D[j]
+D[j] = val
+D.clear()
+D.rotate(k)
+D.remove(e)
+D.count(e)
+"""
 
 class Deque(object):
     MAX_SIZE = 5
 
-    def __init__(self):
+    def __init__(self, maxlen = None):
         self._data = [None]*Deque.MAX_SIZE
         self._size = 0
         self._front = 0
+        self._maxlen = maxlen
+
+    def is_empty(self):
+        return self._size == 0
 
     # return the length of Q
     def __len__(self):
-        return len(self._data)
+        return self._size
 
-    # first
-    def __getitem__(self, idx):
-        assert not self.__len__() == 0, 'Deque is empty'
-        back = (self._front + self._size) % len(self._data)
-        if idx >= 0:
-            idx = ( idx + self._front - 1) % len(self._data)
-        elif idx < 0:
-            back = back + idx
-            print('back: ', back)
+    def __getitem__(self, index):
+        if index < 0: index = self._size + index  # Negative indices
+        if not 0 <= index < self._size: raise IndexError('Invalid index')
+        return (self._data[(self._front + index) % len(self._data)])
 
-        if self._data[idx] == None:
-            raise IndexError('IndexOutOfBounds')
-
-        return self._data[idx]
-
-    def __setitem__(self, idx, e):
-        idx = ( idx + self._front -1 ) % len(self._data)
-        self._data[idx] = e
-
-        #TODO if the index is out of bounds, raise Error
+    def __setitem__(self, index, value):
+        if index < 0: index = self._size + index  # Negative indices
+        if not 0 <= index < self._size: raise IndexError('Invalid index')
+        self._data[(self._front + index) % len(self._data)] = value
 
     # add_first
     def appendleft(self,e):
         # if the Deque is full, resize the Deque
-        if self._size == len(self._data):
-            self.resize(len(self._data)*2)
-        # if the Deque is not empty, move the front an index ahead
-        if self.__len__() != 0:
-            self._front = (self._front - 1) % len(self._data)
-        self._data[self._front] = e
-        self._size += 1
+        if self._size == len(self._data): self.resize(len(self._data)*2)
+        self._data[(self._front-1)%len(self._data)] = e
+        self._front = (self._front - 1)%len(self._data)
+        self._size = self._size + 1 if self._maxlen is None else min(self._size + 1, self._maxlen)
 
     # delete_first
     def popleft(self):
@@ -60,11 +69,12 @@ class Deque(object):
 
     # add_last
     def append(self, e):
-        if self._size == len(self._data):
-            self.resize(len(self._data)*2)
-        back = (self._front + self._size) % len(self._data)
-        self._data[back] = e
-        self._size += 1
+        if self._size == len(self._data): self.resize(len(self._data)*2)
+        self._data[(self._front+self._size)%len(self._data)] = e
+        if self._maxlen is not None and self._size == self._maxlen :
+            self._front = ( self._front + 1 ) % len(self._data)
+        # Overwrite the previous first
+        else: self._size += 1
 
     # delete_last
     def pop(self):
@@ -81,34 +91,28 @@ class Deque(object):
 
     def clear(self):
         self._data = [None] * len(self._data)
+        self._size = 0
+        self._front = 0
 
     # circulalry shift rightward k steps
     def rotate(self, k):
         assert not k < 0, 'Integer must be greater than 0'
-        old_data = self._data
-        self.clear()
-        shift_front = ( self._front + k ) % len(self._data)
-        temp_front = self._front
-        for i in range(self._size):
-            self._data[shift_front] = old_data[temp_front]
-            shift_front = (shift_front + 1) % len(self._data)
-            temp_front = (temp_front + 1) % len(self._data)
+        for _ in range(k):
+            e = self.pop()
+            self.appendleft(e)
 
-        self._front = (self._front + k) % len(self._data)
-
-
-    # count the number of matches for
+    # count the number of matches
     def count(self, e):
         assert not self.__len__() == 0, 'Deque is empty'
-        temp_front = self._front
         cnt = 0
         for i in range(self._size):
-            if(self._data[temp_front] == e):
-                cnt += 1
-            temp_front = (temp_front + 1) % len(self._data)
+            value = self.pop()
+            if value == e: cnt += 1
+            self.appendleft(value)
         return cnt
 
     def resize(self, new_size):
+        if self._maxlen is not None: new_size = min(new_size, self._maxlen)
         old_data = self._data
         self._data = [None]*new_size
         for i in range(self._size):
@@ -116,62 +120,59 @@ class Deque(object):
             self._front = (self._front + 1) % len(old_data)
         self._front = 0
 
+    def remove(self, e):
+        assert not self.__len__() == 0, 'Deque is empty'
+        found = False
+        for i in range(self._size):
+            value = self.pop()
+            if value == e and not found :
+                found = True
+            else: self.appendleft(value)
+        return found
+
     def display(self):
         print(self._data)
 
 
 def main():
-    print('main')
     D = Deque()
-    D.append(1)
-    D.display()
-    D.append(2)
-    D.display()
-    D.appendleft(3)
-    D.display()
-    D.appendleft(4)
-    D.display()
-    D.appendleft(5)
-    D.display()
-    D.appendleft(6)
-    D.display()
-    D.appendleft(7)
-    D.display()
-    D.appendleft(8)
-    D.display()
 
-    print()
-    print('rotate')
-    D.rotate(4)
-    D.display()
-    print()
+    print('Adding last')
+    for i in range(15):
+        D.append(i)
+        print(i, D._data)
 
-    print(D.popleft())
-    D.display()
-    print(D.popleft())
-    D.display()
-    print(D.popleft())
-    D.display()
-    print(D.popleft())
-    D.display()
-    print(D.popleft())
-    D.display()
-    print(D.pop())
-    D.display()
-    print(D.pop())
-    D.display()
-    print(D.pop())
-    D.display()
+    print('\nDelete 80', D.remove(80), D._data, D._front)
 
-    print('len : ', len(D))
-    D[1] = 1234
-    print('D[1] = 1234', D[1])
-    D.display()
-    print('front : ', D._front, 'size : ', D._size)
-    print('D[-1]', D[-1])
-    print('clear')
     D.clear()
-    D.display()
+    print('\nCleared Data:', D._data)
+
+    for i in range(15):
+        D.append(i % 3)
+
+    print('\nFound', D.count(2), '2s in ', D._data)
+
+    print('\nAdding first')
+    for i in range(20, 10, -1):
+        D.appendleft(i)
+        print(i, D._data)
+
+    print(D._front)
+
+    print('\nRotating')
+    for i in range(20):
+        D.rotate(1)
+        print('Front is:', D[0])
+
+    print('\nPerforming the removals')
+    while True:
+        D.display()
+        if not D.is_empty():
+            print('Remove first', D[0], D.popleft(), end=' ')
+        if not D.is_empty():
+            print('Remove last', D[-1], D.pop())
+        else:
+            return
 
 main()
 
