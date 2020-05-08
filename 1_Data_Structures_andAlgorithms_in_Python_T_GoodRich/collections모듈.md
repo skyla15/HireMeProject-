@@ -27,7 +27,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
 
 - Methods 
 
-  1. namedtuple._make(iterable) : 기존의 시퀀스 객체나, 반복가능한 객체로 부터 새로운 namedtuple 객체 생성 
+  - namedtuple._make(iterable) : 기존의 시퀀스 객체나, 반복가능한 객체로 부터 새로운 namedtuple 객체 생성 
 
      ~~~python
      t = [11, 22]
@@ -36,7 +36,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
      # NT(a=11, b=22)
      ~~~
 
-  2. namedtuple._asdict() : 키워드와 값을 쌍으로 갖는 딕셔너리를 반환 
+  - namedtuple._asdict() : 키워드와 값을 쌍으로 갖는 딕셔너리를 반환 
 
      - 3.1 ~ 3.7 버전 : OrderedDict 반환 
      - 3.8 ~ 버전 : 일반 dict 반환 
@@ -47,7 +47,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
      # OrderedDict([('a', 100), ('b', 200)])
      ~~~
 
-  3. namedtuple._replace(**kwargs)
+  - namedtuple._replace(**kwargs)
 
      - 네임드튜플의 특정 필드의 값을 수정할 때 사용 
      - 일반적인 상황에서는 필드 네임으로 접근하면 되지만 
@@ -58,7 +58,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
        	 inventory[partnum] = record._replace(price=newprices[partnum], timestamp=time.now())
        ~~~
 
-  4. namedtuple._fields
+  - namedtuple._fields
 
      - View the filed names of the namedtuple 
 
@@ -67,7 +67,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
        # ('a', 'b')
        ~~~
 
-  5. namedtuple._field_defaults 
+  - namedtuple._field_defaults 
 
      - View the dictionary mapping filed to default values 
 
@@ -97,7 +97,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
       print(emp.name, emp.title)
   ~~~
 
-
+___  
 
 #### 2) *class* collections.Counter([*iterable-or-mapping*])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.Counter)
 
@@ -182,7 +182,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
     Counter(dict(list_of_pairs))    # convert from a list of (elem, cnt) pairs
     ~~~
 
-    
+___  
 
 #### 3) *class* collections.OrderedDict([*items*])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.OrderedDict)
 
@@ -258,6 +258,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
   ~~~
 
 
+___  
 
 
 #### 4)*class* collections.defaultdict([*default_factory*[, *...*]])
