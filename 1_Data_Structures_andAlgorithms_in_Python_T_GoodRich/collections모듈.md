@@ -133,26 +133,19 @@ ___
 
     
 
--  Class Method 
-
+- Class Method
   - Counter.elements() : 각 아이템들의 갯수만큼 반복해주는 "이터레이터" 반환. 카운트가 0인 것은 무시 
-
     ~~~python
     c = Counter({'red':4, 'blue':2, 'yello':0})
     print(list(c.elements))
     # ['red', 'red', 'red', 'red', 'blue', 'blue']
-    
     ~~~
-
   - Counter.most_commn(n) : return a list of the n most common elements and their counts 
-
     ~~~python
     Counter('abracadabra').most_common(3)
     [('a', 5), ('b', 2), ('r', 2)]
     ~~~
-
   - Counter.subtract[iterable-or-mapping]
-
     ~~~ptyhon
     c1 = collections.Counter('hello python')
     c2 = collections.Counter('i love python')
@@ -169,8 +162,7 @@ ___
     '''
     Counter({'a': 3, 'b': 0, 'c': -3, 'd': -6})
     ''' 
-    ~~~
-
+    ~~~  
   - The most commn patterns with Counter objects
 
     ~~~python
