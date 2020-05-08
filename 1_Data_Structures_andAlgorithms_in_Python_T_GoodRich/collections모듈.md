@@ -6,7 +6,7 @@ Collections - Contatiner Datatypes
 - OrderedDict : dict subclass that remembers the order entries were added 
 - defaultdict : dict subclass that callsea factory function to supply missing values (+ dict.setdefault(key,default)  vs collections.defaultdict() )
 
-#### 1) collections.__namedtuple__(*typename*, *field_names*, *, *rename=False*, *defaults=None*, *module=None*)
+#### 1) collections.namedtuple(*typename*, *field_names*, *, *rename=False*, *defaults=None*, *module=None*)
 
 - rename : if set to True, invalid filed names are automatically replaced with positional names 
   - invalid field_names are 'reserved keywords', 'duplecate filed name'
@@ -50,7 +50,6 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
   3. namedtuple._replace(**kwargs)
 
      - 네임드튜플의 특정 필드의 값을 수정할 때 사용 
-
      - 일반적인 상황에서는 필드 네임으로 접근하면 되지만 
        아래와 같이 데이터가 복잡하게 되있는 경우, 튜플들의 값을 수정하는 데 사용 
 
@@ -80,7 +79,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
 
        
 
-- __Useful for assigning field names to result tuples returned by the csv or sqlite3 modules __
+- Useful for assigning field names to result tuples returned by the csv or sqlite3 modules
 
   ~~~python
   EmployeeRecord = namedtuple('EmployeeRecord', 'name, age, title, department, paygrade')
@@ -217,7 +216,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
       - last = True : move an existing key to the right end 
       - last = False : move an existing key to the left end 
 
-- __`sorted`(*iterable*, ***, *key=None*, *reverse=False*)[¶](https://docs.python.org/ko/3/library/functions.html#sorted) __
+- `sorted`(*iterable*, ***, *key=None*, *reverse=False*)[¶](https://docs.python.org/ko/3/library/functions.html#sorted) 
 
   - key = iterable의 인자 1개를 받는 데 사용하는 '함수'
 
@@ -263,7 +262,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
 
 #### 4)*class* collections.defaultdict([*default_factory*[, *...*]])
 
-- The first agument of the defaultdict provides the initial value for the __default_factory attribute__.(default = None) 
+- The first agument of the defaultdict provides the initial value for the default_factory attribute(default = None) 
 
 - Class attribute and methods 
 
@@ -273,7 +272,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
     - 모든 키에 대해 "기본값"으로 사용되는 인자
     - \__missing__()을 통해 호출되고, 기본값은 None. 아래 참고 
 
-  - defaultdict.__missing__(key) 
+  - defaultdict.\__missing__(key) 
 
     - Only called by  \__getitem__ method.
 
