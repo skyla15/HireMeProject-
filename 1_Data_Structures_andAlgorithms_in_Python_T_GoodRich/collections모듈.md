@@ -1,12 +1,13 @@
-Collections - Contatiner Datatypes 
+## Collections - Contatiner Datatypes 
 
-- deque : Explained and Implemented in [Chater6_Stack_Queues_Deques](https://github.com/skyla15/HireMeProject-/tree/master/1_Data_Structures_andAlgorithms_in_Python_T_GoodRich/Chapter6_Stacks_Queues_Deques)
-- namedtuple() : Factory function for creating tuple subclass with named  fields 
-- Counter : dict subclass for counting hashable objects(dictionary objects)
-- OrderedDict : dict subclass that remembers the order entries were added 
-- defaultdict : dict subclass that callsea factory function to supply missing values (+ dict.setdefault(key,default)  vs collections.defaultdict() )
+1. deque : Explained and Implemented in [Chater6_Stack_Queues_Deques](https://github.com/skyla15/HireMeProject-/tree/master/1_Data_Structures_andAlgorithms_in_Python_T_GoodRich/Chapter6_Stacks_Queues_Deques)
+2. namedtuple() : Factory function for creating tuple subclass with named  fields
+3. [Counter : dict subclass for counting hashable objects(dictionary objects)](#3)-collections.OrderedDict)
+4. OrderedDict : dict subclass that remembers the order entries were added 
+5. defaultdict : dict subclass that callsea factory function to supply missing values (+ dict.setdefault(key,default)  vs collections.defaultdict() )
 
-#### 1) collections.namedtuple(*typename*, *field_names*, *, *rename=False*, *defaults=None*, *module=None*)
+#### 1) collections.namedtuple
+#### - collections.namedtuple(*typename*, *field_names*, *, *rename=False*, *defaults=None*, *module=None*)
 
 - rename : if set to True, invalid filed names are automatically replaced with positional names 
   - invalid field_names are 'reserved keywords', 'duplecate filed name'
@@ -99,7 +100,8 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
 
 ___  
 
-#### 2) *class* collections.Counter([*iterable-or-mapping*])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.Counter)
+#### 2) collections.Counter
+#### class collections.Counter([iterable-or-mapping])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.Counter)
 
 - It is a collection where elements are stored as dictionary __keys and their counts are stroede as dictionary__ values.
 
@@ -184,7 +186,8 @@ ___
 
 ___  
 
-#### 3) *class* collections.OrderedDict([*items*])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.OrderedDict)
+#### 3) collections.OrderedDict
+#### class collections.OrderedDict([items])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.OrderedDict)
 
 - An OrderedDict() remembers the order of key addition and returns them in the same order from an iterator.
 
@@ -261,7 +264,8 @@ ___
 ___  
 
 
-#### 4)*class* collections.defaultdict([*default_factory*[, *...*]])
+#### 4) collection.defaultdict
+#### class collections.defaultdict([*default_factory*[, *...*]])
 
 - The first agument of the defaultdict provides the initial value for the default_factory attribute(default = None) 
 
