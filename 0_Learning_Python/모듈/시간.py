@@ -1,5 +1,4 @@
 import timeit
-
 """ 코드의 실행시간 측정하기 timeit 모듈 
 - 클래스 timeit.Timer 
     - class timeit.Timer(stmt='pass', setup='pass', timer=<timer function>, globals=None)
@@ -20,7 +19,7 @@ x = list(range(10000))               # 측정하고자 하는 요소1
 xt = t.timeit(100)                   # 요소1 100번 실행 시간 측정
 print('xt : ', xt)
 x = {j: None for j in range(10000)}  # 측정하고자 하는 요소2
-xt = t.timeit(100)                   # 요소2 100번 실행 시간 측정 
+xt = t.timeit(100)                   # 요소2 100번 실행 시간 측정
 print('xt : ', xt)
 
 

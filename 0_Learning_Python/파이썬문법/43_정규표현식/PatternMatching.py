@@ -137,6 +137,7 @@ print()
 # \W        any character that is not letter, numeric digit, or the underscore
 # \s        any space, tab, newline character
 # \S        any character that is not space, tab, newline character
+# \b        any empty strings but onlyt at the biginning or end of a word
 print('😃Character Classes')
 xmasRegex = re.compile(r'\d+\s\w+')
 # one or more numeric digits (\d+), followed by a whitespace character (\s), followed by one or more letter/digit/underscore characters (\w+)
