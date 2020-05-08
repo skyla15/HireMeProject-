@@ -265,7 +265,7 @@ ___
 
 
 #### defaultdict
-#### class collections.defaultdict([*default_factory*[, *...*]])
+#### -class collections.defaultdict([*default_factory*[, *...*]])
 
 - The first agument of the defaultdict provides the initial value for the default_factory attribute(default = None) 
 
