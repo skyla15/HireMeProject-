@@ -1,12 +1,12 @@
 ## Collections - Contatiner Datatypes 
 
 1. deque : Explained and Implemented in [Chater6_Stack_Queues_Deques](https://github.com/skyla15/HireMeProject-/tree/master/1_Data_Structures_andAlgorithms_in_Python_T_GoodRich/Chapter6_Stacks_Queues_Deques)
-2. [namedtuple() : Factory function for creating tuple subclass with named  fields](#1\)namedtuple)
+2. [namedtuple() : Factory function for creating tuple subclass with named  fields](#1namedtuple)
 3. [Counter : dict subclass for counting hashable objects(dictionary objects)](#2\)Counter)
 4. [OrderedDict : dict subclass that remembers the order entries were added](#3\)OrderedDict)
 5. [defaultdict : dict subclass that callsea factory function to supply missing values (+ dict.setdefault(key,default)  vs collections.defaultdict() )](#4\)defaultdict)
 
-#### 1)namedtuple
+### namedtuple
 #### - collections.namedtuple(*typename*, *field_names*, *, *rename=False*, *defaults=None*, *module=None*)
 
 - rename : if set to True, invalid filed names are automatically replaced with positional names 
