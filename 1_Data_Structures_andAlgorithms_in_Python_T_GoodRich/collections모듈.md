@@ -2,7 +2,7 @@
 
 1. deque : Explained and Implemented in [Chater6_Stack_Queues_Deques](https://github.com/skyla15/HireMeProject-/tree/master/1_Data_Structures_andAlgorithms_in_Python_T_GoodRich/Chapter6_Stacks_Queues_Deques)
 2. namedtuple() : Factory function for creating tuple subclass with named  fields
-3. [Counter : dict subclass for counting hashable objects(dictionary objects)](#3)-collections.OrderedDict)
+3. [Counter : dict subclass for counting hashable objects(dictionary objects)](#3\)-collections.OrderedDict)
 4. OrderedDict : dict subclass that remembers the order entries were added 
 5. defaultdict : dict subclass that callsea factory function to supply missing values (+ dict.setdefault(key,default)  vs collections.defaultdict() )
 
