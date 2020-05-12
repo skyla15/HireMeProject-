@@ -1,11 +1,11 @@
 ### Contents 
 + [Goal Of This Repository](#Goal-Of-This-Repository)  
++ [Items I will cover are as below](#Items-I-will-cover-are-as-below)
++ [Materials I am going to use](#Materials-I-am-going-to-use)   
 + [Priority of my study as a job-seeker](#Priority-of-my-study-as-a-job-seeker)  
 + [Data Engineer Projects Inspiration - in Korean](#Data-Engineer-Projects-Inspiration)
 + [Toy Projects - Current/Past](#Projects)
 + [Data related careers](#Data-related-careers)
-+ [Items I will cover are as below](#Items-I-will-cover-are-as-below)
-+ [Materials I am going to use](#Materials-I-am-going-to-use)   
 + [SW engineer youtubers](#Youtube-References)  
 > Let's Study  
 >  + [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
@@ -18,29 +18,87 @@
 >  + [Operating System](#Operating-System)
 >  + [ML / DL](#ML--DL)  
 ___
-#### Today's Job 
-- [ ] 04/29 Python Library(Korean) : https://python.bakyeono.net/chapter-11.html
-- [ ] 04/29 programmer.co.kr : Queue/Stack/Deque review, revise 
+### Goal Of This Repository 
 
-#### Tomorrow 
-- [ ] Git command line and check VIM shortcuts.
+__The ultimate goal is to work in big tech companies.__  
 
-<details>
-  <summary><b>Jobs Done</b></summary> 
-  - [x] [Data Structure and Algorithm] Python Review - Chapter 1 ~ 2 
-  - [X] Research on Data Related Jobs and Requirement 
-  - [X]  Chapter3 : The Big-O Notation.
-	- [X]  04/29 Chapter6 : Stack / Queue/ Deque review, revise 
+> To have all the indice from books I read.   
+> Link the indexex to my actual repositoreis with explanation of the contents in detail.     
+> Setting up weekly/daily goals.    
+> To have good reference links documented.  
 
-</details>   
+___
 
-<details>
-  <summary><b>Jobs Needed</b></summary> 
-  - [] Algorithms & Data Structure 
-  - [] Big-O calculation Review
-  - [] Python Library 
-  - [] Django Project 
-</details>   
+### Items I will cover are as below   
+
+Materials for these items are right below this column
+
++ Fundamental Python 
++ Fundamental C++
++ Data Structures and Algorithms in Python    
++ Fundamental Computer Science ( Database, OS, Network, OOP, Computer Architecture )   
++ Backend  
+  + Django ( Looking for materials ) 
++ ML / DL    
+  + ....Updating....
++ Linear Algebra 
++ Parallel Computing Technology
+  + __Hadoop, Kafka, Spark, Map Produce__
++ Basic Networking Theory and its simple implementation   
+
+___
+
+### Materials I am going to use   
+
++ [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
++ 파이썬 자료 
+  + [중급 파이썬(Intermediate Python)](https://ddanggle.gitbooks.io/interpy-kr/)
+  + [코딩도장 파이썬(Basic Python)](https://dojang.io/course/view.php?id=7)
+  + [파이썬 공식문서(Python Official Document)](https://docs.python.org/ko/3/tutorial/index.html)
+  + [파이썬 라이브러리(Python Library Archive)](https://github.com/python/cpython/tree/3.8/Lib)
+  + [Advanced Topics](https://thomas-cokelaer.info/tutorials/python/index.html)
++ C++
+  + [LearnCPP](https://www.learncpp.com)    
++ Coding Test and Interviews   
+  + Elements Of Programming Intervies in Python ( The insiders' Guide )     
+  + Grokking Algorithms ( Aditya Y. Bhargava )  
++ Data Structures and Algorithms      
+  - [Big-O](https://ko.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)  
+  - [모두의 알고리즘](https://modoocode.com/246)  
+  - Python Library : https://librewiki.net/wiki/ ( Korean )
+  - Data Structure & Algorithms in Python ( T. Goodrich ) 
+  - 파이썬 자료구조와 알고리즘 < 리뷰용 >  
++ Django 
+  + ....Updating....
++ Database  
+  + [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)
++ Operating System   
+  + [Operating System Reference](https://mail.ecomputernotes.com/fundamental/disk-operating-system/scheduling-algorithms) 
++ Computer Architecture
+  + [Computer Architecture Reference](https://mail.ecomputernotes.com/fundamental/input-output-and-memory/primary-memory)  
++ ML / DL 
+  + Deep Learning form the scratch
++ Mathematics  
+  + Linear Algebra  
+    + ....Updating....  
+  + Caclus for programming 
+    + ....Updating....
+  + Discrete Mathematics  
+    + ....Updating....
++ Parallel Computing Technology
+  + ....Updating....
++ OOP  
+  + ...Updating...
+
+Refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
+
+___
+
+### Youtube References
+
+1. [Characteristics of languages explained - Joma Tech](https://www.youtube.com/watch?v=Pb3AAfz5Yjg)
+2. [What is data science? - Joma Tech](https://www.youtube.com/watch?v=xC-c7E5PK0Y)
+
 ___
 
 ### Project 
@@ -55,19 +113,11 @@ As of 04/23/20
 </details>   
 ___
 
-### Goal Of This Repository 
-__The ultimate goal is to work in big tech companies.__  
-> To have all the indice from books I read.   
-> Link the indexex to my actual repositoreis with explanation of the contents in detail.     
-> Setting up weekly/daily goals.    
-> To have good reference links documented.  
-
-___
-
 ### Priority of my study as a job-seeker
 Skim over these [websites](#Materials-I-am-going-to-use) to recall fundamental computer science knowledge.   
 Some of them will be implented into the toy projects that I am planning to conduct in the nearest future.    
 I will pick one subjects from the list below and beat it.   
+
 - __MINIMUM basic concepts of fundamental Computer Science__  
 - __MAXIMUM practical algorithm capacity along with optimization of the algorithm__.   
   
@@ -119,64 +169,6 @@ ___
  5. Basic Knowledge in ML/DL
  6. Mathematics ( Calculus, Linear Algebra, Discrete Mathematics ) 
 
-___
-
-### Items I will cover are as below   
-Materials for these items are right below this column
-+ Data Structures and Algorithms in Python    
-+ Fundamental C++
-+ Fundamental Computer Science ( Database, OS, Network, OOP, Computer Architecture )   
-+ Backend  
-  + Django ( Looking for materials ) 
-+ ML / DL    
-  + ....Updating....
-+ Linear Algebra 
-+ Parallel Computing Technology
-  + __Hadoop, Kafka, Spark, Map Produce__
-+ Basic Networking Theory and its simple implementation   
-
-___
-### Materials I am going to use   
-+ [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
-+ Coding Test and Interviews   
-  + Elements Of Programming Intervies in Python ( The insiders' Guide )     
-  + Grokking Algorithms ( Aditya Y. Bhargava )   
-+ Data Structures and Algorithms      
-  - [Big-O](https://ko.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)  
-  - [모두의 알고리즘](https://modoocode.com/246)  
-  - Python Library : https://librewiki.net/wiki/ ( Korean )
-  - Data Structure & Algorithms in Python ( T. Goodrich ) 
-  - 파이썬 자료구조와 알고리즘 < 리뷰용 > 
-+ C++
-  + [LearnCPP](https://www.learncpp.com)    
-+ Django 
-  + ....Updating....
-+ Database  
-  + [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)
-+ Operating System   
-  + [Operating System Reference](https://mail.ecomputernotes.com/fundamental/disk-operating-system/scheduling-algorithms) 
-+ Computer Architecture
-  + [Computer Architecture Reference](https://mail.ecomputernotes.com/fundamental/input-output-and-memory/primary-memory)  
-+ ML / DL 
-  + Deep Learning form the scratch
-+ Mathematics  
-  + Linear Algebra  
-    + ....Updating....  
-  + Caclus for programming 
-    + ....Updating....
-  + Discrete Mathematics  
-    + ....Updating....
-+ Parallel Computing Technology
-  + ....Updating....
-+ OOP  
-  + ...Updating...
-
-Refer to [Google University](https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep) for now
-___
-
-### Youtube References
-1. [Characteristics of languages explained - Joma Tech](https://www.youtube.com/watch?v=Pb3AAfz5Yjg)
-2. [What is data science? - Joma Tech](https://www.youtube.com/watch?v=xC-c7E5PK0Y)
 ___
 
 ### Coding Exercises/Challenges
@@ -250,7 +242,6 @@ ___
 + __Basic Python__ 
   - [Mutable vs Immutable](https://ledgku.tistory.com/54)  
   
->>>>>>> efc42947f72d36c5c6259e097cd0b0dff364972a
 + __Data Structure__
   - [ ] Arrays 
   - [ ] Stacks, Queues, and Deques

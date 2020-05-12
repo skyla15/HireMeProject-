@@ -1,6 +1,5 @@
 class ArrayQueue(object):
     '''FIFO queue implementation using a Python list as underlying storage'''
-
     DEFAULT_CAPACITY = 7   # initial capacity
 
     def __init__(self):
@@ -68,6 +67,7 @@ class ArrayQueue(object):
 
 def main():
     Q = ArrayQueue()
+
     Q.enqueue(1)
     Q.enqueue(2)
     Q.enqueue(3)
@@ -92,6 +92,11 @@ def main():
     Q.display()
     print(Q.dequeue())
     Q.display()
+
+
+
+
+
 main()
     
 

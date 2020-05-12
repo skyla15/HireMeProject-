@@ -1,16 +1,13 @@
-from collections import defaultdict
+class foo:
+  __slots__ = ('foo')
+  def __init__(self):
+      k = None
 
-def groupWords(words):
-    group = defaultdict()
-    print(group.__getitem__(0))
-    print(group)
-    # grouper = defaultdict(list)
-    # for word in words:
-    #     length = len(word)
-    #     grouper[length].append(word)
-    # print(grouper.__getitem__(2))
-    # print(grouper)
+def main():
+  foo1 = foo()
+  foo1.foo = 'foo'
+  # foo1.__dict__			# {'foo': 'foo'}
+  print(type(foo1.__slots__))				# foo
+  # print(foo1.k)
 
-words=['galway', 'galway', 'my', 'girl']
-groupWords(words)
-# defaultdict(<class 'list'>, {6: ['galway', 'galway'], 2: ['my'], 4: ['girl']})
+main()

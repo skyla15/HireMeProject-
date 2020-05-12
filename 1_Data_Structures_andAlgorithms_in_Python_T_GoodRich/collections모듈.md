@@ -1,9 +1,11 @@
 ## Collections - Contatiner Datatypes 
-1. deque : Explained and Implemented in [Chater6_Stack_Queues_Deques](https://github.com/skyla15/HireMeProject-/tree/master/1_Data_Structures_andAlgorithms_in_Python_T_GoodRich/Chapter6_Stacks_Queues_Deques)
+1. deque : Explained and Implemented in [Chater6_Stack_Queues_Deques](https://github.com/skyla15/HireMeProject-/tree/master/1_Data_Structures_andAlgorithms_in_Python_T_GoodRich/Chapter6_Stacks_Queues_Deques) [Methods](# collections.deque)
 2. [namedtuple() : Factory function for creating tuple subclass with named  fields](#namedtuple)
 3. [Counter : dict subclass for counting hashable objects(dictionary objects)](#Counter)
 4. [OrderedDict : dict subclass that remembers the order entries were added](#OrderedDict)
 5. [defaultdict : dict subclass that callsea factory function to supply missing values (+ dict.setdefault(key,default)  vs collections.defaultdict() )](#defaultdict)
+6. 참고 자료 
+   - [Collections](https://ddanggle.gitbooks.io/interpy-kr/ch12-Collections.html)
 
 #### namedtuple
 #### - collections.namedtuple(typename, field_names, *, rename=False, defaults=None, module=None)
@@ -97,7 +99,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
       print(emp.name, emp.title)
   ~~~
 
-___  
+___
 
 #### Counter
 #### - class collections.Counter([iterable-or-mapping])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.Counter)
@@ -162,7 +164,7 @@ ___
     '''
     Counter({'a': 3, 'b': 0, 'c': -3, 'd': -6})
     ''' 
-    ~~~  
+    ~~~
   - The most commn patterns with Counter objects
 
     ~~~python
@@ -175,7 +177,7 @@ ___
     Counter(dict(list_of_pairs))    # convert from a list of (elem, cnt) pairs
     ~~~
 
-___  
+___
 
 #### OrderedDict
 #### - class collections.OrderedDict([items])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.OrderedDict)
@@ -251,8 +253,7 @@ ___
   # [('C', 10), ('B', 20), ('F', 30), ('D', 40)]
   ~~~
 
-
-___  
+___
 
 
 #### defaultdict
@@ -364,3 +365,26 @@ ___
     groupWords(words)
     # defaultdict(<class 'list'>, {6: ['galway', 'galway'], 2: ['my'], 4: ['girl']})
     ~~~
+
+#### collections.deque 
+
+- Methods
+  ~~~python
+  D = collections.deque		
+  D.len							# return # of elements 
+  D.appendleft(e)		# add to beginning 
+  D.append(e)				# add to end
+  D.popleft()				# remove first element
+  D.pop()						# remove last element 										
+  D[0]							# access first element
+  D[-1]							# access last element
+  D[j]							# access arbitrary entry by index ( O(n) )
+  D[j] = val				# access arbitrary entry by index ( O(n) )
+  D.clear()				
+  D.rotate(k)				# Circularly shift rightward k steps
+  D.remove(e)				# remove the first matching element
+  D.count(e)				# count the number of matches for e
+  ~~~
+
+  
+

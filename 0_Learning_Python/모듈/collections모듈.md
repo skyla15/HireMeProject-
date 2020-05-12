@@ -1,12 +1,12 @@
-Collections - Contatiner Datatypes 
+## Collections - Contatiner Datatypes 
+1. deque : Explained and Implemented in [Chater6_Stack_Queues_Deques](https://github.com/skyla15/HireMeProject-/tree/master/1_Data_Structures_andAlgorithms_in_Python_T_GoodRich/Chapter6_Stacks_Queues_Deques)
+2. [namedtuple() : Factory function for creating tuple subclass with named  fields](#namedtuple)
+3. [Counter : dict subclass for counting hashable objects(dictionary objects)](#Counter)
+4. [OrderedDict : dict subclass that remembers the order entries were added](#OrderedDict)
+5. [defaultdict : dict subclass that callsea factory function to supply missing values (+ dict.setdefault(key,default)  vs collections.defaultdict() )](#defaultdict)
 
-- deque : Explained and Implemented in [Chater6_Stack_Queues_Deques](https://github.com/skyla15/HireMeProject-/tree/master/1_Data_Structures_andAlgorithms_in_Python_T_GoodRich/Chapter6_Stacks_Queues_Deques)
-- namedtuple() : Factory function for creating tuple subclass with named  fields 
-- Counter : dict subclass for counting hashable objects(dictionary objects)
-- OrderedDict : dict subclass that remembers the order entries were added 
-- defaultdict : dict subclass that callsea factory function to supply missing values (+ dict.setdefault(key,default)  vs collections.defaultdict() )
-
-#### 1) collections.__namedtuple__(*typename*, *field_names*, *, *rename=False*, *defaults=None*, *module=None*)
+#### namedtuple
+#### - collections.namedtuple(typename, field_names, *, rename=False, defaults=None, module=None)
 
 - rename : if set to True, invalid filed names are automatically replaced with positional names 
   - invalid field_names are 'reserved keywords', 'duplecate filed name'
@@ -27,7 +27,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
 
 - Methods 
 
-  1. namedtuple._make(iterable) : 기존의 시퀀스 객체나, 반복가능한 객체로 부터 새로운 namedtuple 객체 생성 
+  - namedtuple._make(iterable) : 기존의 시퀀스 객체나, 반복가능한 객체로 부터 새로운 namedtuple 객체 생성 
 
      ~~~python
      t = [11, 22]
@@ -36,7 +36,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
      # NT(a=11, b=22)
      ~~~
 
-  2. namedtuple._asdict() : 키워드와 값을 쌍으로 갖는 딕셔너리를 반환 
+  - namedtuple._asdict() : 키워드와 값을 쌍으로 갖는 딕셔너리를 반환 
 
      - 3.1 ~ 3.7 버전 : OrderedDict 반환 
      - 3.8 ~ 버전 : 일반 dict 반환 
@@ -47,10 +47,9 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
      # OrderedDict([('a', 100), ('b', 200)])
      ~~~
 
-  3. namedtuple._replace(**kwargs)
+  - namedtuple._replace(**kwargs)
 
      - 네임드튜플의 특정 필드의 값을 수정할 때 사용 
-
      - 일반적인 상황에서는 필드 네임으로 접근하면 되지만 
        아래와 같이 데이터가 복잡하게 되있는 경우, 튜플들의 값을 수정하는 데 사용 
 
@@ -59,7 +58,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
        	 inventory[partnum] = record._replace(price=newprices[partnum], timestamp=time.now())
        ~~~
 
-  4. namedtuple._fields
+  - namedtuple._fields
 
      - View the filed names of the namedtuple 
 
@@ -68,7 +67,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
        # ('a', 'b')
        ~~~
 
-  5. namedtuple._field_defaults 
+  - namedtuple._field_defaults 
 
      - View the dictionary mapping filed to default values 
 
@@ -80,7 +79,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
 
        
 
-- __Useful for assigning field names to result tuples returned by the csv or sqlite3 modules __
+- Useful for assigning field names to result tuples returned by the csv or sqlite3 modules
 
   ~~~python
   EmployeeRecord = namedtuple('EmployeeRecord', 'name, age, title, department, paygrade')
@@ -98,9 +97,10 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
       print(emp.name, emp.title)
   ~~~
 
+___  
 
-
-#### 2) *class* collections.Counter([*iterable-or-mapping*])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.Counter)
+#### Counter
+#### - class collections.Counter([iterable-or-mapping])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.Counter)
 
 - It is a collection where elements are stored as dictionary __keys and their counts are stroede as dictionary__ values.
 
@@ -133,26 +133,19 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
 
     
 
--  Class Method 
-
+- Class Method
   - Counter.elements() : 각 아이템들의 갯수만큼 반복해주는 "이터레이터" 반환. 카운트가 0인 것은 무시 
-
     ~~~python
     c = Counter({'red':4, 'blue':2, 'yello':0})
     print(list(c.elements))
     # ['red', 'red', 'red', 'red', 'blue', 'blue']
-    
     ~~~
-
   - Counter.most_commn(n) : return a list of the n most common elements and their counts 
-
     ~~~python
     Counter('abracadabra').most_common(3)
     [('a', 5), ('b', 2), ('r', 2)]
     ~~~
-
   - Counter.subtract[iterable-or-mapping]
-
     ~~~ptyhon
     c1 = collections.Counter('hello python')
     c2 = collections.Counter('i love python')
@@ -169,8 +162,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
     '''
     Counter({'a': 3, 'b': 0, 'c': -3, 'd': -6})
     ''' 
-    ~~~
-
+    ~~~  
   - The most commn patterns with Counter objects
 
     ~~~python
@@ -183,9 +175,10 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
     Counter(dict(list_of_pairs))    # convert from a list of (elem, cnt) pairs
     ~~~
 
-    
+___  
 
-#### 3) *class* collections.OrderedDict([*items*])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.OrderedDict)
+#### OrderedDict
+#### - class collections.OrderedDict([items])[¶](https://docs.python.org/ko/3.8/library/collections.html#collections.OrderedDict)
 
 - An OrderedDict() remembers the order of key addition and returns them in the same order from an iterator.
 
@@ -217,7 +210,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
       - last = True : move an existing key to the right end 
       - last = False : move an existing key to the left end 
 
-- __`sorted`(*iterable*, ***, *key=None*, *reverse=False*)[¶](https://docs.python.org/ko/3/library/functions.html#sorted) __
+- `sorted`(*iterable*, ***, *key=None*, *reverse=False*)[¶](https://docs.python.org/ko/3/library/functions.html#sorted) 
 
   - key = iterable의 인자 1개를 받는 데 사용하는 '함수'
 
@@ -259,11 +252,13 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
   ~~~
 
 
+___  
 
 
-#### 4)*class* collections.defaultdict([*default_factory*[, *...*]])
+#### defaultdict
+#### -class collections.defaultdict([*default_factory*[, *...*]])
 
-- The first agument of the defaultdict provides the initial value for the __default_factory attribute__.(default = None) 
+- The first agument of the defaultdict provides the initial value for the default_factory attribute(default = None) 
 
 - Class attribute and methods 
 
@@ -273,7 +268,7 @@ print('p : {}   p.a : {}    p.a+p.b : {}'.format(p, p.a, p.a+p.b))
     - 모든 키에 대해 "기본값"으로 사용되는 인자
     - \__missing__()을 통해 호출되고, 기본값은 None. 아래 참고 
 
-  - defaultdict.__missing__(key) 
+  - defaultdict.\__missing__(key) 
 
     - Only called by  \__getitem__ method.
 

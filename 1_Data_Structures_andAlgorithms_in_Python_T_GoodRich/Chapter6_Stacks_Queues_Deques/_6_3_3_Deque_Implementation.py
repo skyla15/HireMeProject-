@@ -20,6 +20,7 @@ D.rotate(k)
 D.remove(e)
 D.count(e)
 """
+import collections
 
 class Deque(object):
     MAX_SIZE = 5

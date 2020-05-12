@@ -61,13 +61,13 @@ ___
 | D.appendleft(e)      | D.add_first(e)   | add to beginning                       |
 | D.appendright(e)     | D.add_last(e)    | add to end                             |
 | D.popleft()          | D.delete_frist   | remove first element                   |
-| D.popright()         | D.delete_last    | remove last element                    |
-| D.first() / D.last() | D[0], D[-1]      | access first/last element   |
-|                      | D[j], D[j] = val | access/modify arbitrary entry by index<br />=> __worst case : O(n)__ |
-|                      | D.clear()        |                                        |
-|                      | D.rotate(k)      | Circularly shift rightward k steps     |
-||D.remove(e)|remove first matching element|
-||D.count(e)|count the number of mathces for e|
+| D.pop()         | D.delete_last    | remove last element                    |
+| D[0], D[-1] | D.first() / D.last() | access first/last element   |
+| D[j], D[j] = val |  | access/modify arbitrary entry by index<br />=> __worst case : O(n)__ |
+| D.clear() |         |                                        |
+| D.rotate(k) |       | Circularly shift rightward k steps     |
+|D.remove(e)||remove first matching element|
+|D.count(e)||count the number of mathces for e|
 
 
 
