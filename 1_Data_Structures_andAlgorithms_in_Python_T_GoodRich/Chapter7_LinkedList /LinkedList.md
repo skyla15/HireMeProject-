@@ -1,17 +1,19 @@
 ## LinkedList  
 
-1. Singly_Linked_Lists 
+1. [\__slots\_\_  와 \_\_dict\_\_](#----slots-----와----dict----)
+2. [Nested Class](#Nested-Class)
+3. [Linked List](#Linked-List)
+4. Singly_Linked_Lists 
    - Stack 
    - Queue 
    - Cirucularly Linked List 
-
-2. Circularly_Linked_Lists 
+5. Circularly_Linked_Lists 
    - Deque 
-3. Positinal List ADT 
+6. Positinal List ADT 
 
+___
 
-
-### \__slots\_\_  와 \_\_dict__
+### \_\_slots\_\_  와 \_\_dict\_\_
 
 - 만약 사용되는 속성이 고정되있고, 해당 클래스의 객체가 많이 사용이 된다면 \__slots__ 를 사용하는 것이 메모리면으로 효율적이다.
 
@@ -52,6 +54,15 @@
     foo1.foo					# foo 
   ~~~
 
+___
+
+### Nested Class 
+
+- Nesting one class in the scope of another makes clear that the nested class exists for support of the outer class.
+- Help reduce potential name conflicts because it allows for a similarly named class to exist in another context. (p. 99)
+
+___
+
 ### Linked List 
 
 - Difference between Array and Linked List 
@@ -68,6 +79,8 @@
     - In similar regard, keeping the track of __size__ is commonly used
   - Traversng : By starting at the head and moving from one node to another by following each node's next refererence.  
   - link hopping : Moving from one node to another  
+
+___
 
 ### Singly Linked List 
 
