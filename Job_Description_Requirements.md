@@ -43,4 +43,7 @@ ___
   - My project will be based on the git-hub called Coding Interview University, which is on top popular github list  
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
     - I will have this repository more oriented to Data Engineering rather than software engineering 
-
+___   
+### How to prepare Coding Interviews 
+- (빅4 IT 회 개발자)[https://www.steeme.com/136?category=703465]
+  - LeetCode : Solve at least 3 problems everyday / Make it your goal for you to be able to solve all the easy problems.
