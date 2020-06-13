@@ -11,8 +11,11 @@ ___
   + [Advanced Topics](https://thomas-cokelaer.info/tutorials/python/index.html)
 + C++
   + [LearnCPP](https://www.learncpp.com)    
++ SQL
+  - [SQL](http://ecomputernotes.com/sql)
 + Django 
   + ....Updating....
++ [깃허브 자주 사용하는 명령어](https://parksb.github.io/article/28.html)
 + Coding Test and Interviews   
   + Elements Of Programming Intervies in Python ( The insiders' Guide )     
   + Grokking Algorithms ( Aditya Y. Bhargava ) 
@@ -28,9 +31,8 @@ __Fundamentals__
   - 파이썬 자료구조와 알고리즘 (Mia Stein)
   - 파이썬으로 쉽게 풀어쓴 자료구조 ( 천인국 )
 - OOP  
-+ Database / SQL
++ Database 
   + [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)
-  + [SQL](http://ecomputernotes.com/sql)
 + Operating System   
   + [Operating System Reference](https://mail.ecomputernotes.com/fundamental/disk-operating-system/scheduling-algorithms) 
 + Computer Architecture
@@ -55,12 +57,19 @@ __기업들 기출 문제__
 
   Challenge repos:
 
+__연습문제__ 
 
-__연습문제__
+목표 
+
+1) 프로그래머스 레벨1,2 / Leetcode easy labels 
+
+2) 그 다음 레벨 하루 2,3문제 풀 수 있도록 
+
 - [Programmers](https://programmers.co.kr) 
   - 레벨 1,2 : 기본 
   - 레벨 3,4 : 실제 문제 풀이용 
 - [LeetCode](https://leetcode.com/)  
+  - 목표 : easy 문제들은 쉽게 풀 수 있도록 
   - [LeetCode solutions from FisherCoder](https://github.com/fishercoder1534/Leetcode)   
   - See Nick White Videos above for short code-throughs  
 - [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)   
@@ -72,7 +81,7 @@ __Coding Interview Question Videos:__
 - [IDeserve (88 videos)](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
 
 - [Tushar Roy (5 playlists)](https://www.youtube.com/user/tusharroy2525/playlists?shelf_id=2&view=50&sort=dd)
-    
+  
     - Super for walkthroughs of problem solutions.
     
 - [Nick White - LeetCode Solutions (187 Videos)](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
