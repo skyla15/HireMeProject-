@@ -19,7 +19,7 @@ ___
 
 ___
 
-__Concepts I will cover__
+__Fundamentals__
 
 + Data Structures and Algorithms      
   - [Big-O](https://ko.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)  
@@ -28,8 +28,9 @@ __Concepts I will cover__
   - 파이썬 자료구조와 알고리즘 (Mia Stein)
   - 파이썬으로 쉽게 풀어쓴 자료구조 ( 천인국 )
 - OOP  
-+ Database  
++ Database / SQL
   + [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)
+  + [SQL](http://ecomputernotes.com/sql)
 + Operating System   
   + [Operating System Reference](https://mail.ecomputernotes.com/fundamental/disk-operating-system/scheduling-algorithms) 
 + Computer Architecture
