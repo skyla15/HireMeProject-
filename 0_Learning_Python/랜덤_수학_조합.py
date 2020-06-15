@@ -35,14 +35,19 @@ math.ceil(math.e)   # 자연상수의 소수점 아래를 올림   / 3
         - random()      : 0이상 1미만 실수 
     
     # 시퀀스 객체 사용 
-        - choice(seq)   : seq 임의 요소 무작위 선택 
+        - choice(seq)   : seq 임의 요소 무작위 선택
+        
         - sample(seq, k): seq 임의 요소 K개 무작위 선택
         - shuffle(seq)  : seq 무작위 shuffle
+
+    # random.random() : return a random acutual number between 0 and 1
+    # random.randrange(n,m) : return a random nubmer between n and m
  """
 import random
 S = ['고양이', '곰', '돼지', '여우', '담비']
 print(S[random.randint(0,len(S)-1)])
 print(random.choice(S))     # S에서 1개 무작위 선택
+print(random.choice([True,False])
 print(random.sample(S, 3))  # S에서 3개 무작위 선택
 print('Original S : ', S)
 print('Shuffled S : ', random.shuffle(S))
