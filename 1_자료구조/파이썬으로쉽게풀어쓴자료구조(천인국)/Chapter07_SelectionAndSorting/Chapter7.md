@@ -10,4 +10,4 @@
 1. 선택정렬
     - 가장 작은 숫자를 선택해서 앞(뒤)쪽으로 옮기는 정렬 
     - 오른쪽(왼쪽)에서 가장 작은 숫자를 선택하여 리스트의 맨 앞(뒤)로 이동하는 작업 반복  
-    ![선택정렬 과정](1_자료정구조/파이썬으로쉽게풀어쓴자료구조(천인국)/Chapter07_SelectionAndSorting/illustration_ch7/선택정렬과정.png)
+    ![선택정렬 과정](HireMeProject-/1_자료구조/파이썬으로쉽게풀어쓴자료구조(천인국)/Chapter07_SelectionAndSorting/illustration_ch7/)
