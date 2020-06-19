@@ -30,9 +30,15 @@ __Fundamentals__
 
   + [숙명여대 통계학의 이해2 - 통계적 추론](http://www.kmooc.kr/courses/course-v1:SookmyungK+SM_sta_009k+2019_02SM_04/course/) 
 
+    + contents :  
+
+      해당 강의 내용을 R로 실습 가능 / 강의 자료에 충분한 설명이 있어, 필요한 부분만 강의 찾아들으면 됨.  
+      내용이 굉장히 방대하므로 2~3주 걸쳐서 볼 것
+
   + [KOREA UNIVERSITY Mathematical Fundamentals for Data Science](http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eng_002+2020_A09/course/)
 
-    + contents : Very simple and practical eamples that can be adopted to practical programmin right away. 
+    + contents : Very simple and practical eamples that can be adopted to practical programmin right away.  매우 콤팩트한 내용으로 데이터 과학에 사용되는 기본 수학 개념들이 들어있음.  
+      학원 수준으로 내용은 얕으나 하루에 몰아보면 충분히 커버 가능한 양
 
     ___
 
