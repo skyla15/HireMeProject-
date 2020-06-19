@@ -7,6 +7,7 @@ def solution2(arrangement):
     answer = 0
     cnt = 0
     s = deque()
+    # 
 
 
 '''ㅏ
