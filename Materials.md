@@ -30,7 +30,7 @@ __Fundamentals__
 
   + [숙명여대 통계학의 이해2 - 통계적 추론](http://www.kmooc.kr/courses/course-v1:SookmyungK+SM_sta_009k+2019_02SM_04/course/) 
 
-    + contents :  
+    + contents :  __각 파트 별 사용되는 R언어 문법도 같이 설명__
 
       해당 강의 내용을 R로 실습 가능 / 강의 자료에 충분한 설명이 있어, 필요한 부분만 강의 찾아들으면 됨.  
       내용이 굉장히 방대하므로 2~3주 걸쳐서 볼 것
