@@ -34,6 +34,8 @@ __Fundamentals__
 
     + 대학원, PhD 학생 대상 / 포항공대 AI대학원 입학시험 공식 교재
 
+  + [편하게 참고할만한 블로그](https://blog.naver.com/mykepzzang/220915650456)
+
     ___
 
   + 참고 강의
