@@ -1,5 +1,3 @@
-___
-
 ### Language Meterials 
 
 + [Coding Exercises/Challenges](#Coding-ExercisesChallenges)  
@@ -26,27 +24,29 @@ __Fundamentals__
 
 + Statistic and mathematic for Data Science
 
-  + [숙명여대 통계학의 이해1 - 통계학 기본](http://www.kmooc.kr/courses/course-v1:SookmyungK+SM_sta_004k+2019_03SM_02/course/)
+  + [An introduction to stastical learning](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 
-  + [숙명여대 통계학의 이해2 - 통계적 추론](http://www.kmooc.kr/courses/course-v1:SookmyungK+SM_sta_009k+2019_02SM_04/course/) 
+    + [Solutions](http://blog.princehonest.com/stat-learning/)
+    + [Video Instruction](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+    + Korean Title : 처음 접하는 통계학습
 
-    + contents :  __각 파트 별 사용되는 R언어 문법도 같이 설명__
+  + [The elements of stastical learning](https://web.stanford.edu/~hastie/ElemStatLearn//)
 
-      해당 강의 내용을 R로 실습 가능 / 강의 자료에 충분한 설명이 있어, 필요한 부분만 강의 찾아들으면 됨.  
-      내용이 굉장히 방대하므로 2~3주 걸쳐서 볼 것
-
-  + [KOREA UNIVERSITY Mathematical Fundamentals for Data Science](http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eng_002+2020_A09/course/)
-
-    + contents : Very simple and practical eamples that can be adopted to practical programmin right away.  매우 콤팩트한 내용으로 데이터 과학에 사용되는 기본 수학 개념들이 들어있음.  
-      학원 수준으로 내용은 얕으나 하루에 몰아보면 충분히 커버 가능한 양
+    + 대학원, PhD 학생 대상 / 포항공대 AI대학원 입학시험 공식 교재
 
     ___
 
   + 참고 강의
 
     + [SNU 경제통계학 류근관 교수님<기초> ](http://www.kmooc.kr/courses/course-v1:SNUk+SNU212_204_3k+2020_T1/course/) 
+    + [숙명여대 통계학의 이해1 - 통계학 기본](http://www.kmooc.kr/courses/course-v1:SookmyungK+SM_sta_004k+2019_03SM_02/course/)
+    + [숙명여대 통계학의 이해2 - 통계적 추론](http://www.kmooc.kr/courses/course-v1:SookmyungK+SM_sta_009k+2019_02SM_04/course/) 
 
-      
+    + [KOREA UNIVERSITY Mathematical Fundamentals for Data Science](http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eng_002+2020_A09/course/)
+      + contents : Very simple and practical eamples that can be adopted to practical programmin right away.  매우 콤팩트한 내용으로 데이터 과학에 사용되는 기본 수학 개념들이 들어있음.  
+        학원 수준으로 내용은 얕으나 하루에 몰아보면 충분히 커버 가능한 양
+
+    
 
 + Big Data / Machine Learning 
 
@@ -70,20 +70,23 @@ __Fundamentals__
       
 
 + Data Structures and Algorithms      
+
   - [Big-O](https://ko.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)  
   - [모두의 알고리즘](https://modoocode.com/246)  
   - Data Structure & Algorithms in Python ( T. Goodrich ) 
   - 파이썬 자료구조와 알고리즘 (Mia Stein)
   - 파이썬으로 쉽게 풀어쓴 자료구조 ( 천인국 )
+
 - OOP & Design Patters 
   - Head First Design Patterns
+
 + Database 
   + [Database Reference - Have all the basic concepts](http://ecomputernotes.com/fundamental/what-is-a-database/advantages-and-disadvantages-of-dbms)
 + Operating System   
   + [Operating System Reference](https://mail.ecomputernotes.com/fundamental/disk-operating-system/scheduling-algorithms) 
 + Computer Architecture
   + [Computer Architecture Reference](https://mail.ecomputernotes.com/fundamental/input-output-and-memory/primary-memory)  
-  
+
 + Parallel Computing Technology ( Will be updated )
 + Linear Algebra  ( Will be updated )
 + Caclus for programming  ( Will be updated )
@@ -125,13 +128,14 @@ __Coding Interview Question Videos:__
 - [IDeserve (88 videos)](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
 
 - [Tushar Roy (5 playlists)](https://www.youtube.com/user/tusharroy2525/playlists?shelf_id=2&view=50&sort=dd)
-  
-    - Super for walkthroughs of problem solutions.
-    
+
+  - Super for walkthroughs of problem solutions.
+
 - [Nick White - LeetCode Solutions (187 Videos)](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
-    - Good explanations of solution and the code.
-    - You can watch several in a short time.
-    
+
+  - Good explanations of solution and the code.
+  - You can watch several in a short time.
+
 - [FisherCoder - LeetCode Solutions](https://youtube.com/FisherCoder)
 
     
