@@ -30,6 +30,7 @@ shallow4 = list(shallow3)
 print(id(shallow3),id(shallow4))        # 복합객체 주소는 다름
 print(id(shallow3[0]),id(shallow4[0]))  # 복합 객체의 참조 주소는 같음
 shallow4[0] = 10000                     # 재할당 시 주소 새로 받음
+print('new')
 print(id(shallow3[0]), id(shallow4[0])) # shallow4[0] 재할당되어 새로운 주소를 받음
 print(id(shallow3[1]), id(shallow4[1])) # 재할당된 요소 외에는 계속 같은 값을 참조하고 있음
 print()

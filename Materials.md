@@ -24,7 +24,7 @@ __Fundamentals__
 
 + Statistic and mathematic for Data Science
 
-  + [An introduction to stastical learning](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+  + [An introduction to statistical learning](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 
     + [Solutions](http://blog.princehonest.com/stat-learning/)
     + [Video Instruction](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)

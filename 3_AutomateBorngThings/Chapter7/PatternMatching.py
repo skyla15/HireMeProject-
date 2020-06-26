@@ -130,6 +130,9 @@ print(m)
 print()
 
 
+print('******************************************************')
+print('******************************************************')
+print('******************************************************')
 # Making my own character classes : Square Brackets []
 print('😃Making my own character classes : Square Brackets []')
 vowelRegex = re.compile(r'[aeiouAEIOU]')    # all the vowels, both lowercase and upper case
