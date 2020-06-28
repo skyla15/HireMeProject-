@@ -1,116 +1,71 @@
-#
-#
-# # 프로그래머스 쇠막대기
-# from collections import deque
-#
-# def solution2(arrangement):
-#     answer = 0
-#     cnt = 0
-#     s = deque()
-#     #
-#
-#
-# '''ㅏ
-# ( ( ( ) ) )
-#      |
-#   ___ ___
-# _____ _____
-#
-#
-# '''
-#
-# def main():
-#     arr = [1, 2, 3, 3, 3, 3, 3, 4, 4]
-#     arrangement = "()(((()())(())()))(())"
-#     # print( solution1(arr) )
-#     solution2(arrangement)
-#
-# main()
-#
-#
+# 연,월,일 입력 / 연, 월, 일 따로 인풋 / 연 월 일 입력 시 => 요일을 구할 수 있다. / 윤달 윤년 파악
+# 서기 1년 1월 1일은 월요일
+# 4로 나누어지는 해는 윤년
+# 100으로 나누어지는 해는 윤년이 아님
+# 400으로 나누어지는 해는 윤년
+cur_year= int(input('연도 : '))
+last_year = cur_year - 1
+month = int(input('월 : '))
+day = int(input('일 : '))
+days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
+leap_year_cnt = 0   # 윤년 카운트
+no_leap_year_cnt = 0
 
-# test = 'a&b&c'
-# a = test.split('&')
-# print(a)
+year_cnt = 0        # 작년까지 총 일수
+month_cnt = 0       # 이번 년도 달들에 대 일수 카운트
+day_cnt = day       # 이번 년도 이번 달, 일수 카운트
+total_days = 0      # 오늘까지 총 일수
+ans = None          # days s인덱스
 
-a = 'apple'
-b = 'pine'
-k = [b, a]
-res = '&'.join(k)
-print(res)
-print('-'*100)
+leap_year_cnt = last_year // 4 - last_year // 100 + last_year // 400
+no_leap_year_cnt = last_year - leap_year_cnt
+year_cnt = leap_year_cnt * 366 + no_leap_year_cnt * 365     # 작년까지 윤년 갯수 * 366 + 윤년 * 365
 
-a = '짝홀짝홀짝홀'
-print(a[::2])
+print(leap_year_cnt, year_cnt)
 
-H = '010-1234-5678'
-print((H.split('-')[1]))
+# 올해가 윤년인 경우
+if cur_year % 4 == 0 and cur_year % 100 != 0 or cur_year % 400 == 0:
+    # 1월부터 저번 달까지.
+    for i in range(1, month):
+        if i in [1, 3, 5, 7, 8, 10, 12]:
+            month_cnt += 31
+        elif i == 2:
+            month_cnt += 29
+        else:
+            month_cnt += 30
+# 올해가 윤년이 아닌 경우
+else:
+    for i in range(1, month):
+        if i in [1, 3, 5, 7, 8, 10, 12]:
+            month_cnt += 31
+        elif i == 2:
+            month_cnt += 28
+        else:
+            month_cnt += 30
 
-lst = ['We', 'are', 'the', 'World']
-ans = ' '.join(lst)
+# 총 일수 계산
+total_days = year_cnt + month_cnt + day_cnt
+ans = days[total_days % 7]
 print(ans)
 
-a = [8, 8, 8]
-b = [1, 5]
-c = a + b
 
-movie = ['Aladin', 'ToyStory', 'Parasite']
-movie.insert(2, 'Superman Returns')
-print(movie)
+# 방법 #2
+idx = 1 # 월요일
+for i in range(1, cur_year + 1 ):
+    # 윤년일 경우
+    if cur_year % 4 == 0 and cur_year % 100 != 0 or cur_year % 400 == 0:
+        idx = ( idx + 2 ) % 7       # 모듈러 연산
+    else:
+        idx = ( idx + 1 ) % 7
 
-num = [1, 2, 3, 4, 5]
-print( sum(num) / len(num) )
-
-num1 = [1,2,3,4,5,6,7,8]
-print(num1[::2], num1[1::2], num1[::-1])
+print(ans)
 
 
-wish = ('구글', '아마존' )
-print(type(list(wish)))
 
 
-# 백준문제
-# from collections import deque
-# n = int(input())
-# D = deque(range(1,n+1))
-# print(D)
-# while len(D) > 0:
-#     # 1. 맨 위의 카드를 버림
-#     print(D.popleft())
-#     D.rotate(-1)
-#     print(D)
 
 
-a = {'gender':'female', 'age':30, 'name':'Kim'}
-print(a)
 
-
-d = {(1,2,3) : 'data'}
-print(d[(1,2,3)])
-
-
-d2 = {'a' : [1,2,3]}
-print(d2['a'][0], d2['a'][1], d2['a'][2])
-
-
-icecream = { '올때메로나': 1000, '폴라포':1200, '빵빠레':1800 }
-icecream.update(올때메로나 = 1200)
-
-
-stock = {'메로나' : { '가격' : 300, '재고' : 20 },
-         '비비빅' : { '가격' : 400, '재고' : 3 },
-         '죠스바' : { '가격' : 250, '재고' : 100}
-         }
-
-
-print(stock)
-
-
-print(stock.values())
-
-
-for k, v in stock.items():
-    print('{} - 가격 : {}, 재고 : {}'.format(k, v['가격'], v['재고']))
 
 
