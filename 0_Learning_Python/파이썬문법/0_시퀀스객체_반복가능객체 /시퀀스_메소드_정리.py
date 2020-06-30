@@ -76,3 +76,7 @@ A.items()
 A.values()
 A.keys()
 """
+
+print(sorted([('Dave', 'b', 1), ('Peter', 'a', 2), ('James', 'c', 3)], key = lambda s : s[2]))
+print(sorted('This is how we do it'.split(), key = str.lower))
+
