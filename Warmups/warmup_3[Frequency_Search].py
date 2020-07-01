@@ -27,9 +27,9 @@ for w in word_collection:
     if not w.isalnum():
         word_collection.remove(w)
 
-print(word_collection)
-c = Counter(word_collection)
-print(c.most_common(1))
+# print(word_collection)
+c = Countter(word_collection)
+print(c)
 
 
 

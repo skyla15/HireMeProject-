@@ -59,7 +59,7 @@ def pushBracket(bracket) :
 
 
 if __name__ == '__main__' :
-    str = ( '{ A[(i+1)] = 0;}', 'if(i ( i == 0 ) && ( j == 0 )' )
+    str = ( '((' )
     for s in str :
         m = pushBracket(s)
         print(s, ' -->' , m)

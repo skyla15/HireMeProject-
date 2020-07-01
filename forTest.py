@@ -1,6 +1,10 @@
-cnt = {}
-cnt['a'] = 1
-print(cnt)
+import sys
+print(sys.path)
+sys.path.append('모듈 디렉토리')
 
-cnt = {'a':1, 'b':2, 'c':3, 'd':4, 'e':5}
-print(sorted(cnt.items(), reverse = True))
+prices = [7, 1, 5, 3, 4, 6]
+print(prices)
+print(prices[1:])
+print(list(zip(prices, prices[1:])))
+print([b - a for a, b in zip(prices, prices[1:]) if b - a > 0])
+print(sum([b - a for a, b in zip(prices, prices[1:]) if b - a > 0]))
