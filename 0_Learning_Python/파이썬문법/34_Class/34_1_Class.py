@@ -1,6 +1,6 @@
 # 참고 : 모든 클래스는 object 클래스를 상속받음
 # class X : 와 class X(object) : 는 같은 의미
-
+#
 # 34.1 클래스와 메서드 만들기, 호출하기
 # 메서드의 첫 번째 매개변수는 반드시 self를 지정해야 합니다.
 # class 클래스:
@@ -42,10 +42,10 @@
 # - 예를 들어 팩토리얼 함순느 1부터 n까지 양의 정수를 차례대로 곱해야합니다.
 #   하지만 실수와 음의 정수는 계산할 수 없습니다.
 #   이럴 때 isinstance를 사용하여 숫자가 정수일 때만 계산하도록 함
-
-def factorial(n):
-    if not isinstance(n, int) or n < 0:    # n이 정수가 아니거나 음수이면 함수를 끝냄
-        return None
-    if n == 1:
-        return 1
-    return n * factorial(n - 1)
+#
+# def factorial(n):
+#     if not isinstance(n, int) or n < 0:    # n이 정수가 아니거나 음수이면 함수를 끝냄
+#         return None
+#     if n == 1:
+#         return 1
+#     return n * factorial(n - 1)
