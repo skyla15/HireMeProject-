@@ -16,7 +16,8 @@ class Circular_Queue :
 
     def enqueue(self,item):
         try :                           # Stack Full 처리
-            if self.isFull() : raise Exception('Circular Queue Full')
+            if self.isFull() :
+                raise Exception('Circular Queue Full')
         except Exception as e :
             print(e)
 
@@ -29,9 +30,8 @@ class Circular_Queue :
         except Exception as e:
             print(e)
 
-
-        self.front = (self.front+1) % MAX_SIZE  # front 한 칸 전진
-        return self.circularQ[self.front]       #
+        self.front = (self.front+1) % self.MAX_SIZE  # front 한 칸 전진
+        return self.circularQ[self.front]
 
 
     def size(self):         # 핵심 : 모듈러 연산
@@ -41,7 +41,7 @@ class Circular_Queue :
         return self.rear + 1 == self.front  # front는 비어있는 상태로 두기때문
 
     def isEmpty(self):
-        return self.rear == self.front      # front 가 이동해서 rear까지 옴
+        return self.front == self.rear      # front 가 이동해서 rear까지 옴
 
     def display(self):
         if self.isEmpty() :
