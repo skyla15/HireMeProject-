@@ -364,3 +364,24 @@ ___
     groupWords(words)
     # defaultdict(<class 'list'>, {6: ['galway', 'galway'], 2: ['my'], 4: ['girl']})
     ~~~
+
+
+#### Heapq 모듈 ( 메소드 )         ##
+
+- import heapq
+- heapq.heapify(반복 가능 객체) : 리스트를 O(n) 시간 안에 힘으로 변환
+- heapq.heappush(힙 객체, 요소)
+- heapq.heappop(힙) : 힙에서 가장 작은 항목 제거
+- heapq.heappushpop(힙 객체, 요소) : 힙의 가장 작은 항목 반환, 새항목 추가
+- heapq.heapreplace(힙 객체, 요소) : 힙의 가장 작은 항목 반환, 새 항목 추가
+    -  heappush / heappop 을 따로 쓰는 것보다
+    - heappushpop / heapreplae 를 쓰는 것이 효율적
+- heapq.merge(*반복 가능한 객체) : 여러 반복 가능한 객체를 정렬된 결과의 "이터레이터" 반환
+- heapq.nlargest(n, 반복 가능 객체) :            큰
+- heapq.nsmallest(n, 반복 가능 객체) : n 개의 가장 작은 "리스트" 반환
+
+- h = []
+- heapq.heappush(h, (1, food))
+- heapq.heappush(h, (2, girl))
+- heapq.heappop(h)
+##########################################################

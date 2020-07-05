@@ -1,44 +1,38 @@
-import sys
-print(sys.path)
-sys.path.append('모듈 디렉토리')
+# def make_set(arr):
+#     new_set = list()
+#     for e in arr:
+#         if e not in new_set:
+#             new_set.append(e)
+#     return new_set
+#
+# def sum(base, other):
+#     return [x for x in other if x not in base] + base
+#
+# def complement(base, other):
+#     return [x for x in base if x not in other]
+#
+# def intersect(base ,other):
+#     return [x for x in base if x in other]
+#
+# def main():
+#     arrayA = [1,3,4,5,6,7,8,9,0,1,2,3,2,4,5,1]
+#     arrayB = [10,2,3,4,7,12,3,4,2]
+#     setA = make_set(arrayA)
+#     setB = make_set(arrayB)
+#
+#     print('A   : ', setA)
+#     print('B   : ', setB)
+#     print('A+B : ', sum(setA, setB))
+#     print('A-B : ', complement(setA, setB))
+#     print('A^B : ', intersect(setA,setB))
+#
+# def main2():
+#     print( sorted( ["가을", "우주", "너굴"] ))
+#     print( sorted(["꿀꿀꿀", "꿀꿀", "꿀잠", "꿀"]))
+#     print( sorted(["꿀꿀", "꿀", "잠잠잠", "잠"]))
+# main2()
 
-prices = [7, 1, 5, 3, 4, 6]
-print(prices)
-print(prices[1:])
-print(list(zip(prices, prices[1:])))
-print([b - a for a, b in zip(prices, prices[1:]) if b - a > 0])
-print(sum([b - a for a, b in zip(prices, prices[1:]) if b - a > 0]))
 
-
-## Map
-a = [1,2,3,4,5]
-b = 10, 20, 30, 40, 50
-
-map_ab = list(map((lambda a, b : a * b), a, b))
-
-
-users = [
-    {'mail': 'gregorythomas@gmail.com',
-     'name': 'Brett Holland',
-     'sex': 'M',
-     'age': 73},
- {'mail': 'hintoncynthia@hotmail.com',
-  'name': 'Madison Martinez',
-  'sex': 'F',
-  'age': 29},
- {'mail': 'wwagner@gmail.com',
-  'name': 'Michael Jenkins',
-  'sex': 'M',
-  'age': 51},
- {'mail': 'daniel79@gmail.com',
-  'name': 'Karen Rodriguez',
-  'sex': 'F',
-  'age': 32}
-]
-
-from functools import reduce
-mails = reduce(lambda prev_user, cur_user : prev_user +[cur_user['mail']], users, [])
-print(mails)
-
-accumulator = reduce(lambda x, y : x + y, a, 100)
-print(accumulator)
+a = [1,2,3,4]
+del a[3]
+print(a)

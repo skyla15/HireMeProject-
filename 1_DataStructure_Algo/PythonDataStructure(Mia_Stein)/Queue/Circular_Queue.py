@@ -78,11 +78,6 @@ if __name__ == '__main__' :
     cq.enqueue(3)
     print(cq.circularQ[cq.front])
 
-
-
-
-
-
     cq.dequeue()
     #
     # cq.enqueue(6)
