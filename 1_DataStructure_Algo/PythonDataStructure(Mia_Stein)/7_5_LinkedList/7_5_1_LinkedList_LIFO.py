@@ -1,0 +1,2 @@
+class LinkedListLIFO(object):
+    class

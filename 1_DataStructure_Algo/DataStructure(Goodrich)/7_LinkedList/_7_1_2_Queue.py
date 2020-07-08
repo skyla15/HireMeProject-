@@ -17,8 +17,8 @@ class LinkedQueue(object):
 
     def __init__(self):
         """Create an empty queue"""
-        self._head = None
-        self._tail = None
+        self._head = None       # when dequeued, the head is dequeued
+        self._tail = None       # new_node is added to the tail
         self._size = 0
 
     def __len__(self):
@@ -27,14 +27,14 @@ class LinkedQueue(object):
 
     def is_empty(self):
         """Return True if queue is empty"""
-        return self._size() == 0
+        return self._size == 0
 
     def first(self):
         """Return the element at the front of the queue"""
         assert not self.is_empty(), 'Queue is empty'
         return self._head._element
 
-    def enequeue(self, e):
+    def enqueue(self, e):
         """Add an element to the back of queue"""
         new_node = self._Node(e, None)
         if self.is_empty():
@@ -54,3 +54,14 @@ class LinkedQueue(object):
             self._tail = None
         return answer
 
+    def display(self):
+        temp = self._tail
+        while temp != None:
+            print(temp._element)
+            temp = temp._next
+
+q = LinkedQueue()
+q.enqueue(1)
+q.enqueue(2)
+q.enqueue(3)
+q.display()

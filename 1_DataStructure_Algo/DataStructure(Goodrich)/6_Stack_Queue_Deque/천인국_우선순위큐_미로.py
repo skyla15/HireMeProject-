@@ -66,7 +66,6 @@ def isValidPos(x, y, map):
     if map[y][x] == '0'  or map[y][x] == 'x':
         return True
 
-
 def priority_search(map):
     q = PriorityQ()
     here = ( -dist(0,1), 0, 1)

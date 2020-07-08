@@ -1,9 +1,8 @@
 '''
 A Round-Robin scheduler can be implemented with th general queue ADT,
 by repeatedly performing the following steps on queue Q
-1. e = Q.dequeue()
-2. Service element e
-3. Q.enequeue(e)
+
+There is no need to keep track of the head since the next node of the tail references the head of the linked list 
 '''
 
 class CircularQueue(object):
@@ -39,6 +38,16 @@ class CircularQueue(object):
         head = self._tail._next
         return head._element
 
+    def enqueue(self, e):
+        new_node = self._Node(e, None)
+        if self.is_empty():
+            new_node._next = new_node   # if the queue is empty, add a new_node
+        else:
+            new_node._next = self._tail._next       # self._tail._next = head
+            self._tail._next = new_node
+        self._tail = new_node
+        self._size += 1
+
     def dequeue(self):
         '''
         Remove and return the first element of the queue
@@ -52,16 +61,6 @@ class CircularQueue(object):
             self._tail = oldhead._next
         self._size -= 1
         return oldhead._element
-
-    def enqueue(self, e):
-        newest = self._Node(e, None)
-        if self.is_empty():
-            newest._next = newest
-        else:
-            newest._next = self._tail._next
-            self._tail._next = newest
-        self._tail = newest
-        self._size += 1
 
     def rotate(self):
         '''
