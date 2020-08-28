@@ -139,17 +139,8 @@ def solution19(phone_number):
 
 # K번째 수
 def solution20(array, commands):
-    answer = list()
-    if len(array) == 1:
-        return array
-
-    for k in range(len(commands)):
-        com = commands[k]
-        a, b, c = com[0], com[1], com[2]
-        if a != b:
-            answer.append(sorted(array[a - 1:b])[c - 1])
-        else:
-            answer.append(array[a - 1])
+    for a, b, c in commands:
+        answer.append(sorted(array[a - 1:b])[c - 1])
     return answer
 
 
@@ -188,3 +179,53 @@ def solution23(answers):
             answer.append(i + 1)
 
     return answer
+
+
+# 완주하지 못한 선수 
+# time complextiy with 'in' operator is O(N), 
+# if used, the worst time complexity would be O(n^2) which is not the goal of this problem.
+# Here, you have to use the data structure 'hash' which is already implented in Python as dictionary.
+# With dictionary, you can reach each element with time complexity of O(n).
+
+def solution(participant, completion):
+    hash = {}
+    for p in participant:
+        if p in hash:
+            hash[p] += 1
+        else:
+            hash[p] = 1
+            
+    for c in completion:
+        if c in hash:
+            hash[c] -= 1
+            if hash[c] == 0:
+                del hash[c]
+            
+
+# 2016
+def solution(a, b):
+    month = [0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30] # 1~ 11
+    day = ['THU', 'FRI', 'SAT', 'SUN', 'MON', 'TUE', 'WED']
+    mon = 0
+    for i in range(a):
+        mon += month[i]
+    days = mon + b    
+    
+    return day[days%7]
+    return list(hash.keys())[0]
+
+
+# 소수찾기 
+# "에라토스테네스의 체"
+
+import math
+
+def is_prime(x):
+    for i in range(1, int(math.sqrt(x))):
+        if x % i == 0 or x == 1:
+            return False
+        
+    return True
+
+def solution(n):
+    return len([x for x in range(1,n+1) if is_prime(x)])
