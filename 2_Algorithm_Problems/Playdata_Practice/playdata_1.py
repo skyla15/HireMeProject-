@@ -129,16 +129,16 @@ def solution17(n):
     return int(''.join(sorted(str(n), reverse = True)))
 
 # 자연수 뒤집어 배열로 만들기
-def solution(n):
+def solution18(n):
     return [int(x) for x in str(n)[::-1]]
 
 # 핸드폰 번호 가리기
-def solution(phone_number):
+def solution19(phone_number):
     l = len(list(phone_number))
     return '*' * (l-4) + str(phone_number)[l-4:]
 
 # K번째 수
-def solution(array, commands):
+def solution20(array, commands):
     answer = list()
     if len(array) == 1:
         return array
@@ -154,12 +154,12 @@ def solution(array, commands):
 
 
 # 하샤드 수
-def solution(x):
+def solution21(x):
     return x % sum([int(x) for x in str(x)]) == 0
 
 
 # 나누어 떨어지는 숫자배열
-def solution(arr, divisor):
+def solution22(arr, divisor):
     answer = [x for x in arr if x % divisor == 0]
     if len(answer) == 0:
         return [-1]
@@ -167,7 +167,7 @@ def solution(arr, divisor):
 
 
 # 모의고사
-def solution(answers):
+def solution23(answers):
     temp = list()
     answer = list()
     a1 = [1, 2, 3, 4, 5]
