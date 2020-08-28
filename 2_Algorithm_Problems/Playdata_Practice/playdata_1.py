@@ -128,3 +128,63 @@ def solution16(s):
 def solution17(n):
     return int(''.join(sorted(str(n), reverse = True)))
 
+# 자연수 뒤집어 배열로 만들기
+def solution(n):
+    return [int(x) for x in str(n)[::-1]]
+
+# 핸드폰 번호 가리기
+def solution(phone_number):
+    l = len(list(phone_number))
+    return '*' * (l-4) + str(phone_number)[l-4:]
+
+# K번째 수
+def solution(array, commands):
+    answer = list()
+    if len(array) == 1:
+        return array
+
+    for k in range(len(commands)):
+        com = commands[k]
+        a, b, c = com[0], com[1], com[2]
+        if a != b:
+            answer.append(sorted(array[a - 1:b])[c - 1])
+        else:
+            answer.append(array[a - 1])
+    return answer
+
+
+# 하샤드 수
+def solution(x):
+    return x % sum([int(x) for x in str(x)]) == 0
+
+
+# 나누어 떨어지는 숫자배열
+def solution(arr, divisor):
+    answer = [x for x in arr if x % divisor == 0]
+    if len(answer) == 0:
+        return [-1]
+    return sorted(answer)
+
+
+# 모의고사
+def solution(answers):
+    temp = list()
+    answer = list()
+    a1 = [1, 2, 3, 4, 5]
+    a2 = [2, 1, 2, 3, 2, 4, 2, 5]
+    a3 = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5]
+    supo1, supo2, supo3 = list(), list(), list()
+    for i in range(len(answers)):
+        supo1.append(a1[i % 5] - answers[i])
+        supo2.append(a2[i % 8] - answers[i])
+        supo3.append(a3[i % 10] - answers[i])
+
+    temp.append(supo1.count(0))
+    temp.append(supo2.count(0))
+    temp.append(supo3.count(0))
+
+    for i in range(3):
+        if temp[i] == max(temp):
+            answer.append(i + 1)
+
+    return answer
