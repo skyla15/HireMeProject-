@@ -199,6 +199,7 @@ def solution(participant, completion):
             hash[c] -= 1
             if hash[c] == 0:
                 del hash[c]
+    return list(hash.keys())[0]
             
 
 # 2016
@@ -211,7 +212,6 @@ def solution(a, b):
     days = mon + b    
     
     return day[days%7]
-    return list(hash.keys())[0]
 
 
 # 소수찾기 
