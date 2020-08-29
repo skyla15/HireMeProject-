@@ -277,3 +277,16 @@ def solution(s, n):
     return answer
             
 
+# 비밀지도 
+# format, bin 등.. => 진법 변환 공부하기.
+def solution(n, arr1, arr2):
+    secret_map = list()
+    for k in range(n): 
+        secret_map.append(format((arr1[k] | arr2[k]), 'b'))
+
+    for i in range(n):
+        if len(format(secret_map[i])) < n:
+            secret_map[i] = '0' * ( n - len(secret_map[i]) ) + secret_map[i]
+        secret_map[i] = ''.join(['#' if x == '1' else ' ' for x in secret_map[i]])
+    return secret_map
+
