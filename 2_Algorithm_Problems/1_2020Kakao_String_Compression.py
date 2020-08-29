@@ -1,3 +1,6 @@
+# 병신같이 풀었음
+# 다시 풀어야됨 
+
 def getSplitGroup(s,i) :
     idx = 0
     split_group = []
