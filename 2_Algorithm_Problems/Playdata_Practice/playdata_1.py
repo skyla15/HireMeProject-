@@ -303,3 +303,6 @@ def solution(n, arr1, arr2):
         secret_map[i] = ''.join(['#' if x == '1' else ' ' for x in secret_map[i]])
     return secret_map
 
+
+# 심심해서 풀어보는 문제 - [카카오 인턴] 키패드 누르기. 
+# https://programmers.co.kr/learn/courses/30/lessons/67256
