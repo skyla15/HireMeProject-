@@ -304,7 +304,7 @@ def solution(n, arr1, arr2):
     return secret_map
 
 
-# 심심해서 풀어보는 문제 - [카카오 인턴] 키패드 누르기. 
+# 심심해서 풀어보는 문제 - [카카오 인턴] 키패드 누르기 / O(n) 풀이, 30분 
 # https://programmers.co.kr/learn/courses/30/lessons/67256
 from collections import deque
 
