@@ -2,18 +2,22 @@
 def solution(a, b):
     return sum(range(min(a,b),max(a,b)+1))
 
+
 # 수박수박수박수박수?
 def solution(n):
     subak = '수박'
     return ''.join([subak[k%2] for k in range(n)])
 
+
 # 서울에서 김서방 찾기
 def solution(seoul):
     return ''.join(['김서방은 ', str(seoul.index('Kim')), '에 있다'])
 
+
 # 약수의 합
 def solution(n):
     return sum([k for k in range(1, n+1) if n % k == 0])
+
 
 # 문자열 내 p와 y의 개수
 def solution(s):
@@ -21,15 +25,14 @@ def solution(s):
     y = len([x for x in s.lower() if x == 'y'])
     return p == y
 
+
 # 같은 숫자는 싫어
 def solution(arr):
     answer = []
     m, n = 0, 1
-
     if len(arr) == 1 or len(arr) == 2:
         answer = arr
         return answer
-
     for _ in range(len(arr) - 1):
         if arr[m] != arr[n]:
             answer.append(arr[m])
@@ -38,9 +41,9 @@ def solution(arr):
     answer.append(arr[n - 1])
     return answer
 
+
 # 가운데 글자 가져오기
 def solution(s):
-    answer = ''
     if len(s) == 1:
         return s
     elif len(s) % 2 == 0:
@@ -48,6 +51,7 @@ def solution(s):
     else:
         return s[len(s)//2]
 
+    
 # x만큼 간격이 있는 n개의 숫자
 def solution(x, n):
     answer = []
@@ -55,6 +59,7 @@ def solution(x, n):
         answer.append(x + i * x)
 
     return answer
+
 
 # 직사각형 별찍기
 def solution(a, b)
@@ -64,9 +69,11 @@ def solution(a, b)
             print('*', end='')
         print()
 
+        
 # 평균 구하기
 def solution(arr):
     return sum(arr)/len(arr)
+
 
 # 행렬의 덧셈
 import numpy as np
@@ -79,10 +86,12 @@ def solution(arr1, arr2):
             answer2[m][n] = arr1[m][n] + arr2[m][n]
     return answer2
 
+
 # 짝수와 홀수
 def solution(num):
     a = ['Even', 'Odd']
     return a[num%2]
+
 
 # 자릿수 더하기
 def solution(n):
@@ -91,6 +100,7 @@ def solution(n):
     for i in range(l):
         answer += int(str(n)[i])
     return answer
+
 
 # 최대공약수와 최소공배수
 def solution(n, m):
@@ -108,6 +118,7 @@ def solution(n, m):
 
     return [gcd1, n * m // gcd1]
 
+
 # 정수 제곱근 판별
 import math
 def solution(n):
@@ -116,6 +127,7 @@ def solution(n):
         return (sq+1) ** 2
     return -1
 
+
 # 문자열 다루기 기본
 def solution(s):
     if len(s) == 4 or len(s) == 6:
@@ -123,18 +135,22 @@ def solution(s):
             return True
     return False
 
+
 # 정수 내림차순으로 배치하기
 def solution(n):
     return int(''.join(sorted(str(n), reverse = True)))
+
 
 # 자연수 뒤집어 배열로 만들기
 def solution(n):
     return [int(x) for x in str(n)[::-1]]
 
+
 # 핸드폰 번호 가리기
 def solution(phone_number):
     l = len(list(phone_number))
     return '*' * (l-4) + str(phone_number)[l-4:]
+
 
 # K번째 수
 def solution(array, commands):
@@ -185,7 +201,6 @@ def solution(answers):
 # if used, the worst time complexity would be O(n^2) which is not the goal of this problem.
 # Here, you have to use the data structure 'hash' which is already implented in Python as dictionary.
 # With dictionary, you can reach each element with time complexity of O(n).
-
 def solution(participant, completion):
     hash = {}
     for p in participant:
