@@ -229,19 +229,16 @@ def solution(n):
     return len([x for x in range(2, n + 1) if a[x] == False])
 
 
-# 예산 - 그리디 / DFS
+# 예산
 #1 그리디 
 def solution(d, budget):
     answer = 0
     d.sort()
     while len(d) > 0:
         budget -= d.pop(0)
-        print(budget)
         if budget < 0:
             break;
         else:
             answer += 1
     return answer
-
-#2 DFS .... 
 
