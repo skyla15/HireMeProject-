@@ -259,10 +259,10 @@ def solution(d, budget):
 
 # 체육복 
 def solution(n, lost, reserve):
-    reserves = [x for x in reserve if x not in lost]
+    reserve = [x for x in reserve if x not in lost]
     lost = [x for x in lost if x not in reserve]
 
-    for r in reserves:
+    for r in reserve:
         if r - 1 in lost:
             lost.remove(r - 1)
         elif r + 1 in lost:
@@ -306,8 +306,6 @@ def solution(n, arr1, arr2):
 
 # 심심해서 풀어보는 문제 - [카카오 인턴] 키패드 누르기 / O(n) 풀이, 30분 
 # https://programmers.co.kr/learn/courses/30/lessons/67256
-from collections import deque
-
 def solution(numbers, hand):
     answer = ''
     keyboard = { 
@@ -325,38 +323,38 @@ def solution(numbers, hand):
         '#' : (3,2)}
     
     # distance = |low index1 - low index2| + |col index1 - col index2|
-    r_deque, l_deque = deque(), deque()
-    l_deque.append('*')
-    r_deque.append('#')
+    r_stack, l_stack = list(), list()
+    l_stack.append('*')
+    r_stack.append('#')
     for n in numbers:
         left_distance = 0
         right_distance = 0
         if n in [1,4,7]:
             answer += 'L'
-            l_deque.append(n)
+            l_stack.append(n)
         elif n in [3,6,9]:
             answer += 'R'
-            r_deque.append(n)
+            r_stack.append(n)
         elif n in [2,5,8,0]:
-            l = l_deque[-1]
-            r = r_deque[-1] 
-            print(l, r)
+            l = l_stack[-1]
+            r = r_stack[-1] 
+            
             for i in range(2):
                 left_distance += abs(keyboard[l][i] - keyboard[n][i])
                 right_distance += abs(keyboard[r][i] - keyboard[n][i])
-            print(left_distance, right_distance)
+                
             if left_distance > right_distance:
                 answer += 'R'
-                r_deque.append(n)
+                r_stack.append(n)
             elif left_distance < right_distance:
                 answer += 'L'
-                l_deque.append(n)
+                l_stack.append(n)
             elif left_distance == right_distance:
                 if hand == 'right':
                     answer += 'R'
-                    r_deque.append(n)
+                    r_stack.append(n)
                 elif hand == 'left':
                     answer += 'L'
-                    l_deque.append(n)                   
+                    l_stack.append(n)                   
         
     return answer
