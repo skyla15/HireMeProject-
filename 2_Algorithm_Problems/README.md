@@ -1,4 +1,4 @@
-# Algorithm_Practice
+# LV2
 1. 카카오 2020 공채 문제(문자열압축) : https://programmers.co.kr/learn/courses/30/lessons/60057
 2. 카카오 2019 겨울 인턴쉽(인형뽑기) : https://programmers.co.kr/learn/courses/30/lessons/64061
 3. Summer/Winter Coding(~2018) : https://programmers.co.kr/learn/courses/30/lessons/49993
@@ -7,8 +7,8 @@
 6. lv2_탑 : https://programmers.co.kr/learn/courses/30/lessons/42588
 
 
-# 플레이데이터 학원 연습문제 
-#### <알고리즘 1단계>
+# LV1
+#### 플레이데이터 학원 연습문제 
 * [01. 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 * [02. 수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
 * [03. 서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
