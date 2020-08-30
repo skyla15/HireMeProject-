@@ -1,12 +1,10 @@
 from collections import deque
 
-
 def updown_count(c):
     if ord(c) >= 79:
         return ord('Z') - ord(c) + 1
     else:
         return ord(c) - 65
-
 
 def solution(name):
     non_a_deque = deque()
@@ -63,14 +61,14 @@ def solution(name):
                 current_index -= 1
             non_a_deque.pop()
             current_index += 1
-
     answer -= 1
     return answer
 
 
-# print('answer : ', solution('ABABA'))
-print(solution('JAN'))  # 23
-print(solution('JEROEN'))  # 56
+# 테스트케이스
+print('answer : ', solution('ABAAAAAABA'))
+print('answer : ', solution('JAN'))  # 23
+print('answer : ', solution('JEROEN'))  # 56
 
 '''
 # 11번 케이스 안돌아감 -> 좌우 계속 비교하면서 이동해야됨. 단 방향 이동 안됨 
