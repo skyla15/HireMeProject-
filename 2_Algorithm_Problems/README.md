@@ -6,6 +6,7 @@
 5. 멀쩡한 사각형 : https://programmers.co.kr/learn/courses/30/lessons/62048 << 유클리드 호제법 사용안할 시 시간초과, 다른 사람들은 공식사용 >>
 6. lv2_탑 : https://programmers.co.kr/learn/courses/30/lessons/42588
 7. ★전화번호목록 : https://programmers.co.kr/learn/courses/30/lessons/42577 [ 해쉬, trie ]
+8. 조이스틱 : https://programmers.co.kr/learn/courses/30/lessons/42860 [ 문제 아주 개같음, 그리디 양방향 ]
 
 
 # LV1
