@@ -258,14 +258,14 @@ def solution(d, budget):
 
 
 # 체육복 
-def solution(n, lost, reserve):
-    reserve = [x for x in reserve if x not in lost]
-    lost = [x for x in lost if x not in reserve]
+def solution(n, lost, reserves):
+    reserve = [x for x in reserves if x not in lost]
+    lost = [x for x in lost if x not in reserves]
 
-    for r in reserve:
-        if r - 1 in lost:
+    for reserve in reserves:
+        if reserve - 1 in lost:
             lost.remove(r - 1)
-        elif r + 1 in lost:
+        elif reserve + 1 in lost:
             lost.remove(r + 1) 
             
     return n - len(lost)
@@ -293,7 +293,7 @@ def solution(s, n):
             
 
 # 비밀지도 
-# format, bin 등.. => 진법 변환 공부하기.
+# format, bin : 반환값 string
 def solution(n, arr1, arr2):
     secret_map = list()
     for i in range(n):
