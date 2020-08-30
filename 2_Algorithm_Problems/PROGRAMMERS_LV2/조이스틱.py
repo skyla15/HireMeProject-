@@ -1,8 +1,6 @@
-# 테스트케이스 11번 안됨
 '''
-    이동하면서 좌쪽 이동, 오른쪽 이동 계속 연산 필요
+     조건 조금만 수정하면 답 나올 것 같음
 '''
-
 from collections import deque
 
 def updown_count(c):
@@ -83,6 +81,7 @@ print('answer : ', solution('ABAAAABB'))
 
 '''
 # 11번 케이스 안돌아감 -> 좌우 계속 비교하면서 이동해야됨. 단 방향 이동 안됨 
+# 위 코드로 새로 제출중.. 
 from collections import deque
 
 def solution(name):
