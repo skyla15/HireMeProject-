@@ -29,10 +29,13 @@ def solution(name):
     while non_a_deque:
         mostleft = non_a_deque[0]
         mostright = non_a_deque[-1]
-
-        # 오른쪽으로 이동
         print(non_a_deque)
+
+        # 오른쪽으로 이동 할 때 가장 왼쪽에 있는 A가 아닌 문자와 현재의 거리 <= 왼쪽으로 이동할 때 가장 오른쪽에 있는 A가 아닌 문자까지 거리
+        # 참일 경우 오른쪽으로 이동
         if mostleft - current_index <= len(name) - mostright + current_index:
+            # 왼쪽이나 오른쪽으로 한 번 이동 후 다시 들어왔을 경우, 반복문에서 나가면서 제자리 위치해준 숫자들 원위치
+            # 하지만 계속해서 왼쪽 혹은 오른쪽으로 이동 시, 다음 인덱스(현재 +1 혹은 현재 - 1)에서 시작해야하기에 아래와 같이 플래그를 달아줌
             if left_flag == True or right_flag == True:
                 current_index += 1
             right_flag = True
@@ -44,7 +47,9 @@ def solution(name):
                 # print(name[current_index], 'current index : ', current_index, ' answer : ', answer)
                 visited.append(current_index)
                 current_index += 1
+            # 오른쪽으로 이동 시 이동 완료 후에 현재 인덱스 + 1, 따라서 현재 인덱스를 유지하기 위해서 -1
             current_index -= 1
+            # 가장 왼쪽에 있는 A가 아닌 문자까지 이동하였으로, 현재 거리부터 다음 A가 아닌 문자까지의 거리를 계산하기 위해서 가장 왼쪽의 문자 인덱스 pop
             non_a_deque.popleft()
         # 왼쪽으로 이동
         else:
@@ -61,6 +66,7 @@ def solution(name):
                 current_index -= 1
             non_a_deque.pop()
             current_index += 1
+    # 처음 시작지점에서 더해진 1 다시 빼주고 답안 제출
     answer -= 1
     return answer
 
