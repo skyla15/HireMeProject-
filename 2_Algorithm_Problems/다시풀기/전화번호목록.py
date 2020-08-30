@@ -4,6 +4,7 @@
 ## 트라이 접목 문제 : https://www.crocus.co.kr/1053
 
 # 답안 : https://deepwelloper.tistory.com/128
+# 깊은 복사, 얕은 복사 활용
 _end = '_end'
 def trie(words):
     root = dict()
