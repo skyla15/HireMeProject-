@@ -1,3 +1,4 @@
+'''
 from collections import deque
 
 def updown_count(c):
@@ -83,7 +84,6 @@ print('answer : ', solution('JEROEN'))  # 56
 
 
 
-'''
 # 잘못 풀었음 
 # 11번 케이스 안돌아감 -> 좌우 계속 비교하면서 이동해야됨. 단 방향 이동 안됨 
 from collections import deque
