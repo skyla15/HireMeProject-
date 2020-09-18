@@ -10,7 +10,7 @@ Trend these days is
 > 3) Data Engineers who maily work with data engineering   
 + __ML Engineer__ : They work with models in specific domains(Computer Vision, Natural Language Process) and _apply these models to products. 
 + __Data Scientist__ : Mainly focus on theretical study in R&D department. Deep and profound knowledge of stastics is needed. They also do the works that __ML engineers__(Design, Modify models, develope additional models) do 
-+ There are also other careers that I can follow such as Gross Hacker(Focusing on self-development more than on product using queries), Data Visualizers(Not many positions open in the market)
++ There are also other careers that I can follow such as Groth Hacker(Focusing on self-development more than on product using queries), Data Visualizers(Not many positions open in the market)
 
 ___
 
