@@ -9,7 +9,7 @@ Trend these days is
 > 2) Data Engineers with knowledge of ML/DL  
 > 3) Data Engineers who maily work with data engineering   
 + __ML Engineer__ : They work with models in specific domains(Computer Vision, Natural Language Process) and _apply these models to products. 
-+ __Data Scientist__ : Mainly focus on theretical study in R&D department. Deep and profound knowledge of stastics is needed. They also do the works that __ML engineers__(Design, Modify models, develope additional models) do 
++ __Data Scientist__ : Mainly focus on theoretical study in R&D department. Deep and profound knowledge of statistics is needed. They also do the works that __ML engineers__(Design, Modify models, develope additional models) do 
 + There are also other careers that I can follow such as Groth Hacker(Focusing on self-development more than on product using queries), Data Visualizers(Not many positions open in the market)
 
 ___
@@ -202,13 +202,3 @@ __Mock Interviews:__
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
 
 ___
-
-For Practical Practices  
-
-- 장고 / 데이터분석 시각화 연습 / 랜더링 페이지 및 대시보드 
-
-  - [**Django, 데이터 분석, 프론트엔드까지 내 손으로 만드는 페이스북 클론 강의** ]( https://www.inflearn.com/course/페이스북-풀스택-클론-웹개발)
-    - conetents : 파이썬으로 만드는 프론트 엔드와 백엔드 기초 
-
-  - [파이썬 데이터시각화 분석 실전 프로젝트](https://www.inflearn.com/course/파이썬-데이터-시각화-프로젝트#)
-    - 파이썬을 이용한 데이터 시각화 기초 프로젝트 
