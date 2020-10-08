@@ -202,3 +202,8 @@ __Mock Interviews:__
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
 
 ___
+
+
+
+__Amazon Dataset__ 
+- http://jmcauley.ucsd.edu/data/amazon/
